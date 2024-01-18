@@ -1,0 +1,40 @@
+import parse
+
+# EXAMPLE QUERIES
+    # https://twitter.com/search?q=(%22iron%20man%22%20OR%20%22Iron%20Man%22)
+    # https://twitter.com/search?q=(from%3Anba)&src=typed_query
+    # https://twitter.com/search?f=top&q=mlk%20(from%3Anfl%20OR%20from%3Anba)&src=typed_query
+    # https://twitter.com/search?f=top&q=(%23gsw)%20lang%3Aen&src=typed_query
+    # https://twitter.com/search?f=top&q=(%40nba)&src=typed_query
+
+    # https://twitter.com/search?f=top&q=until:2023-09-01%20since:2023-07-04&src=typed_query
+    # until:2023-09-01 since:2023-07-04
+
+def query_builder(**kwargs) -> str:
+    # Initializing Query Parameters
+    keyword         = "";       hash_tags       = "";
+    from_account    = "";       language        = "";
+    to_account      = "";       start_date      = "";
+    exact_phrase    = "";       end_date        = "";
+    any_phrase      = "";
+
+
+    if (kwargs.get('keyword') != None): keyword = parse.combine_words(kwargs.get('keyword'))
+    if (kwargs.get('from_account') != None): from_account = parse.combine_words(kwargs.get('from_account'))
+    if (kwargs.get('to_account') != None): to_account = parse.combine_words(kwargs.get('to_account'))
+    if (kwargs.get('exact_phrase') != None): exact_phrase = parse.combine_words(kwargs.get('exact_phrase'), method="AND")
+    if (kwargs.get('any_phrase') != None): any_phrase = parse.combine_words(kwargs.get('any_phrase'), method="OR")
+    if (kwargs.get('hash_tags') != None): hash_tags = parse.hash_tags(kwargs.get('any_phrase'))
+    if (kwargs.get('language') != None): language = parse.combine_words('language')
+    if (kwargs.get('start_date') != None):
+        return
+    if (kwargs.get('end_date') != None):
+        return
+
+
+
+    query = f"https//twitter.com/search?q={keyword}{from_account}{to_account}\
+        {exact_phrase}{any_phrase}{hash_tags}{language}{start_date}{end_date}src=typed_query"
+
+
+    return query
