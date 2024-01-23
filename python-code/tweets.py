@@ -20,7 +20,10 @@ def retrieve_tweets() -> list:
         # enable background request intercepting:
         page.on("response", intercept_response)
         # go to url and wait for the page to load
-        page.goto("")
+        
+        page.goto("https://twitter.com/home")
+        href_element = page.wait_for_selector("a")
+        print(href_element)
         page.wait_for_selector("[data-testid='tweet']")
 
     return res
