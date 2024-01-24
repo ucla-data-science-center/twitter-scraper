@@ -1,31 +1,20 @@
-from playwright.sync_api import sync_playwright
+import asyncio
+import signin
+from playwright.async_api import async_playwright
 
-def retrieve_tweets() -> list:
-    res = []
 
-    _xhr_calls = []
+async def my_async_function():
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=False)
+        context = await browser.new_context()
 
-    def intercept_response(response):
-        """capture all background requests and save them"""
-        # we can extract details from background requests
-        if response.request.resource_type == "xhr":
-            _xhr_calls.append(response)
-        return response
+        # GOTO Twitter.com
+        page = await context.new_page()
+        await page.goto('https://twitter.com/home')
+     
+        await signin.sign_in(page, context)
 
-    with sync_playwright() as pw:
-        browser = pw.chromium.launch(headless=False)
-        context = browser.new_context(viewport={"width": 1920, "height": 1080})
-        page = context.new_page()
+        await context.close()
 
-        # enable background request intercepting:
-        page.on("response", intercept_response)
-        # go to url and wait for the page to load
-        
-        page.goto("https://twitter.com/home")
-        href_element = page.wait_for_selector("a")
-        print(href_element)
-        page.wait_for_selector("[data-testid='tweet']")
-
-    return res
-
-retrieve_tweets()
+# Run the asynchronous function
+asyncio.run(my_async_function())
