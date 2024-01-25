@@ -1,5 +1,6 @@
 import asyncio
 import signin
+import time
 from playwright.async_api import async_playwright
 import tkinter as tk
 
@@ -16,30 +17,20 @@ async def my_async_function():
 
         links = []
 
-        # for li in await page.get_by_role('listitem').all():
-        #     await li.click();
+        for i in range(20):
+            get_links = await page.query_selector_all('[aria-label="Share post"]')
+            for get_link in get_links:
+                await get_link.click()
+                await page.get_by_text("Copy link").click()
+                root = tk.Tk()
+                # keep the window from showing
+                root.withdraw()
+                # read the clipboard
+                c = root.clipboard_get()
+                print(c)
 
-        sup = await page.get_by_label("Share post").all()
-
-        # aria-label="Share post"
-
-        print(len(sup))
-
-        get_link = await page.wait_for_selector('[aria-label="Share post"]')
-        await get_link.click()
-
-        await page.get_by_text("Copy link").click()
-
-        # print(get_link)
-
-        root = tk.Tk()
-        # keep the window from showing
-        root.withdraw()
-
-        # read the clipboard
-        c = root.clipboard_get()
-
-        # print(c)
+            page.mouse.wheel(0, 500)
+            time.sleep(3)
 
         input("Press Enter to close the browser...")
 
