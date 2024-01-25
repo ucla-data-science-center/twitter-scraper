@@ -44,9 +44,3 @@ async def sign_in(page, context):
         # Choose Account
         final_click = await new_page.wait_for_selector('[aria-labelledby="picker-item-label-0"]')
         await final_click.click()
-
-        # Keep the browser open for manual manipulation
-        input("Press Enter to close the browser...")
-        # Close the browser context when done
-
-        await new_page.close()
