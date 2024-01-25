@@ -20,14 +20,16 @@ async def my_async_function():
         for i in range(20):
             get_links = await page.query_selector_all('[aria-label="Share post"]')
             for get_link in get_links:
-                await get_link.click()
-                await page.get_by_text("Copy link").click()
-                root = tk.Tk()
-                # keep the window from showing
-                root.withdraw()
-                # read the clipboard
-                c = root.clipboard_get()
-                print(c)
+                if (get_link.is_visible()):
+                    await get_link.hover()
+                    await get_link.click()
+                    await page.get_by_text("Copy link").click()
+                    root = tk.Tk()
+                    # keep the window from showing
+                    root.withdraw()
+                    # read the clipboard
+                    c = root.clipboard_get()
+                    print(c)
 
             page.mouse.wheel(0, 500)
             time.sleep(3)
@@ -38,3 +40,21 @@ async def my_async_function():
 
 # Run the asynchronous function
 asyncio.run(my_async_function())
+
+# https://x.com/EverythingOOC/status/1749896346646057227?s=20
+# https://x.com/ayeejuju/status/1750207385036317007?s=20
+# https://x.com/TweetsOfCats/status/1749948636924903934?s=20
+# https://x.com/s8n/status/1749990468165730731?s=20
+# https://x.com/EverythingOOC/status/1749896346646057227?s=20
+# https://x.com/ayeejuju/status/1750207385036317007?s=20
+# https://x.com/TweetsOfCats/status/1749948636924903934?s=20
+# https://x.com/s8n/status/1749990468165730731?s=20
+# https://x.com/historyinmemes/status/1750180154700382698?s=20
+# https://x.com/Yoda4ever/status/1750154075193450714?s=20
+# https://x.com/TheFigen_/status/1749787040722334073?s=20
+# https://x.com/interesting_aIl/status/1749658733032898962?s=20
+# https://x.com/Yoda4ever/status/1750154075193450714?s=20
+# https://x.com/TheFigen_/status/1749787040722334073?s=20
+# https://x.com/interesting_aIl/status/1749658733032898962?s=20
+# https://x.com/PicturesFoIder/status/1749751077061492911?s=20
+# https://x.com/Whotfismick/status/1750015580277539132?s=20
