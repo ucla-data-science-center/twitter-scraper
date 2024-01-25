@@ -4,19 +4,23 @@ import time
 from playwright.async_api import async_playwright
 import tkinter as tk
 
-async def my_async_function(url: str):
+async def my_async_function(url: str, sign_in: bool, context):
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)
-        context = await browser.new_context()
+        # browser = await p.chromium.launch(headless=False)
+        # context = await browser.new_context()
 
         # GOTO Twitter.com
         page = await context.new_page()
         await page.goto(url)
-     
-        await signin.sign_in(page, context)
-        time.sleep(2)
+
+        if sign_in:
+            await signin.sign_in(page, context)
+            time.sleep(2)
 
         await page.goto(url)
+
+        if not await page.get_by_text("No results").is_visible():
+            return
 
         links = set()
 
@@ -40,7 +44,7 @@ async def my_async_function(url: str):
         except:
             return links
  
-        await context.close()
+        # await context.close()
 
         return links
 

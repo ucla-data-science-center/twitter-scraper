@@ -47,4 +47,4 @@ def query_builder(**kwargs) -> str:
     query = f"https://twitter.com/search?q={keyword}{from_account}{to_account}\
         {exact_phrase}{any_phrase}{hash_tags}{language}{end_date}{start_date}&src=typed_query"
 
-    return query
+    return query.replace(" ", "")
