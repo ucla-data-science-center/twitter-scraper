@@ -1,31 +1,60 @@
-from playwright.sync_api import sync_playwright
+import asyncio
+import signin
+import time
+from playwright.async_api import async_playwright
+import tkinter as tk
 
-def retrieve_tweets() -> list:
-    res = []
+async def my_async_function():
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=False)
+        context = await browser.new_context()
 
-    _xhr_calls = []
+        # GOTO Twitter.com
+        page = await context.new_page()
+        await page.goto('https://twitter.com/home')
+     
+        await signin.sign_in(page, context)
 
-    def intercept_response(response):
-        """capture all background requests and save them"""
-        # we can extract details from background requests
-        if response.request.resource_type == "xhr":
-            _xhr_calls.append(response)
-        return response
+        links = []
 
-    with sync_playwright() as pw:
-        browser = pw.chromium.launch(headless=False)
-        context = browser.new_context(viewport={"width": 1920, "height": 1080})
-        page = context.new_page()
+        for i in range(20):
+            get_links = await page.query_selector_all('[aria-label="Share post"]')
+            for get_link in get_links:
+                if (get_link.is_visible()):
+                    await get_link.hover()
+                    await get_link.click()
+                    await page.get_by_text("Copy link").click()
+                    root = tk.Tk()
+                    # keep the window from showing
+                    root.withdraw()
+                    # read the clipboard
+                    c = root.clipboard_get()
+                    print(c)
 
-        # enable background request intercepting:
-        page.on("response", intercept_response)
-        # go to url and wait for the page to load
-        
-        page.goto("https://twitter.com/home")
-        href_element = page.wait_for_selector("a")
-        print(href_element)
-        page.wait_for_selector("[data-testid='tweet']")
+            page.mouse.wheel(0, 500)
+            time.sleep(3)
 
-    return res
+        input("Press Enter to close the browser...")
 
-retrieve_tweets()
+        await context.close()
+
+# Run the asynchronous function
+asyncio.run(my_async_function())
+
+# https://x.com/EverythingOOC/status/1749896346646057227?s=20
+# https://x.com/ayeejuju/status/1750207385036317007?s=20
+# https://x.com/TweetsOfCats/status/1749948636924903934?s=20
+# https://x.com/s8n/status/1749990468165730731?s=20
+# https://x.com/EverythingOOC/status/1749896346646057227?s=20
+# https://x.com/ayeejuju/status/1750207385036317007?s=20
+# https://x.com/TweetsOfCats/status/1749948636924903934?s=20
+# https://x.com/s8n/status/1749990468165730731?s=20
+# https://x.com/historyinmemes/status/1750180154700382698?s=20
+# https://x.com/Yoda4ever/status/1750154075193450714?s=20
+# https://x.com/TheFigen_/status/1749787040722334073?s=20
+# https://x.com/interesting_aIl/status/1749658733032898962?s=20
+# https://x.com/Yoda4ever/status/1750154075193450714?s=20
+# https://x.com/TheFigen_/status/1749787040722334073?s=20
+# https://x.com/interesting_aIl/status/1749658733032898962?s=20
+# https://x.com/PicturesFoIder/status/1749751077061492911?s=20
+# https://x.com/Whotfismick/status/1750015580277539132?s=20
