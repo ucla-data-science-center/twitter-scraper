@@ -1,9 +1,10 @@
 # PACKAGES
 from playwright.sync_api import sync_playwright
 import json
+import asyncio
 # HELPER FUNCTIONS
-import parse 
 import query
+import tweets
 
 def scrape_tweet(url: str) -> dict:
     """
@@ -52,11 +53,8 @@ def read_json(path: str) -> list:
     return res
 
 if __name__ == "__main__":
-    data = []
-    links = read_json('twitter-consultation/python-code/sample_data.json')
-
-    for i in links:
-        tweet = scrape_tweet(i)
-        data.append(tweet)
-    
-    print(data)
+    search_query = query.query_builder(keyword="nba")
+    loop = asyncio.get_event_loop()
+    links = loop.run_until_complete(tweets.my_async_function(search_query))
+    loop.close()
+    print(links)

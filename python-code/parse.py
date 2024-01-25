@@ -18,22 +18,28 @@ def dict_to_json(data: dict) -> json:
     json_object = json.dumps(data, indent=4)
     return json_object
 
-def combine_words(words: list or str, **kwargs) -> str:
+def combine_words(words: list or str, **kwargs) -> str or list:
     res = ""
     if type(words) == list:
+        res = []
         if (kwargs.get("method") == "OR" ):
             # FIXME
             for word in words:
-                res += parse.quote(word)
-                res += "OR"
+                parsed = parse.quote(word)
+                if (word != words[-1]):
+                    parsed += "OR"
+                res.append(parsed)
         elif (kwargs.get("method") == "AND"):
             # FIXME
             for word in words:
-                res += parse.quote(word)
-                res += "AND"
+                parsed += parse.quote(word)
+                if (word != words[-1]):
+                    parsed += "AND"
+                res.append(parsed)
         else:
             for word in words:
-                res += parse.quote(word)
+                res.append(parse.quote(word))
+        return res
     else:
         res += parse.quote(words)
     return res
