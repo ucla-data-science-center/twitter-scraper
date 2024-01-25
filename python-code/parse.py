@@ -1,6 +1,9 @@
 import json
 from urllib import parse
 
+months = ["January", "February", "March", "April", "May", "June", 
+          "July", "August", "September", "October", "November", "December"]
+
 def get_author(data: dict) -> str:
     core_data = data['core']
     
@@ -8,7 +11,15 @@ def get_author(data: dict) -> str:
 
     return ""
 
-
+def convert_to_date(date: str) -> str:
+    date = date.split()
+    month_number = 1
+    for i in months:
+        if i != date[0]:
+            month_number += 1
+        else:
+            break
+    return f"{date[2]}-{month_number}-{date[1].replace(',', '')}"
 
 def get_tweet(data: dict) -> str:
     legacy = data['legacy']

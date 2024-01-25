@@ -5,6 +5,7 @@ import asyncio
 # HELPER FUNCTIONS
 import query
 import tweets
+import parse
 
 def scrape_tweet(url: str) -> dict:
     """
@@ -46,15 +47,26 @@ def read_json(path: str) -> list:
     
     # Iterating through the json
     # list
-    for i in data['links']:
+    for i in data:
         res.append(i)
     # Closing file
     f.close()
     return res
 
 if __name__ == "__main__":
-    search_query = query.query_builder(keyword="nba")
-    loop = asyncio.get_event_loop()
-    links = loop.run_until_complete(tweets.my_async_function(search_query))
-    loop.close()
-    print(links)
+    movies = read_json("data/search.json")
+
+    for movie in movies:
+        keyword = movie["Movie"]
+        accounts = [i.replace("@", "") for i in movie["Twitter Accounts (that exist)"].split(", ")]
+        start_date = parse.convert_to_date(movie["Start Date"])
+        end_date = parse.convert_to_date(movie["End Date"])
+        search_query = query.query_builder(keyword=keyword, from_account=accounts, start_date=start_date, end_date=end_date)
+        search_query = query.query_builder(keyword="nba")
+        loop = asyncio.get_event_loop()
+        links = loop.run_until_complete(tweets.my_async_function(search_query))
+        links = [link.replace("'", '"') for link in links]
+        loop.close()
+        print(links)
+
+# print(read_json("data/search.json")[0])
