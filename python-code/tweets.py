@@ -1,4 +1,4 @@
-import asyncio
+# import asyncio
 import signin
 import time
 from playwright.async_api import async_playwright
@@ -8,7 +8,7 @@ async def my_async_function(url: str, sign_in: bool, context):
     async with async_playwright() as p:
         # browser = await p.chromium.launch(headless=False)
         # context = await browser.new_context()
-
+        links = set()
         # GOTO Twitter.com
         page = await context.new_page()
         await page.goto(url)
@@ -19,12 +19,9 @@ async def my_async_function(url: str, sign_in: bool, context):
 
         await page.goto(url)
 
-        if not await page.get_by_text("No results").is_visible():
-            return
-
-        links = set()
-
         try:
+            await page.get_by_text("Retry").click()
+            
             for i in range(20):
                 get_links = await page.query_selector_all('[aria-label="Share post"]')
                 for get_link in get_links:
@@ -40,12 +37,13 @@ async def my_async_function(url: str, sign_in: bool, context):
                         links.add(c)
 
                 await page.mouse.wheel(0, 500)
-                time.sleep(1)
+                time.sleep(2)
         except:
+            await page.close()
             return links
  
         # await context.close()
-
+        await page.close()
         return links
 
 # Run the asynchronous function

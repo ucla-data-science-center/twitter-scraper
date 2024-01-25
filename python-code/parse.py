@@ -4,13 +4,6 @@ from urllib import parse
 months = ["January", "February", "March", "April", "May", "June", 
           "July", "August", "September", "October", "November", "December"]
 
-def get_author(data: dict) -> str:
-    core_data = data['core']
-    
-
-
-    return ""
-
 def convert_to_date(date: str) -> str:
     date = date.split()
     month_number = 1
@@ -54,6 +47,3 @@ def combine_words(words: list or str, **kwargs) -> str or list:
     else:
         res += parse.quote(words)
     return res
-
-def hash_tags(str: list or str) -> str:
-    return ""
