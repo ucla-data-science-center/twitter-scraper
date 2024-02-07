@@ -20,7 +20,7 @@ async def my_async_function(url: str, sign_in: bool, context):
         await page.goto(url)
 
         try:
-            await page.get_by_text("Retry").click()
+            # await page.get_by_text("Retry").click()
             
             for i in range(20):
                 get_links = await page.query_selector_all('[aria-label="Share post"]')
