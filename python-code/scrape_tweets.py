@@ -5,12 +5,13 @@ import time
 
 file_name = "data.json"
 
-def append_json_to_file(json_obj, file_name):
+def append_json_to_file(json_obj):
     """Append a JSON object to a file."""
-    with open(file_name, 'a') as file:
+    with open("unordered.json", 'a') as file:
         # Convert JSON object to string and write it to file
         json_string = json.dumps(json_obj) + "\n"
         file.write(json_string)
+
 
 
 def scrape_tweet(url: str) -> dict:
@@ -37,7 +38,18 @@ def scrape_tweet(url: str) -> dict:
         page.on("response", intercept_response)
         # go to url and wait for the page to load
         page.goto(url)
+        
+        retry = page.get_by_text("Retry")
+
+        if (retry.is_visible()):
+            print("found")
+            retry.click()
+            time.sleep(0.5)
+        else:
+            print("here")
+
         page.wait_for_selector("[data-testid='tweet']")
+        
 
         # find all tweet background requests:
         tweet_calls = [f for f in _xhr_calls if "TweetResultByRestId" in f.url]
@@ -46,6 +58,6 @@ def scrape_tweet(url: str) -> dict:
             return data['data']['tweetResult']['result']
         
 if __name__ == "__main__":
-    links = ['https://x.com/officialavatar/status/12054153920?s=20', 'https://x.com/officialavatar/status/10778452708?s=20', 'https://x.com/officialavatar/status/6805509694?s=20', 'https://x.com/officialavatar/status/6781426419?s=20', 'https://x.com/officialavatar/status/8486876370?s=20', 'https://x.com/officialavatar/status/8209994844?s=20', 'https://x.com/zoesaldana/status/8011663628?s=20', 'https://x.com/officialavatar/status/12185902884?s=20', 'https://x.com/officialavatar/status/6902888147?s=20', 'https://x.com/officialavatar/status/11763790953?s=20', 'https://x.com/officialavatar/status/12539954551?s=20', 'https://x.com/officialavatar/status/7955319799?s=20', 'https://x.com/officialavatar/status/11374498628?s=20', 'https://x.com/officialavatar/status/11261878822?s=20', 'https://x.com/officialavatar/status/7724615625?s=20', 'https://x.com/officialavatar/status/9203144344?s=20', 'https://x.com/officialavatar/status/11044239072?s=20', 'https://x.com/officialavatar/status/8257005681?s=20', 'https://x.com/officialavatar/status/12291033821?s=20', 'https://x.com/officialavatar/status/11830775822?s=20', 'https://x.com/officialavatar/status/10559022683?s=20', 'https://x.com/officialavatar/status/11007315736?s=20', 'https://x.com/officialavatar/status/12587029399?s=20', 'https://x.com/officialavatar/status/6955752053?s=20', 'https://x.com/officialavatar/status/7895808052?s=20', 'https://x.com/zoesaldana/status/8635491416?s=20', 'https://x.com/officialavatar/status/11004195935?s=20', 'https://x.com/officialavatar/status/12239591600?s=20', 'https://x.com/officialavatar/status/12135170584?s=20', 'https://x.com/officialavatar/status/11487915455?s=20', 'https://x.com/officialavatar/status/8001601495?s=20', 'https://x.com/officialavatar/status/9388777246?s=20', 'https://x.com/officialavatar/status/12355130572?s=20', 'https://x.com/officialavatar/status/10952461506?s=20', 'https://x.com/officialavatar/status/12230436761?s=20', 'https://x.com/officialavatar/status/8334278736?s=20', 'https://x.com/officialavatar/status/10625125370?s=20', 'https://x.com/leonalewis/status/8028480766?s=20', 'https://x.com/officialavatar/status/7470732528?s=20', 'https://x.com/officialavatar/status/10731544338?s=20', 'https://x.com/officialavatar/status/11648175183?s=20']
+    links = []
     for link in links:
-        append_json_to_file(parse.dict_to_json(scrape_tweet(link)), file_name)
+        append_json_to_file(parse.dict_to_json(scrape_tweet(link)))

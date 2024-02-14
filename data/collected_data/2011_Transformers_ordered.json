@@ -1,0 +1,2273 @@
+[
+    {
+        "__typename": "Tweet",
+        "rest_id": "86128843768868865",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxOTM3MzcxMA==",
+                    "rest_id": "19373710",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Fri Jan 23 01:05:42 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "lprk.co/linkinpark",
+                                        "expanded_url": "http://lprk.co/linkinpark",
+                                        "url": "https://t.co/Opl8B4GNnn",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 2040,
+                        "followers_count": 5721458,
+                        "friends_count": 123,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 13125,
+                        "location": "Los Angeles, CA",
+                        "media_count": 1783,
+                        "name": "LINKIN PARK",
+                        "normal_followers_count": 5721458,
+                        "pinned_tweet_ids_str": ["1644189573436653568"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19373710/1676005661",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1623911549764263936/qOUxpHsk_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "linkinpark",
+                        "statuses_count": 6780,
+                        "translator_type": "regular",
+                        "url": "https://t.co/Opl8B4GNnn",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "unified_card": {
+            "card_fetch_state": "NoCard"
+        },
+        "edit_control": {
+            "edit_tweet_ids": ["86128843768868865"],
+            "editable_until_msecs": "1317679169197",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed Jun 29 17:48:11 +0000 2011",
+            "conversation_id_str": "86128843768868865",
+            "display_text_range": [0, 140],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "on.fb.me/jybxU4",
+                        "expanded_url": "http://on.fb.me/jybxU4",
+                        "url": "http://t.co/JtZYhQp",
+                        "indices": [121, 140]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 53,
+            "favorited": false,
+            "full_text": "Transformers: Dark of the Moon, featuring \"Iridescent,\" is in theaters everywhere today. Get showtimes and tickets here: http://t.co/JtZYhQp",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 40,
+            "retweet_count": 273,
+            "retweeted": false,
+            "user_id_str": "19373710",
+            "id_str": "86128843768868865"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "120973770788831232",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1662911702",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1686799165746796034/YPSrAG9j_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 4955,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": true,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "unified_card": {
+            "card_fetch_state": "NoCard"
+        },
+        "edit_control": {
+            "edit_tweet_ids": ["120973770788831232"],
+            "editable_until_msecs": "0",
+            "is_edit_eligible": false,
+            "edits_remaining": "0"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed Mar 09 18:18:54 +0000 2011",
+            "conversation_id_str": "120973770788831232",
+            "display_text_range": [0, 140],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Transformers",
+                        "indices": [0, 13]
+                    },
+                    {
+                        "text": "RiseOfTheBeasts",
+                        "indices": [15, 31]
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "paramnt.us/TransformersRO…",
+                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                        "url": "https://t.co/ibF5IAgP5B",
+                        "indices": [117, 140]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "full_text": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital! Get it here: https://t.co/ibF5IAgP5B",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 21,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "120973770788831232"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "82857552282517504",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["82857552282517504"],
+            "editable_until_msecs": "1308591554540",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon Jun 20 17:09:14 +0000 2011",
+            "conversation_id_str": "82857552282517504",
+            "display_text_range": [0, 117],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 6,
+            "favorited": false,
+            "full_text": "“TRANSFORMERS: DARK OF THE MOON” TO OPEN EXCLUSIVELY\nIN 3D AND IMAX AT 9PM ON TUESDAY, JUNE 28TH http://cot.ag/jcwWim",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 10,
+            "retweet_count": 68,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "82857552282517504"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "87641752592322560",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["87641752592322560"],
+            "editable_until_msecs": "1309068256737",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed Jun 08 16:15:13 +0000 2011",
+            "conversation_id_str": "87641752592322560",
+            "display_text_range": [0, 131],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 3,
+            "favorited": false,
+            "full_text": "Special 3D Trailer Event on May 12th for “TRANSFORMERS: DARK OF THE MOON” http://cot.ag/mgvyY1",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 47,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "87641752592322560"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "88302852476370945",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["88302852476370945"],
+            "editable_until_msecs": "1309889815275",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 2,
+            "bookmarked": false,
+            "created_at": "Tue Jul 05 17:46:55 +0000 2011",
+            "conversation_id_str": "88302852476370945",
+            "display_text_range": [0, 78],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 31,
+            "favorited": false,
+            "full_text": "Thank you for making Transformers: Dark of the Moon the #1 movie in the world!",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 57,
+            "retweet_count": 140,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "88302852476370945"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "67668403497877504",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["67668403497877504"],
+            "editable_until_msecs": "1304970179269",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon May 09 19:12:59 +0000 2011",
+            "conversation_id_str": "67668403497877504",
+            "display_text_range": [0, 118],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "full_text": "We know the robots are the main event, but which humans are you most excited to see in Transformers: Dark of the Moon?",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 20,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "67668403497877504"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "63715940080160768",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["63715940080160768"],
+            "editable_until_msecs": "1304027838557",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Thu Apr 28 21:27:18 +0000 2011",
+            "conversation_id_str": "63715940080160768",
+            "display_text_range": [0, 118],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [53, 66],
+                        "text": "Transformers"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "full_text": "You wanted it, you got it! Watch the new trailer for #Transformers Dark of the Moon on Apple NOW! http://bit.ly/f91Cbv",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 24,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "63715940080160768"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "83966959724658688",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["83966959724658688"],
+            "editable_until_msecs": "1308856057886",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitpic.com\" rel=\"nofollow\">Twitpic</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Thu Jun 23 18:37:37 +0000 2011",
+            "conversation_id_str": "83966959724658688",
+            "display_text_range": [0, 129],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [43, 56],
+                        "text": "TRANSFORMERS"
+                    },
+                    {
+                        "indices": [99, 103],
+                        "text": "TF3"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 4,
+            "favorited": false,
+            "full_text": "Shia LaBeouf attends the world premiere of #TRANSFORMERS: DARK OF THE MOON on June 23rd in Moscow! #TF3 http://twitpic.com/5fr27h",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 32,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "83966959724658688"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "70969821487038464",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["70969821487038464"],
+            "editable_until_msecs": "1305757298655",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed May 18 21:51:38 +0000 2011",
+            "conversation_id_str": "70969821487038464",
+            "display_text_range": [0, 85],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "full_text": "Check out the first clip from Transformers: Dark of the Moon! http://yhoo.it/tf3-clip",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 33,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "70969821487038464"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "72745194814062592",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxOTM3MzcxMA==",
+                    "rest_id": "19373710",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Fri Jan 23 01:05:42 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "lprk.co/linkinpark",
+                                        "expanded_url": "http://lprk.co/linkinpark",
+                                        "url": "https://t.co/Opl8B4GNnn",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 2040,
+                        "followers_count": 5721458,
+                        "friends_count": 123,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 13125,
+                        "location": "Los Angeles, CA",
+                        "media_count": 1783,
+                        "name": "LINKIN PARK",
+                        "normal_followers_count": 5721458,
+                        "pinned_tweet_ids_str": ["1644189573436653568"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19373710/1676005661",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1623911549764263936/qOUxpHsk_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "linkinpark",
+                        "statuses_count": 6780,
+                        "translator_type": "regular",
+                        "url": "https://t.co/Opl8B4GNnn",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["72745194814062592"],
+            "editable_until_msecs": "1306180580641",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon May 23 19:26:20 +0000 2011",
+            "conversation_id_str": "72745194814062592",
+            "display_text_range": [0, 140],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 45,
+            "favorited": false,
+            "full_text": "We'll be performing a free show in Moscow on June 23rd as part of the \"Transformers: Dark of the Moon\" world premiere. http://ning.it/ka4A7P",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 349,
+            "retweeted": false,
+            "user_id_str": "19373710",
+            "id_str": "72745194814062592"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "85962687070216192",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO…",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["85962687070216192"],
+            "editable_until_msecs": "1309194041614",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon Jun 27 16:30:41 +0000 2011",
+            "conversation_id_str": "85384566226960384",
+            "display_text_range": [0, 137],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "full_text": "Transformers: Dark of the Moon is almost here- SEE IT FIRST IN 3D TOMORROW NIGHT! Get tickets and showtimes at www.TransformersMovie.com.",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 1,
+            "reply_count": 13,
+            "retweet_count": 30,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "85384566226960384"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "85384566226960384",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO\u2026",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["85384566226960384"],
+            "editable_until_msecs": "1309194041614",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon Jun 27 16:30:41 +0000 2011",
+            "conversation_id_str": "85384566226960384",
+            "display_text_range": [0, 137],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "full_text": "Transformers: Dark of the Moon is almost here- SEE IT FIRST IN 3D TOMORROW NIGHT! Get tickets and showtimes at www.TransformersMovie.com.",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 1,
+            "reply_count": 13,
+            "retweet_count": 30,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "85384566226960384"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "70539630105198593",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO\u2026",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["70539630105198593"],
+            "editable_until_msecs": "1305654733037",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Tue May 17 17:22:13 +0000 2011",
+            "conversation_id_str": "70539630105198593",
+            "display_text_range": [0, 93],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 3,
+            "favorited": false,
+            "full_text": "44 days until Transformers: Dark of the Moon is in theaters! What are you most excited about?",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 17,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "70539630105198593"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "88671749310394368",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO\u2026",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["88671749310394368"],
+            "editable_until_msecs": "1309977767134",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed Jul 06 18:12:47 +0000 2011",
+            "conversation_id_str": "88671749310394368",
+            "display_text_range": [0, 88],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "full_text": "What was your favorite NEW thing in Transformers: Dark of the Moon (no spoilers please)?",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 142,
+            "retweet_count": 13,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "88671749310394368"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "85957270629924864",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO\u2026",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "unified_card": {
+            "card_fetch_state": "NoCard"
+        },
+        "edit_control": {
+            "edit_tweet_ids": ["85957270629924864"],
+            "editable_until_msecs": "1309330584984",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed Jun 29 06:26:24 +0000 2011",
+            "conversation_id_str": "85957270629924864",
+            "display_text_range": [0, 110],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [58, 71],
+                        "text": "Transformers"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "snurl.com/1561ep",
+                        "expanded_url": "http://snurl.com/1561ep",
+                        "url": "http://t.co/LQUqVYk",
+                        "indices": [91, 110]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 8,
+            "favorited": false,
+            "full_text": "Check out this photo gallery from today's NYC Premiere of #Transformers: Dark of the Moon! http://t.co/LQUqVYk",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 7,
+            "retweet_count": 32,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "85957270629924864"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "86545383165149185",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO\u2026",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["86545383165149185"],
+            "editable_until_msecs": "1309470801939",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Thu Jun 30 21:23:21 +0000 2011",
+            "conversation_id_str": "86545383165149185",
+            "display_text_range": [0, 136],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 3,
+            "favorited": false,
+            "full_text": "Can share your favorite part of Transformers: Dark of the Moon without spoilers? Like, \"I was so shocked when ___ turned out to be ___.\"",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 65,
+            "retweet_count": 12,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "86545383165149185"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "86110938943594497",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO...",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["86110938943594497"],
+            "editable_until_msecs": "1309367222365",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.telly.com\" rel=\"nofollow\">TellyApp</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed Jun 29 16:37:02 +0000 2011",
+            "conversation_id_str": "86110938943594497",
+            "display_text_range": [0, 137],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 14,
+            "favorited": false,
+            "full_text": "http://twitvid.com/NQJGV - Want to see Transformers in action? Check out this video, then see Transformers: Dark of the Moon in 3D today!",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 20,
+            "retweet_count": 52,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "86110938943594497"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "138707238603866112",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO...",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "unified_card": {
+            "card_fetch_state": "NoCard"
+        },
+        "edit_control": {
+            "edit_tweet_ids": ["138707238603866112"],
+            "editable_until_msecs": "1321907157396",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon Nov 21 19:55:57 +0000 2011",
+            "conversation_id_str": "138707238603866112",
+            "display_text_range": [0, 137],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "peopleschoice.com/pca/vote/voten...",
+                        "expanded_url": "http://www.peopleschoice.com/pca/vote/votenow.jsp",
+                        "url": "http://t.co/rbqLrNew",
+                        "indices": [117, 137]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "34993020",
+                        "name": "People's Choice",
+                        "screen_name": "peopleschoice",
+                        "indices": [94, 108]
+                    }
+                ]
+            },
+            "favorite_count": 6,
+            "favorited": false,
+            "full_text": "Transformers: Dark of the Moon is nominated for Favorite Movie & Favorite Action Movie in the @PeoplesChoice Awards! http://t.co/rbqLrNew",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 7,
+            "retweet_count": 37,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "138707238603866112"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "84430559392186370",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO...",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["84430559392186370"],
+            "editable_until_msecs": "1308966588660",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://www.exacttarget.com/social\" rel=\"nofollow\">SocialEngage</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Sat Jun 25 01:19:48 +0000 2011",
+            "conversation_id_str": "84430559392186370",
+            "display_text_range": [0, 107],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [89, 97],
+                        "text": "excited"
+                    },
+                    {
+                        "indices": [98, 107],
+                        "text": "cantwait"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 7,
+            "favorited": false,
+            "full_text": "At this time next Friday, how many of you will be seeing Transformers: Dark of the Moon? #excited #cantwait",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 53,
+            "retweet_count": 54,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "84430559392186370"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "85099032854265856",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyNTQyOTUyMjM=",
+                    "rest_id": "254295223",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/ParamountMovies",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_bigger.jpg"
+                            },
+                            "description": "Paramount Movies",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Sat Feb 19 01:05:05 +0000 2011",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "#Transformers: #RiseOfTheBeasts is now available on 4K disc & Digital!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "paramnt.us/TransformersRO...",
+                                        "expanded_url": "https://paramnt.us/TransformersROTB",
+                                        "url": "https://t.co/YrKmGLigsj",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1893,
+                        "followers_count": 336302,
+                        "friends_count": 1082,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 949,
+                        "location": "",
+                        "media_count": 1164,
+                        "name": "Transformers",
+                        "normal_followers_count": 336302,
+                        "pinned_tweet_ids_str": ["1711788688873848950"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254295223/1696957597",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711790498267156480/4BbZPtxd_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "transformers",
+                        "statuses_count": 2984,
+                        "translator_type": "none",
+                        "url": "https://t.co/YrKmGLigsj",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["85099032854265856"],
+            "editable_until_msecs": "1309125965153",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Sun Jun 26 21:36:05 +0000 2011",
+            "conversation_id_str": "85099032854265856",
+            "display_text_range": [0, 79],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [68, 79],
+                        "text": "amazingmovie"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 4,
+            "favorited": false,
+            "full_text": "If you've seen Transformers: Dark of the Moon, tell us what you thought! #amazingmovie",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 12,
+            "retweet_count": 15,
+            "retweeted": false,
+            "user_id_str": "254295223",
+            "id_str": "85099032854265856"
+        }
+    }
+]
