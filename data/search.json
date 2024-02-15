@@ -1,0 +1,223 @@
+[
+    {
+     "Movie": "The Hunger Games: Mockingjay - Part 1",
+     "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
+     "Director": "Francis Lawrence",
+     "Artists": "Lorde",
+     "Twitter Accounts (that exist)": "@thehungergames, @jhutch1992, @liamhemsworth, @lorde",
+     "Start Date": "July 25, 2014",
+     "End Date": "March 6, 2015"
+    },
+    {
+     "Movie": "Star Wars: Episode VII - The Force Awakens",
+     "Actors": "Harrison Ford, Mark Hamill, Carrie Fisher",
+     "Director": "JJ Abrams",
+     "Twitter Accounts (that exist)": "@starwars, @MarkHamill, @carrieffisher, @jjabrams",
+     "Start Date": "November 28, 2014",
+     "End Date": "April 5, 2016"
+    },
+    {
+     "Movie": "Finding Dory",
+     "Actors": "Ellen DeGeneres, Albert Brooks, Hayden Rolence",
+     "Director": "Andrew Stanton",
+     "Artists": "Sia",
+     "Twitter Accounts (that exist)": "@FindingDory, @EllenDeGeneres, @AlbertBrooks, @HaydenRolence, @Sia",
+     "Start Date": "March 2, 2016",
+     "End Date": "November 15, 2016"
+    },
+    {
+     "Movie": "Rogue One: A Star Wars Story",
+     "Actors": "Felicity Jones, Diego Luna, Ben Mendelsohn",
+     "Director": "Gareth Edwards",
+     "Twitter Accounts (that exist)": "@starwars, @diegoluna_",
+     "Start Date": "April 7, 2016",
+     "End Date": "April 4, 2017"
+    },
+    {
+     "Movie": "Captain America: Civil War",
+     "Actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
+     "Director": "Anthony Russo, Joe Russo",
+     "Twitter Accounts (that exist)": "@captainamerica, @RobertDowneyJr",
+     "Start Date": "November 25, 2015",
+     "End Date": "September 13, 2016"
+    },
+    {
+     "Movie": "Star Wars: Episode VIII - The Last Jedi",
+     "Actors": "Mark Hamill, Carrie Fisher, Adam Driver",
+     "Director": "Rian Johnson",
+     "Twitter Accounts (that exist)": "@starwars, @MarkHamill, @carrieffisher, @rianjohnson",
+     "Start Date": "April 14, 2017",
+     "End Date": "March 27, 2018"
+    },
+    {
+     "Movie": "Beauty and the Beast",
+     "Actors": "Emma Watson, Dan Stevens, Luke Evans",
+     "Director": "Bill Condon",
+     "Artists": "Ariana Grande, John Legend",
+     "Twitter Accounts (that exist)": "@beourguest, @EmmaWatson, @thereallukevans, @johnlegend",
+     "Start Date": "May 23, 2016",
+     "End Date": "June 6, 2017"
+    },
+    {
+     "Movie": "Wonder Woman",
+     "Actors": "Gal Gadot, Chris Pine, Robin Wright",
+     "Director": "Patty Jenkins",
+     "Artists": "Sia",
+     "Twitter Accounts (that exist)": "@dcwonderwoman, @galgadot, @_cpine_, @realrobinwright, @PattyJenks, @Sia",
+     "Start Date": "July 23, 2016",
+     "End Date": "September 19, 2017"
+    },
+    {
+     "Movie": "Black Panther",
+     "Actors": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong’o",
+     "Director": "Ryan Coogler",
+     "Artists": "Kendrick Lamar, SZA, the Weeknd, Jay Rock, Future, James Blake",
+     "Twitter Accounts (that exist)": "@theblackpanther, @chadwickboseman, @michaelb4jordan, @lupita_nyongo, @kendricklamar, @SZA, @theweeknd, @JayRock, @1Future, @jamesblake",
+     "Start Date": "June 9, 2017",
+     "End Date": "May 15, 2018"
+    },
+    {
+     "Movie": "Avengers: Infinity War",
+     "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+     "Director": "Anthony Russo, Joe Russo",
+     "Twitter Accounts (that exist)": "@Avengers, @RobertDowneyJr, @chrishemsworth, @MarkRuffalo",
+     "Start Date": "November 29, 2017",
+     "End Date": "August 14, 2018"
+    },
+    {
+     "Movie": "Incredibles 2",
+     "Actors": "Craig T. Nelson, Holly Hunter, Sarah Vowell",
+     "Director": "Brad Bird",
+     "Twitter Accounts (that exist)": "@TheIncredibles, @thecraigtnelson, @realhollyhunter, @BradBirdA113",
+     "Start Date": "November 18, 2017",
+     "End Date": "November 6, 2018"
+    },
+    {
+     "Movie": "Avengers: Endgame",
+     "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+     "Director": "Anthony Russo, Joe Russo",
+     "Twitter Accounts (that exist)": "@Avengers, @RobertDowneyJr, @MarkRuffalo",
+     "Start Date": "December 7, 2018",
+     "End Date": "July 30, 2019"
+    },
+    {
+     "Movie": "The Lion King",
+     "Actors": "Donald Glover, Seth Rogen, Chiwetel Ejiofor",
+     "Director": "Jon Favreau",
+     "Artists": "Beyoncé",
+     "Twitter Accounts (that exist)": "@disneylionking, @donaldglover, @sethrogen, @Jon_Favreau, @Beyonce,",
+     "Start Date": "November 22, 2018",
+     "End Date": "October 22, 2019"
+    },
+    {
+     "Movie": "Toy Story 4",
+     "Actors": "Tom Hanks, Tim Allen, Annie Potts",
+     "Director": "Josh Cooley",
+     "Artists": "Chris Stapleton",
+     "Twitter Accounts (that exist)": "@toystory, @tomhanks, @ofctimallen, @anniepotts, @cooleyurfaceoff, @ChrisStapleton",
+     "Start Date": "November 12, 2018",
+     "End Date": "October 8, 2019"
+    },
+    {
+     "Movie": "Bad Boys for Life",
+     "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+     "Director": "Adil El Arbi, Bilall Fallah, Adil & Bilall",
+     "Artists": "Black Eyed Peas, J Balvin, Nicky Jam, Daddy Yankee",
+     "Twitter Accounts (that exist)": "@badboys, @realmartymar , @vanessahudgens , @bep, @JBALVIN, @NickyJamPR, @daddy_yankee",
+     "Start Date": "September 4, 2019",
+     "End Date": "April 21, 2020"
+    },
+    {
+     "Movie": "Sonic the Hedgehog",
+     "Actors": "Ben Schwartz, Jim Carrey, James Marsden",
+     "Director": "Jeff Fowler",
+     "Twitter Accounts (that exist)": "@sonic_hedgehog, @rejectedjokes, @fowltown",
+     "Start Date": "April 4, 2019",
+     "End Date": "May 19, 2020"
+    },
+    {
+     "Movie": "Jumanji: The Next Level",
+     "Actors": "Dwayne Johnson, The Rock, Jack Black, Kevin Hart",
+     "Director": "Jake Kasdan",
+     "Twitter Accounts (that exist)": "@jumanjimovie, @TheRock, @jackblack, @KevinHart4real",
+     "Start Date": "July 1, 2019",
+     "End Date": "March 17, 2020"
+    },
+    {
+     "Movie": "Spider-Man: No Way Home",
+     "Actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+     "Director": "Jon Watts",
+     "Twitter Accounts (that exist)": "@spidermanmovie, @tomholland1996, @zendaya",
+     "Start Date": "August 23, 2021",
+     "End Date": "April 12, 2022"
+    },
+    {
+     "Movie": "Shang-Chi and the Legend of the Ten Rings",
+     "Actors": "Simu Liu, Awkwafina, Meng’er Zhang",
+     "Director": "Destin Daniel Cretton",
+     "Twitter Accounts (that exist)": "@shangchi, @SimuLiu, @destindaniel",
+     "Start Date": "April 19, 2021",
+     "End Date": "November 30, 2021"
+    },
+    {
+     "Movie": "Venom: Let There Be Carnage",
+     "Actors": "Tom Hardy, Michelle Williams, Naomie Harris",
+     "Director": "Andy Serkis",
+     "Twitter Accounts (that exist)": "@VenomMovie, @NaomieHarris, @andyserkis",
+     "Start Date": "May 10, 2021",
+     "End Date": "November 29, 2021"
+    },
+    {
+     "Movie": "Top Gun: Maverick",
+     "Actors": "Tom Cruise, Miles Teller, Jennifer Connelley",
+     "Director": "Joseph Kosinski",
+     "Artists": "OneRepublic, Lady Gaga",
+     "Twitter Accounts (that exist)": "@topgunmovie, @TomCruise, @Miles_Teller, @OneRepublic, @ladygaga",
+     "Start Date": "July 18, 2019",
+     "End Date": "November 1, 2022"
+    },
+    {
+     "Movie": "Black Panther: Wakanda Forever:",
+     "Actors": "Letitia Wright, Lupita Nyong’o, Danai Gurira",
+     "Director": "Ryan Coogler",
+     "Artists": "Rihanna",
+     "Twitter Accounts (that exist)": "@theblackpanther, @lupita_nyongo, @DanaiGurira, @rihanna",
+     "Start Date": "July 23, 2022",
+     "End Date": "February 7, 2023"
+    },
+    {
+     "Movie": "Doctor Strange in the Multiverse of Madness",
+     "Actors": "Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor",
+     "Director": "Sam Raimi",
+     "Twitter Accounts (that exist)": "@DrStrange",
+     "Start Date": "December 22, 2021",
+     "End Date": "July 26, 2022"
+    },
+    {
+     "Movie": "Barbie",
+     "Actors": "Margot Robbie, Ryan Gosling, America Ferrera",
+     "Director": "Greta Gerwig",
+     "Artists": "Dua Lipa, PinkPantheress, Nicki Minaj, Ice Spice, Charli XCX, Billie Eilish, Ava Max",
+     "Twitter Accounts (that exist)": "@barbiethemovie, @ryangosling, @americaferrera, @DUALIPA, @pinkpantheress2, @NICKIMINAJ, @icespicee_, @charli_xcx, @billieeilish, @AvaMax",
+     "Start Date": "December 16, 2022",
+     "End Date": "October 17, 2023"
+    },
+    {
+     "Movie": "The Super Mario Bros. Movie",
+     "Actors": "Chris Pratt, Anya Taylor-Joy, Charlie Day",
+     "Director": "Aaron Horvath, Michael Jelenic",
+     "Artists": "Jack Black",
+     "Twitter Accounts (that exist)": "@supermariomovie, @prattprattpratt, @anyataylorjoy, @jackblack",
+     "Start Date": "October 6, 2022",
+     "End Date": "June 13, 2023"
+    },
+    {
+     "Movie": "Spider-Man: Across the Spider-Verse:",
+     "Actors": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",
+     "Director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+     "Artists": "Metro Boomin, Swae Lee, Nav, A Boogie wit da Hoodie",
+     "Twitter Accounts (that exist)": "@SpiderVerse, @ShameikMoore, @HaileeSteinfeld, @braintyreehenry, @jds_247, @shinypinkbottle, @MetroBoomin, @SwaeLee, @beatsbynav, @ArtistHBTL",
+     "Start Date": "December 13, 2022",
+     "End Date": "September 5, 2023"
+    }
+]

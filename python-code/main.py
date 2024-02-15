@@ -1,9 +1,13 @@
 # PACKAGES
+from playwright.async_api import async_playwright
 from playwright.sync_api import sync_playwright
 import json
+import asyncio
+
 # HELPER FUNCTIONS
-import parse 
 import query
+import tweets
+import parse
 
 def scrape_tweet(url: str) -> dict:
     """
@@ -45,18 +49,33 @@ def read_json(path: str) -> list:
     
     # Iterating through the json
     # list
-    for i in data['links']:
+    for i in data:
         res.append(i)
     # Closing file
     f.close()
     return res
 
-if __name__ == "__main__":
-    data = []
-    links = read_json('twitter-consultation/python-code/sample_data.json')
+async def scrape_links():
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=False)
+        context = await browser.new_context()
+        for movie in movies:
+            keyword = movie["Movie"]
+            accounts = [i.replace("@", "") for i in movie["Twitter Accounts (that exist)"].split(", ")]
+            start_date = parse.convert_to_date(movie["Start Date"])
+            end_date = parse.convert_to_date(movie["End Date"])
+            search_query = query.query_builder(keyword=keyword, from_account=accounts, start_date=start_date, end_date=end_date)
+            links = await tweets.my_async_function(search_query, movie == movies[0], context)
+            print(links)
 
-    for i in links:
-        tweet = scrape_tweet(i)
-        data.append(tweet)
-    
-    print(data)
+        await context.close()
+        # links = loop.run_until_complete(tweets.my_async_function(search_query, movie == movies[0], context))
+
+
+
+if __name__ == "__main__":
+    movies = read_json("data/search.json")
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(scrape_links())
+    loop.close()
+# print(read_json("data/search.json")[0])

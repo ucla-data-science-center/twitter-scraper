@@ -1,0 +1,636 @@
+[
+    {
+        "__typename": "Tweet",
+        "rest_id": "4838059728",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo0MDM2MTUxMw==",
+                    "rest_id": "40361513",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Fri May 15 23:33:08 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "olivia rodrigo loves me",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2PBCbNV",
+                                        "expanded_url": "http://bit.ly/2PBCbNV",
+                                        "url": "https://t.co/XQk71v97JI",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1864,
+                        "followers_count": 1247342,
+                        "friends_count": 195,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8932,
+                        "location": "Forks, WA",
+                        "media_count": 1326,
+                        "name": "THE TWILIGHT SAGA 🌎",
+                        "normal_followers_count": 1247342,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40361513/1697477948",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510048855592562688/pnpEuW2D_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "Twilight",
+                        "statuses_count": 6353,
+                        "translator_type": "none",
+                        "url": "https://t.co/XQk71v97JI",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "4838059728"
+            ],
+            "editable_until_msecs": "1255451869000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Tue Oct 13 16:07:49 +0000 2009",
+            "conversation_id_str": "4838059728",
+            "display_text_range": [
+                0,
+                97
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 94,
+            "favorited": false,
+            "full_text": "Due to overwhelming demand, THE TWILIGHT SAGA: NEW MOON soundtrack is being released this Friday!",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "40361513",
+            "id_str": "4838059728"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "5112268302",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo0MDM2MTUxMw==",
+                    "rest_id": "40361513",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Fri May 15 23:33:08 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "olivia rodrigo loves me",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2PBCbNV",
+                                        "expanded_url": "http://bit.ly/2PBCbNV",
+                                        "url": "https://t.co/XQk71v97JI",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1864,
+                        "followers_count": 1247343,
+                        "friends_count": 195,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8932,
+                        "location": "Forks, WA",
+                        "media_count": 1326,
+                        "name": "THE TWILIGHT SAGA 🌎",
+                        "normal_followers_count": 1247343,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40361513/1697477948",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510048855592562688/pnpEuW2D_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "Twilight",
+                        "statuses_count": 6353,
+                        "translator_type": "none",
+                        "url": "https://t.co/XQk71v97JI",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "5112268302"
+            ],
+            "editable_until_msecs": "1256349049000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Sat Oct 24 23:14:06 +0000 2009",
+            "conversation_id_str": "5112268302",
+            "display_text_range": [
+                0,
+                97
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 52,
+            "favorited": false,
+            "full_text": "BREAKING: The 2019 'Twilight' movie featuring Robert Pattinson and Kristen Stewart is in development.",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "40361513",
+            "id_str": "5112268302"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "5902747698",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo0MDM2MTUxMw==",
+                    "rest_id": "40361513",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Fri May 15 23:33:08 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "olivia rodrigo loves me",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2PBCbNV",
+                                        "expanded_url": "http://bit.ly/2PBCbNV",
+                                        "url": "https://t.co/XQk71v97JI",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1864,
+                        "followers_count": 1247343,
+                        "friends_count": 195,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8932,
+                        "location": "Forks, WA",
+                        "media_count": 1326,
+                        "name": "THE TWILIGHT SAGA 🌎",
+                        "normal_followers_count": 1247343,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40361513/1697477948",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510048855592562688/pnpEuW2D_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "Twilight",
+                        "statuses_count": 6353,
+                        "translator_type": "none",
+                        "url": "https://t.co/XQk71v97JI",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "5902747698"
+            ],
+            "editable_until_msecs": "1258758797000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Fri Nov 20 22:43:17 +0000 2009",
+            "conversation_id_str": "5902747698",
+            "display_text_range": [
+                0,
+                135
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "40361513",
+                        "name": "THE TWILIGHT SAGA 🌎",
+                        "screen_name": "Twilight",
+                        "indices": [
+                            81,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "favorite_count": 12,
+            "favorited": false,
+            "full_text": "Have fun! RT @lynnanirbas Gosh I am starting to hyperventilate! Going to see The @Twilight Saga New Moon for the first time tonight!!!!",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3,
+            "retweeted": false,
+            "user_id_str": "40361513",
+            "id_str": "5902747698"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "4814770052",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo0MDM2MTUxMw==",
+                    "rest_id": "40361513",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Fri May 15 23:33:08 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "olivia rodrigo loves me",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2PBCbNV",
+                                        "expanded_url": "http://bit.ly/2PBCbNV",
+                                        "url": "https://t.co/XQk71v97JI",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1864,
+                        "followers_count": 1247343,
+                        "friends_count": 195,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8932,
+                        "location": "Forks, WA",
+                        "media_count": 1326,
+                        "name": "THE TWILIGHT SAGA 🌎",
+                        "normal_followers_count": 1247343,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40361513/1697477948",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510048855592562688/pnpEuW2D_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "Twilight",
+                        "statuses_count": 6353,
+                        "translator_type": "none",
+                        "url": "https://t.co/XQk71v97JI",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "4814770052"
+            ],
+            "editable_until_msecs": "1255375398000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon Oct 12 18:53:18 +0000 2009",
+            "conversation_id_str": "4814770052",
+            "display_text_range": [
+                0,
+                77
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 72,
+            "favorited": false,
+            "full_text": "The final run time of The Twilight Saga: New Moon is 2 hours and ten minutes!",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "40361513",
+            "id_str": "4814770052"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "5594787467",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo0MDM2MTUxMw==",
+                    "rest_id": "40361513",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Fri May 15 23:33:08 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "olivia rodrigo loves me",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2PBCbNV",
+                                        "expanded_url": "http://bit.ly/2PBCbNV",
+                                        "url": "https://t.co/XQk71v97JI",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1864,
+                        "followers_count": 1247343,
+                        "friends_count": 195,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8932,
+                        "location": "Forks, WA",
+                        "media_count": 1326,
+                        "name": "THE TWILIGHT SAGA 🌎",
+                        "normal_followers_count": 1247343,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40361513/1697477948",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510048855592562688/pnpEuW2D_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "Twilight",
+                        "statuses_count": 6353,
+                        "translator_type": "none",
+                        "url": "https://t.co/XQk71v97JI",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "5594787467"
+            ],
+            "editable_until_msecs": "1257877694000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Tue Nov 10 17:58:14 +0000 2009",
+            "conversation_id_str": "5594787467",
+            "display_text_range": [
+                0,
+                137
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 22,
+            "favorited": false,
+            "full_text": "Vote for your fav coven http://bit.ly/45oyCf for a chance to see a screening of The Twilight Saga: New Moon and meet members of the cast!",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "retweeted": false,
+            "user_id_str": "40361513",
+            "id_str": "5594787467"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "4918929789",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo0MDM2MTUxMw==",
+                    "rest_id": "40361513",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Fri May 15 23:33:08 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "olivia rodrigo loves me",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/2PBCbNV",
+                                        "expanded_url": "http://bit.ly/2PBCbNV",
+                                        "url": "https://t.co/XQk71v97JI",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 1864,
+                        "followers_count": 1247343,
+                        "friends_count": 195,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 8932,
+                        "location": "Forks, WA",
+                        "media_count": 1326,
+                        "name": "THE TWILIGHT SAGA 🌎",
+                        "normal_followers_count": 1247343,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40361513/1697477948",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510048855592562688/pnpEuW2D_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "Twilight",
+                        "statuses_count": 6353,
+                        "translator_type": "none",
+                        "url": "https://t.co/XQk71v97JI",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "4918929789"
+            ],
+            "editable_until_msecs": "1255710546000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Fri Oct 16 15:59:06 +0000 2009",
+            "conversation_id_str": "4918929789",
+            "display_text_range": [
+                0,
+                139
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 18,
+            "favorited": false,
+            "full_text": "The Twilight Saga: New Moon soundtrack is in stores TODAY! Head out to any store, or get it on iTunes with bonus tracks! http://j.mp/4mFjzf",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "40361513",
+            "id_str": "4918929789"
+        }
+    }    
+]
