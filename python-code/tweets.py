@@ -15,7 +15,8 @@ async def my_async_function(url: str, sign_in: bool, context):
             time.sleep(2)
 
         await page.goto(url)
-        
+        if (await page.get_by_text("Retry").is_visible()):
+            await page.get_by_text("Retry").click()
         
         try:
             for i in range(20):
