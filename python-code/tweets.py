@@ -15,11 +15,12 @@ async def my_async_function(url: str, sign_in: bool, context):
             time.sleep(2)
 
         await page.goto(url)
-        if (await page.get_by_text("Retry").is_visible()):
-            await page.get_by_text("Retry").click()
+        
         
         try:
-            for i in range(20):
+            for i in range(50):
+                if (await page.get_by_text("Retry").is_visible()):
+                    await page.get_by_text("Retry").click()
                 get_links = await page.query_selector_all('[aria-label="Share post"]')
                 for get_link in get_links:
                     if (await get_link.is_visible()):
@@ -35,7 +36,7 @@ async def my_async_function(url: str, sign_in: bool, context):
                     else:
                         if await page.get_by_text("Retry").is_visible():
                             await page.get_by_text("Retry").click()
-                await page.mouse.wheel(0, 500)
+                await page.mouse.wheel(0, 1000)
                 time.sleep(2)
         except:
             await page.close()
