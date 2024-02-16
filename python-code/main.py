@@ -66,7 +66,9 @@ async def scrape_links():
             end_date = parse.convert_to_date(movie["End Date"])
             search_query = query.query_builder(keyword=keyword, from_account=accounts, start_date=start_date, end_date=end_date)
             links = await tweets.my_async_function(search_query, movie == movies[0], context)
-            print(links)
+            with open("links.txt", 'a') as file:
+                file.write(str(links))
+                file.write("\n")
 
         await context.close()
         # links = loop.run_until_complete(tweets.my_async_function(search_query, movie == movies[0], context))
