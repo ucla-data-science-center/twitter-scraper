@@ -1,29 +1,5 @@
 [
     {
-     "Movie": "Avengers: Infinity War",
-     "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
-     "Director": "Anthony Russo, Joe Russo",
-     "Twitter Accounts (that exist)": "@Avengers, @RobertDowneyJr, @chrishemsworth, @MarkRuffalo",
-     "Start Date": "November 29, 2017",
-     "End Date": "August 14, 2018"
-    },
-    {
-     "Movie": "Incredibles 2",
-     "Actors": "Craig T. Nelson, Holly Hunter, Sarah Vowell",
-     "Director": "Brad Bird",
-     "Twitter Accounts (that exist)": "@TheIncredibles, @thecraigtnelson, @realhollyhunter, @BradBirdA113",
-     "Start Date": "November 18, 2017",
-     "End Date": "November 6, 2018"
-    },
-    {
-     "Movie": "Avengers: Endgame",
-     "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
-     "Director": "Anthony Russo, Joe Russo",
-     "Twitter Accounts (that exist)": "@Avengers, @RobertDowneyJr, @MarkRuffalo",
-     "Start Date": "December 7, 2018",
-     "End Date": "July 30, 2019"
-    },
-    {
      "Movie": "The Lion King",
      "Actors": "Donald Glover, Seth Rogen, Chiwetel Ejiofor",
      "Director": "Jon Favreau",
