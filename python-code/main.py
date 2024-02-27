@@ -59,6 +59,7 @@ async def scrape_links():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
+        # TODO: CHANGE FROM MOVIES TO KEYWORD, FIX AND IMPLEMENT ALL KEY-VALUE PAIRINGS
         for movie in movies:
             keyword = movie["Movie"]
             accounts = [i.replace("@", "") for i in movie["Twitter Accounts (that exist)"].split(", ")]
