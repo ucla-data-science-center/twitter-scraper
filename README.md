@@ -56,5 +56,5 @@ This script will convert your unordered json file into a proper json file and th
 <h2 style="color: #DB4848;"> Limitations </h2>
 <p style="color: #DB4848;">
 There are several limitations to this tool. It may run into issues of being unable to load and collect tweets because of the anti-scraping techniques
-employed by X. Please be aware of that and proceed with that knowledge and the fact that it won't scrape the same tweets every single time. It may also scrape advertisements as well.
+employed by X. Please be aware of that and proceed with that knowledge and the fact that it won't scrape the same tweets every single time. It may also scrape advertisements as well. This methodology works most effectively for collecting specific data from accounts or searches. It does not work in the general case. It will also not collect millions of data points.
 </p>
