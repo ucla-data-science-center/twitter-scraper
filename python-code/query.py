@@ -35,13 +35,31 @@ def query_builder(**kwargs) -> str:
             else:
                 from_account += ")"
 
-    if (kwargs.get('to_account') != None): to_account = parse.combine_words(kwargs.get('to_account'))
-    if (kwargs.get('exact_phrase') != None): exact_phrase = parse.combine_words(kwargs.get('exact_phrase'), method="AND")
-    if (kwargs.get('any_phrase') != None): any_phrase = parse.combine_words(kwargs.get('any_phrase'), method="OR")
-    if (kwargs.get('hash_tags') != None): hash_tags = parse.hash_tags(kwargs.get('any_phrase'))
-    if (kwargs.get('language') != None): language = parse.combine_words('language')
-    if (kwargs.get('start_date') != None): start_date = parse_package.quote(f"since:{kwargs['start_date']}")
-    if (kwargs.get('end_date') != None): end_date = parse_package.quote(f"until:{kwargs['end_date']}")
+    if (kwargs.get('to_account') != None): 
+        accounts = parse.combine_words(kwargs.get('to_account'))
+        to_account += "("
+        for account in accounts:
+            to_account += parse_package.quote(f'to:{account}')
+            if account != accounts[-1]:
+                from_account += parse_package.quote(", OR ")
+            else:
+                from_account += ")"
+
+    ########### TODO: FIX THE PARSING ON THIS BLOCK TO PROPERLY MATCH URLS
+    if (kwargs.get('exact_phrase') != None):
+        exact_phrase = parse.combine_words(kwargs.get('exact_phrase'), method="AND")
+    if (kwargs.get('any_phrase') != None): 
+        any_phrase = parse.combine_words(kwargs.get('any_phrase'), method="OR")
+    if (kwargs.get('hash_tags') != None): 
+        hash_tags = parse.hash_tags(kwargs.get('any_phrase'))
+    if (kwargs.get('language') != None): 
+        language = parse.combine_words('language')
+    #############
+    
+    if (kwargs.get('start_date') != None): 
+        start_date = parse_package.quote(f"since:{kwargs['start_date']}")
+    if (kwargs.get('end_date') != None): 
+        end_date = parse_package.quote(f"until:{kwargs['end_date']}")
 
 
     query = f"https://twitter.com/search?q={keyword}{from_account}{to_account}\

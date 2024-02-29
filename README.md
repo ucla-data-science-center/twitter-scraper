@@ -15,16 +15,19 @@ UCLA_EMAIL=""
 Currently the only way to use this tool is through a google sign-in with a UCLA SSO. This is currently a work in progress and hope to expand to other sign-in methods.
 
 ### Search Data
-Now, you need to populate the master_list.json file in the data folder. You can find an example of what a search looks like in the example/master_list.json file. You can add other parameters such as hashtags and other parameters that are present in X's advanced search. 
+Now, you need to populate the master_list.json file in the data folder. You can find an example of what a search looks like in the example/master_list.json file. You can add other parameters such as hashtags and other parameters that are present in X's advanced search. The following is an exmaple that includes all possible parameters. For the language parameter please follow web guidelines for the extension.
 
 Example Search:
 ```
 {
      "Keyword": "The Dark Knight",
      "Hashtags": "#batman, #theDarkKnight,"
-     "Twitter Accounts (that exist)": "@TheOfficialBale, @themichaelcaine",
+     "Accounts": "@TheOfficialBale, @themichaelcaine",
      "Start Date": "December 14, 2007",
-     "End Date": "December 9, 2008"
+     "End Date": "December 9, 2008",
+     "Exact Phrase": "Batman",
+     "Any Phrase": "Joker, Batman",
+     "Language": "en"
 },
 ```
 
