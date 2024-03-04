@@ -20,7 +20,7 @@ Now, you need to populate the master_list.json file in the data folder. You can 
 Example Search:
 ```
 {
-     "Keyword": "The Dark Knight",
+     "Keywords": "The Dark Knight",
      "Hashtags": "#batman, #theDarkKnight,"
      "Accounts": "@TheOfficialBale, @themichaelcaine",
      "Start Date": "December 14, 2007",
