@@ -59,20 +59,22 @@ async def scrape_links():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
-        # TODO: CHANGE FROM MOVIES TO KEYWORD, FIX AND IMPLEMENT ALL KEY-VALUE PAIRINGS
         for search in searches:
             keyword = search["Keywords"]
             accounts = [i.replace("@", "") for i in search["Accounts"].split(", ")]
-            start_date = parse.convert_to_date(search["Start Date"])
-            end_date = parse.convert_to_date(search["End Date"])
-            search_query = query.query_builder(keyword=keyword, from_account=accounts, start_date=start_date, end_date=end_date)
-            links = await tweets.my_async_function(search_query, search == search[0], context)
+            start_date = parse.convert_to_date(search.get("Start Date", None))
+            end_date = parse.convert_to_date(search.get("End Date", None))
+            exact_phrase = search.get("Exact Phrase", None)
+            any_phrase = search.get("Any Phrase", None)
+            hashtags = search.get("Hashtags", None)
+            search_query = query.query_builder(keyword=keyword, from_account=accounts, start_date=start_date, end_date=end_date, 
+                                               exact_phrase=exact_phrase, any_phrase=any_phrase, hashtags=hashtags)
+            links = await tweets.my_async_function(search_query, search == searches[0], context)
             with open("links.txt", 'a') as file:
                 file.write(str(links))
                 file.write("\n")
 
         await context.close()
-        # links = loop.run_until_complete(tweets.my_async_function(search_query, movie == movies[0], context))
 
 
 
@@ -81,4 +83,3 @@ if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(scrape_links())
     loop.close()
-# print(read_json("data/search.json")[0])
