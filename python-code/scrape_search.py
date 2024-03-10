@@ -4,7 +4,7 @@ import time
 from playwright.async_api import async_playwright
 import tkinter as tk
 
-async def my_async_function(url: str, sign_in: bool, context):
+async def scrape_search(url: str, sign_in: bool, context):
     async with async_playwright() as p:
         links = set()
         page = await context.new_page()

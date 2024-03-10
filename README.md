@@ -49,7 +49,7 @@ Again, watch the script every once in awhile in case it runs into a <span style=
 
 Once you have scraped the tweets, run:
 ```
-python3 python-code/conversion.py
+python3 python-code/file_conversion.py
 ```
 This script will convert your unordered json file into a proper json file and then you can rename your files to what you want.
 

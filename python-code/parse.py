@@ -1,5 +1,6 @@
 import json
 from urllib import parse
+from typing import Union
 
 months = ["January", "February", "March", "April", "May", "June", 
           "July", "August", "September", "October", "November", "December"]
@@ -22,7 +23,7 @@ def dict_to_json(data: dict) -> json:
     json_object = json.dumps(data, indent=4)
     return json_object
 
-def combine_words(words: list or str, **kwargs) -> str or list:
+def combine_words(words: Union[list, str], **kwargs) -> Union[list, str]:
     res = ""
     if type(words) == list:
         res = []

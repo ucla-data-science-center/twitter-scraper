@@ -6,7 +6,7 @@ import asyncio
 
 # HELPER FUNCTIONS
 import query
-import tweets
+import scrape_search
 import parse
 
 def scrape_tweet(url: str) -> dict:
@@ -69,7 +69,7 @@ async def scrape_links():
             hashtags = search.get("Hashtags", None)
             search_query = query.query_builder(keyword=keyword, from_account=accounts, start_date=start_date, end_date=end_date, 
                                                exact_phrase=exact_phrase, any_phrase=any_phrase, hashtags=hashtags)
-            links = await tweets.my_async_function(search_query, search == searches[0], context)
+            links = await scrape_search.scrape_search(search_query, search == searches[0], context)
             with open("links.txt", 'a') as file:
                 file.write(str(links))
                 file.write("\n")
