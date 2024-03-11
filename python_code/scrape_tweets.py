@@ -44,17 +44,16 @@ def scrape_tweet(url: str) -> dict:
         retry = page.get_by_text("Retry")
 
         if (retry.is_visible()):
-            # print("found")
             retry.click()
             time.sleep(1)
-            # page.wait_for_selector("[data-testid='tweet']")
-        # else:
-            # print("here")
-            # page.wait_for_selector("[data-testid='tweet']")
+
         dne = page.get_by_text("Hmm...this page doesn’t exist. Try searching for something else.")
         if (dne.is_visible()):
             page.close()
             return
+        try_again = page.get_by_text("Try Again")
+        if (try_again.is_visible()):
+            try_again.click()
 
         time.sleep(1)
         page.wait_for_selector("[data-testid='tweet']")
