@@ -62,7 +62,7 @@ async def scrape_comments():
         await context.close()
 
 if __name__ == "__main__":
-    m_tweets = ["https://x.com/officialavatar/status/1587781469191036928?s=46", "https://x.com/topgunmovie/status/1151933656576823296?s=46", "https://x.com/topgunmovie/status/1508791086981922818?s=46", "https://x.com/jurassicworld/status/1491777064915156997?s=46", "https://x.com/drstrange/status/1493000412042989568?s=46", "https://x.com/minions/status/1225086718698590208?s=46", "https://x.com/minions/status/1332544065863176193?s=46"]
+    m_tweets = ["https://x.com/minions/status/1225086718698590208?s=46", "https://x.com/minions/status/1332544065863176193?s=46"]
     loop = asyncio.get_event_loop()
     loop.run_until_complete(scrape_comments())
     loop.close()
