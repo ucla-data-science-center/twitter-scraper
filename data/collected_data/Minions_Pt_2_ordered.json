@@ -23,10 +23,7 @@
                                         "display_url": "instagram.com/nami_ms_/",
                                         "expanded_url": "https://www.instagram.com/nami_ms_/",
                                         "url": "https://t.co/JiGRoJ63je",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             },
@@ -36,10 +33,7 @@
                                         "display_url": "curiouscat.me/kecikpuaka",
                                         "expanded_url": "https://curiouscat.me/kecikpuaka",
                                         "url": "https://t.co/zzP7iPFva7",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -55,9 +49,7 @@
                         "media_count": 8179,
                         "name": "Kecik 7\ufe0f\u20e3",
                         "normal_followers_count": 13947,
-                        "pinned_tweet_ids_str": [
-                            "990466901024243712"
-                        ],
+                        "pinned_tweet_ids_str": ["990466901024243712"],
                         "possibly_sensitive": true,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/317132884/1636295097",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395802459088453632/IEw5tv5r_normal.jpg",
@@ -74,9 +66,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332721582620303360"
-            ],
+            "edit_tweet_ids": ["1332721582620303360"],
             "editable_until_msecs": "1606582360723",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -91,10 +81,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 16:22:40 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                89
-            ],
+            "display_text_range": [9, 89],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -105,10 +92,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -161,9 +145,7 @@
                         "media_count": 399,
                         "name": "JojonMarijon \ud83c\udf75| ACTIVE!",
                         "normal_followers_count": 73,
-                        "pinned_tweet_ids_str": [
-                            "1538385896453468161"
-                        ],
+                        "pinned_tweet_ids_str": ["1538385896453468161"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321280354787880960/1651347255",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1520486707329892353/1ztSEbhX_normal.jpg",
@@ -179,9 +161,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333804969120604162"
-            ],
+            "edit_tweet_ids": ["1333804969120604162"],
             "editable_until_msecs": "1606840660193",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -196,10 +176,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 16:07:40 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                88
-            ],
+            "display_text_range": [20, 88],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -210,10 +187,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -282,9 +256,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332548875022790658"
-            ],
+            "edit_tweet_ids": ["1332548875022790658"],
             "editable_until_msecs": "1606541184023",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -299,10 +271,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:56:24 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                44
-            ],
+            "display_text_range": [20, 44],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -313,10 +282,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -384,9 +350,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332627855642005504"
-            ],
+            "edit_tweet_ids": ["1332627855642005504"],
             "editable_until_msecs": "1606560014470",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -401,10 +365,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 10:10:14 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                63
-            ],
+            "display_text_range": [20, 63],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -415,10 +376,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -465,10 +423,7 @@
                                         "display_url": "instagram.com/danishaqiqie",
                                         "expanded_url": "http://instagram.com/danishaqiqie",
                                         "url": "https://t.co/pc3aPMAdAQ",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -501,9 +456,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333086627258802176"
-            ],
+            "edit_tweet_ids": ["1333086627258802176"],
             "editable_until_msecs": "1606669394147",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -518,10 +471,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 16:33:14 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                18
-            ],
+            "display_text_range": [9, 18],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -532,10 +482,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -603,9 +550,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334115853940375552"
-            ],
+            "edit_tweet_ids": ["1334115853940375552"],
             "editable_until_msecs": "1606914780910",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -620,10 +565,7 @@
             "bookmarked": false,
             "created_at": "Wed Dec 02 12:43:00 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                80
-            ],
+            "display_text_range": [20, 80],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -634,10 +576,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -706,9 +645,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332566000886185984"
-            ],
+            "edit_tweet_ids": ["1332566000886185984"],
             "editable_until_msecs": "1606545267147",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -723,10 +660,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 06:04:27 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                45
-            ],
+            "display_text_range": [20, 45],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -737,10 +671,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -809,9 +740,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332843150105214977"
-            ],
+            "edit_tweet_ids": ["1332843150105214977"],
             "editable_until_msecs": "1606611344670",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -826,10 +755,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 00:25:44 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                31
-            ],
+            "display_text_range": [20, 31],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -840,19 +766,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "1241925768374038533",
                         "name": "SaveVidBot",
                         "screen_name": "SaveVidBot",
-                        "indices": [
-                            20,
-                            31
-                        ]
+                        "indices": [20, 31]
                     }
                 ]
             },
@@ -921,9 +841,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332585510066409473"
-            ],
+            "edit_tweet_ids": ["1332585510066409473"],
             "editable_until_msecs": "1606549918498",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -938,10 +856,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 07:21:58 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                57
-            ],
+            "display_text_range": [20, 57],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -952,10 +867,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -1024,9 +936,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332825355925688320"
-            ],
+            "edit_tweet_ids": ["1332825355925688320"],
             "editable_until_msecs": "1606607102207",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1041,10 +951,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 23:15:02 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                103
-            ],
+            "display_text_range": [20, 103],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1055,10 +962,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -1105,10 +1009,7 @@
                                         "display_url": "youtu.be/1vONI9mRSfA",
                                         "expanded_url": "https://youtu.be/1vONI9mRSfA",
                                         "url": "https://t.co/0z95ERY6oa",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -1124,9 +1025,7 @@
                         "media_count": 1,
                         "name": "Aina",
                         "normal_followers_count": 12,
-                        "pinned_tweet_ids_str": [
-                            "1318015305004716032"
-                        ],
+                        "pinned_tweet_ids_str": ["1318015305004716032"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140825297249431553/1591491261",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269432471126282246/wwjGDUPQ_normal.jpg",
@@ -1143,9 +1042,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334315492324958209"
-            ],
+            "edit_tweet_ids": ["1334315492324958209"],
             "editable_until_msecs": "1606962378410",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1160,10 +1057,7 @@
             "bookmarked": false,
             "created_at": "Thu Dec 03 01:56:18 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                34
-            ],
+            "display_text_range": [20, 34],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1174,10 +1068,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -1230,9 +1121,7 @@
                         "media_count": 155,
                         "name": "pusep otw jd alpha wumen",
                         "normal_followers_count": 148,
-                        "pinned_tweet_ids_str": [
-                            "1708482274948481156"
-                        ],
+                        "pinned_tweet_ids_str": ["1708482274948481156"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108371681687400450/1698779867",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1461046780716466178/86jcgEXd_normal.jpg",
@@ -1248,9 +1137,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332606144938840064"
-            ],
+            "edit_tweet_ids": ["1332606144938840064"],
             "editable_until_msecs": "1606554838235",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1265,10 +1152,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 08:43:58 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                44
-            ],
+            "display_text_range": [20, 44],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1279,10 +1163,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -1335,9 +1216,7 @@
                         "media_count": 279,
                         "name": "Hurngry \ud83c\udff4",
                         "normal_followers_count": 39,
-                        "pinned_tweet_ids_str": [
-                            "1297440391612887040"
-                        ],
+                        "pinned_tweet_ids_str": ["1297440391612887040"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/104141426/1621746787",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130385905909284865/C1zLuo4E_normal.jpg",
@@ -1353,9 +1232,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332585150589272065"
-            ],
+            "edit_tweet_ids": ["1332585150589272065"],
             "editable_until_msecs": "1606549832792",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1370,10 +1247,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 07:20:32 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                109
-            ],
+            "display_text_range": [20, 109],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1384,10 +1258,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -1440,9 +1311,7 @@
                         "media_count": 585,
                         "name": "\ud83c\udf40",
                         "normal_followers_count": 195,
-                        "pinned_tweet_ids_str": [
-                            "1353254791330193410"
-                        ],
+                        "pinned_tweet_ids_str": ["1353254791330193410"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/244847556/1631182750",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435910644214091784/DqBezQyl_normal.jpg",
@@ -1458,9 +1327,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332934441509941248"
-            ],
+            "edit_tweet_ids": ["1332934441509941248"],
             "editable_until_msecs": "1606633110237",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1475,10 +1342,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 06:28:30 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                30
-            ],
+            "display_text_range": [20, 30],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1489,19 +1353,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "1025212172786434049",
                         "name": "ThisVid",
                         "screen_name": "thisvid__",
-                        "indices": [
-                            20,
-                            30
-                        ]
+                        "indices": [20, 30]
                     }
                 ]
             },
@@ -1548,10 +1406,7 @@
                                         "display_url": "kitaharusbicaratentangpapua.carrd.co",
                                         "expanded_url": "http://kitaharusbicaratentangpapua.carrd.co",
                                         "url": "https://t.co/nPGlaqK4Wk",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -1567,9 +1422,7 @@
                         "media_count": 500,
                         "name": "eka",
                         "normal_followers_count": 209,
-                        "pinned_tweet_ids_str": [
-                            "1395571486174302212"
-                        ],
+                        "pinned_tweet_ids_str": ["1395571486174302212"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/260186269/1613316793",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741617088161271808/9Wu4NUz2_normal.jpg",
@@ -1586,9 +1439,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1336971303228645376"
-            ],
+            "edit_tweet_ids": ["1336971303228645376"],
             "editable_until_msecs": "1607595573072",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1603,10 +1454,7 @@
             "bookmarked": false,
             "created_at": "Thu Dec 10 09:49:33 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                65
-            ],
+            "display_text_range": [9, 65],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1617,10 +1465,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -1689,9 +1534,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332958336384454657"
-            ],
+            "edit_tweet_ids": ["1332958336384454657"],
             "editable_until_msecs": "1606638807219",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1706,10 +1549,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 08:03:27 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                35,
-                174
-            ],
+            "display_text_range": [35, 174],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1720,19 +1560,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "21904217",
                         "name": "Universal Pictures",
                         "screen_name": "UniversalPics",
-                        "indices": [
-                            9,
-                            23
-                        ]
+                        "indices": [9, 23]
                     }
                 ]
             },
@@ -1801,9 +1635,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332544929382367239"
-            ],
+            "edit_tweet_ids": ["1332544929382367239"],
             "editable_until_msecs": "1606540243309",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1818,10 +1650,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:40:43 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                36
-            ],
+            "display_text_range": [20, 36],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1832,19 +1661,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "231319655",
                         "name": "Nahodra Den Adel\u2661",
                         "screen_name": "P3k3Monster",
-                        "indices": [
-                            20,
-                            32
-                        ]
+                        "indices": [20, 32]
                     }
                 ]
             },
@@ -1913,9 +1736,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332573863985565697"
-            ],
+            "edit_tweet_ids": ["1332573863985565697"],
             "editable_until_msecs": "1606547141856",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -1930,10 +1751,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 06:35:41 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                66
-            ],
+            "display_text_range": [20, 66],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -1944,10 +1762,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2015,9 +1830,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333013835024900096"
-            ],
+            "edit_tweet_ids": ["1333013835024900096"],
             "editable_until_msecs": "1606652039126",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2032,10 +1845,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 11:43:59 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                55
-            ],
+            "display_text_range": [20, 55],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2046,10 +1856,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2102,9 +1909,7 @@
                         "media_count": 358,
                         "name": "Luqs",
                         "normal_followers_count": 154,
-                        "pinned_tweet_ids_str": [
-                            "1144976430222065664"
-                        ],
+                        "pinned_tweet_ids_str": ["1144976430222065664"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/4872712770/1593621342",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347613982878703616/DiUOn57A_normal.jpg",
@@ -2120,9 +1925,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333113464361865216"
-            ],
+            "edit_tweet_ids": ["1333113464361865216"],
             "editable_until_msecs": "1606675792611",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2137,10 +1940,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 18:19:52 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                28
-            ],
+            "display_text_range": [20, 28],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2151,10 +1951,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2201,10 +1998,7 @@
                                         "display_url": "youtube.com/channel/UCzntv\u2026",
                                         "expanded_url": "https://www.youtube.com/channel/UCzntvYnm-8n5iigUIgvDJ3w",
                                         "url": "https://t.co/7X2o9PlJst",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -2220,9 +2014,7 @@
                         "media_count": 197,
                         "name": "Royaleafiq\ud83c\uddf2\ud83c\uddfe",
                         "normal_followers_count": 431,
-                        "pinned_tweet_ids_str": [
-                            "939087413644738560"
-                        ],
+                        "pinned_tweet_ids_str": ["939087413644738560"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/3963896954/1569823730",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020740867605188610/I3y9eFaW_normal.jpg",
@@ -2239,9 +2031,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333034106997723143"
-            ],
+            "edit_tweet_ids": ["1333034106997723143"],
             "editable_until_msecs": "1606656872341",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2256,10 +2046,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 13:04:32 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                33
-            ],
+            "display_text_range": [20, 33],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2270,10 +2057,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2342,9 +2126,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332606979794153472"
-            ],
+            "edit_tweet_ids": ["1332606979794153472"],
             "editable_until_msecs": "1606555037280",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2359,10 +2141,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 08:47:17 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                31
-            ],
+            "display_text_range": [20, 31],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2373,10 +2152,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2450,9 +2226,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332642305484808192"
-            ],
+            "edit_tweet_ids": ["1332642305484808192"],
             "editable_until_msecs": "1606563459581",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2467,10 +2241,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 11:07:39 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                260
-            ],
+            "display_text_range": [20, 260],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2481,10 +2252,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2553,9 +2321,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332922898558771202"
-            ],
+            "edit_tweet_ids": ["1332922898558771202"],
             "editable_until_msecs": "1606630358183",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2570,10 +2336,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 05:42:38 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                72
-            ],
+            "display_text_range": [20, 72],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2584,10 +2347,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2640,9 +2400,7 @@
                         "media_count": 34,
                         "name": "wanbah",
                         "normal_followers_count": 110,
-                        "pinned_tweet_ids_str": [
-                            "1330159146201714693"
-                        ],
+                        "pinned_tweet_ids_str": ["1330159146201714693"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/56285002/1373732476",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/955953496309690368/k08QqnRi_normal.jpg",
@@ -2658,9 +2416,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332950560325193728"
-            ],
+            "edit_tweet_ids": ["1332950560325193728"],
             "editable_until_msecs": "1606636953262",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2675,17 +2431,11 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 07:32:33 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                53
-            ],
+            "display_text_range": [20, 53],
             "entities": {
                 "hashtags": [
                     {
-                        "indices": [
-                            25,
-                            38
-                        ],
+                        "indices": [25, 38],
                         "text": "michelleyeoh"
                     }
                 ],
@@ -2697,10 +2447,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2753,9 +2500,7 @@
                         "media_count": 18,
                         "name": "Annisa",
                         "normal_followers_count": 1559,
-                        "pinned_tweet_ids_str": [
-                            "476747256016551936"
-                        ],
+                        "pinned_tweet_ids_str": ["476747256016551936"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/196025024/1397832571",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404617504794714113/vfY1t0SJ_normal.jpg",
@@ -2771,9 +2516,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333284015973965824"
-            ],
+            "edit_tweet_ids": ["1333284015973965824"],
             "editable_until_msecs": "1606716455284",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2788,10 +2531,7 @@
             "bookmarked": false,
             "created_at": "Mon Nov 30 05:37:35 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                81
-            ],
+            "display_text_range": [20, 81],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2802,10 +2542,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2874,9 +2611,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332562608696639491"
-            ],
+            "edit_tweet_ids": ["1332562608696639491"],
             "editable_until_msecs": "1606544458386",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -2891,10 +2626,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 05:50:58 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                95
-            ],
+            "display_text_range": [20, 95],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -2905,10 +2637,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -2955,10 +2684,7 @@
                                         "display_url": "youtube.com/user/TheGame41\u2026",
                                         "expanded_url": "http://www.youtube.com/user/TheGame4100",
                                         "url": "https://t.co/WbOjk2zbl0",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -2991,9 +2717,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333705684328714240"
-            ],
+            "edit_tweet_ids": ["1333705684328714240"],
             "editable_until_msecs": "1606816988854",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3008,10 +2732,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 09:33:08 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                76
-            ],
+            "display_text_range": [20, 76],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -3022,10 +2743,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -3094,9 +2812,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332684852081135616"
-            ],
+            "edit_tweet_ids": ["1332684852081135616"],
             "editable_until_msecs": "1606573603480",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3111,10 +2827,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 13:56:43 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                35
-            ],
+            "display_text_range": [20, 35],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -3125,10 +2838,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -3144,26 +2854,11 @@
                 "bounding_box": {
                     "coordinates": [
                         [
-                            [
-                                -75.7887564,
-                                38.4510398
-                            ],
-                            [
-                                -75.7887564,
-                                39.839007
-                            ],
-                            [
-                                -74.984165,
-                                39.839007
-                            ],
-                            [
-                                -74.984165,
-                                38.4510398
-                            ],
-                            [
-                                -75.7887564,
-                                38.4510398
-                            ]
+                            [-75.7887564, 38.4510398],
+                            [-75.7887564, 39.839007],
+                            [-74.984165, 39.839007],
+                            [-74.984165, 38.4510398],
+                            [-75.7887564, 38.4510398]
                         ]
                     ],
                     "type": "Polygon"
@@ -3244,9 +2939,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333957190827134977"
-            ],
+            "edit_tweet_ids": ["1333957190827134977"],
             "editable_until_msecs": "1606876952676",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3261,10 +2954,7 @@
             "bookmarked": false,
             "created_at": "Wed Dec 02 02:12:32 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                172
-            ],
+            "display_text_range": [20, 172],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -3275,10 +2965,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -3347,9 +3034,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334146298245574665"
-            ],
+            "edit_tweet_ids": ["1334146298245574665"],
             "editable_until_msecs": "1606922039398",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3364,10 +3049,7 @@
             "bookmarked": false,
             "created_at": "Wed Dec 02 14:43:59 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                30,
-                39
-            ],
+            "display_text_range": [30, 39],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -3378,28 +3060,19 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "1137257894397636608",
                         "name": "Aiman Harith",
                         "screen_name": "abangshy",
-                        "indices": [
-                            9,
-                            18
-                        ]
+                        "indices": [9, 18]
                     },
                     {
                         "id_str": "1137257894397636608",
                         "name": "Aiman Harith",
                         "screen_name": "abangshy",
-                        "indices": [
-                            30,
-                            39
-                        ]
+                        "indices": [30, 39]
                     }
                 ]
             },
@@ -3468,9 +3141,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332712134300499968"
-            ],
+            "edit_tweet_ids": ["1332712134300499968"],
             "editable_until_msecs": "1606580108068",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3485,10 +3156,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 15:45:08 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                58
-            ],
+            "display_text_range": [20, 58],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -3499,10 +3167,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -3549,10 +3214,7 @@
                                         "display_url": "beacons.ai/sunstology",
                                         "expanded_url": "http://beacons.ai/sunstology",
                                         "url": "https://t.co/EeLia1hVYu",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -3568,9 +3230,7 @@
                         "media_count": 2919,
                         "name": "Mizzuyama (\u6c34\u5c71)",
                         "normal_followers_count": 409,
-                        "pinned_tweet_ids_str": [
-                            "1555929918512709632"
-                        ],
+                        "pinned_tweet_ids_str": ["1555929918512709632"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/39046907/1706024994",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1665004732128329730/qQuBzKG5_normal.jpg",
@@ -3587,9 +3247,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332604500507467779"
-            ],
+            "edit_tweet_ids": ["1332604500507467779"],
             "editable_until_msecs": "1606554446172",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3604,10 +3262,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 08:37:26 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                45
-            ],
+            "display_text_range": [20, 45],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -3618,10 +3273,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -3690,9 +3342,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332677481027891203"
-            ],
+            "edit_tweet_ids": ["1332677481027891203"],
             "editable_until_msecs": "1606571846084",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3707,10 +3357,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 13:27:26 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                73
-            ],
+            "display_text_range": [20, 73],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -3721,10 +3368,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -3777,9 +3421,7 @@
                         "media_count": 2099,
                         "name": "she | woo lover \ud83d\udc3b\ud83d\udc31",
                         "normal_followers_count": 1255,
-                        "pinned_tweet_ids_str": [
-                            "1376466698396569603"
-                        ],
+                        "pinned_tweet_ids_str": ["1376466698396569603"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276448716652601345/1704878860",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1745014654680883200/kSWdKfpl_normal.jpg",
@@ -3795,9 +3437,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332552802808152065"
-            ],
+            "edit_tweet_ids": ["1332552802808152065"],
             "editable_until_msecs": "1606542120480",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -3812,10 +3452,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 05:12:00 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                63
-            ],
+            "display_text_range": [20, 63],
             "entities": {
                 "hashtags": [],
                 "media": [
@@ -3824,10 +3461,7 @@
                         "expanded_url": "https://twitter.com/sheeedongmin/status/1332552802808152065/photo/1",
                         "ext_alt_text": "welcome back minions GIF",
                         "id_str": "1332552794973171712",
-                        "indices": [
-                            64,
-                            87
-                        ],
+                        "indices": [64, 87],
                         "media_key": "16_1332552794973171712",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En4ttPTUcAAWukk.jpg",
                         "type": "animated_gif",
@@ -3863,10 +3497,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                225,
-                                121
-                            ],
+                            "aspect_ratio": [225, 121],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -3890,10 +3521,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -3904,10 +3532,7 @@
                         "expanded_url": "https://twitter.com/sheeedongmin/status/1332552802808152065/photo/1",
                         "ext_alt_text": "welcome back minions GIF",
                         "id_str": "1332552794973171712",
-                        "indices": [
-                            64,
-                            87
-                        ],
+                        "indices": [64, 87],
                         "media_key": "16_1332552794973171712",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En4ttPTUcAAWukk.jpg",
                         "type": "animated_gif",
@@ -3943,10 +3568,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                225,
-                                121
-                            ],
+                            "aspect_ratio": [225, 121],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -4029,9 +3651,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334162990547943425"
-            ],
+            "edit_tweet_ids": ["1334162990547943425"],
             "editable_until_msecs": "1606926019153",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4046,10 +3666,7 @@
             "bookmarked": false,
             "created_at": "Wed Dec 02 15:50:19 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                33
-            ],
+            "display_text_range": [20, 33],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4060,10 +3677,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -4132,9 +3746,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334783247016841216"
-            ],
+            "edit_tweet_ids": ["1334783247016841216"],
             "editable_until_msecs": "1607073899819",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4149,10 +3761,7 @@
             "bookmarked": false,
             "created_at": "Fri Dec 04 08:54:59 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                303
-            ],
+            "display_text_range": [20, 303],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4163,10 +3772,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -4213,10 +3819,7 @@
                                         "display_url": "despicable.me",
                                         "expanded_url": "http://despicable.me",
                                         "url": "https://t.co/V9tPV4AkCL",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -4249,9 +3852,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332553631707451392"
-            ],
+            "edit_tweet_ids": ["1332553631707451392"],
             "editable_until_msecs": "1606542318105",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4266,10 +3867,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 05:15:18 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                108
-            ],
+            "display_text_range": [9, 108],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4280,10 +3878,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -4351,9 +3946,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332761741390962691"
-            ],
+            "edit_tweet_ids": ["1332761741390962691"],
             "editable_until_msecs": "1606591935320",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4368,10 +3961,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 19:02:15 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                51
-            ],
+            "display_text_range": [20, 51],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4382,10 +3972,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -4432,10 +4019,7 @@
                                         "display_url": "youtu.be/M78jpfB0cr4",
                                         "expanded_url": "https://youtu.be/M78jpfB0cr4",
                                         "url": "https://t.co/v0tToPYMpM",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -4451,9 +4035,7 @@
                         "media_count": 1322,
                         "name": "skye | closed",
                         "normal_followers_count": 187,
-                        "pinned_tweet_ids_str": [
-                            "1309374632235991040"
-                        ],
+                        "pinned_tweet_ids_str": ["1309374632235991040"],
                         "possibly_sensitive": false,
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404084657809809416/hMh2WOLN_normal.jpg",
                         "profile_interstitial_type": "",
@@ -4469,9 +4051,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333798697184894983"
-            ],
+            "edit_tweet_ids": ["1333798697184894983"],
             "editable_until_msecs": "1606839164847",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4486,10 +4066,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 15:42:44 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                27
-            ],
+            "display_text_range": [20, 27],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4500,19 +4077,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "2959765064",
                         "name": "it\u2019s me Winpw",
                         "screen_name": "Winpww",
-                        "indices": [
-                            20,
-                            27
-                        ]
+                        "indices": [20, 27]
                     }
                 ]
             },
@@ -4592,9 +4163,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332851381938524160"
-            ],
+            "edit_tweet_ids": ["1332851381938524160"],
             "editable_until_msecs": "1606613307292",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4609,10 +4178,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 00:58:27 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                35
-            ],
+            "display_text_range": [20, 35],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4623,10 +4189,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -4695,9 +4258,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332544226148503553"
-            ],
+            "edit_tweet_ids": ["1332544226148503553"],
             "editable_until_msecs": "1606540075645",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4712,10 +4273,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:37:55 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                32
-            ],
+            "display_text_range": [20, 32],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4726,10 +4284,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -4782,9 +4337,7 @@
                         "media_count": 36,
                         "name": "angytohru",
                         "normal_followers_count": 10,
-                        "pinned_tweet_ids_str": [
-                            "1481098128829054978"
-                        ],
+                        "pinned_tweet_ids_str": ["1481098128829054978"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068286812655824896/1605077499",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1439589061736288257/FTdC_sel_normal.jpg",
@@ -4800,9 +4353,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332884437168656385"
-            ],
+            "edit_tweet_ids": ["1332884437168656385"],
             "editable_until_msecs": "1606621188273",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4817,10 +4368,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 03:09:48 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                34
-            ],
+            "display_text_range": [20, 34],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -4831,10 +4379,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -4887,9 +4432,7 @@
                         "media_count": 1400,
                         "name": "faris",
                         "normal_followers_count": 312,
-                        "pinned_tweet_ids_str": [
-                            "1317299780863684608"
-                        ],
+                        "pinned_tweet_ids_str": ["1317299780863684608"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/938979082078789632/1694882132",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1772248536639492096/Pep793f2_normal.jpg",
@@ -4905,9 +4448,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332699403027587074"
-            ],
+            "edit_tweet_ids": ["1332699403027587074"],
             "editable_until_msecs": "1606577072696",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -4922,10 +4463,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 14:54:32 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                52
-            ],
+            "display_text_range": [20, 52],
             "entities": {
                 "hashtags": [],
                 "media": [
@@ -4933,10 +4471,7 @@
                         "display_url": "pic.twitter.com/gWKXnJjwhw",
                         "expanded_url": "https://twitter.com/FarisAlias07/status/1332699403027587074/photo/1",
                         "id_str": "1332699391325478917",
-                        "indices": [
-                            53,
-                            76
-                        ],
+                        "indices": [53, 76],
                         "media_key": "16_1332699391325478917",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En6zCRRVoAUJFHk.jpg",
                         "type": "animated_gif",
@@ -4972,10 +4507,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                200,
-                                113
-                            ],
+                            "aspect_ratio": [200, 113],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -4999,10 +4531,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -5012,10 +4541,7 @@
                         "display_url": "pic.twitter.com/gWKXnJjwhw",
                         "expanded_url": "https://twitter.com/FarisAlias07/status/1332699403027587074/photo/1",
                         "id_str": "1332699391325478917",
-                        "indices": [
-                            53,
-                            76
-                        ],
+                        "indices": [53, 76],
                         "media_key": "16_1332699391325478917",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En6zCRRVoAUJFHk.jpg",
                         "type": "animated_gif",
@@ -5051,10 +4577,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                200,
-                                113
-                            ],
+                            "aspect_ratio": [200, 113],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -5116,10 +4639,7 @@
                                         "display_url": "youtu.be/DBuqklyZ37w",
                                         "expanded_url": "https://youtu.be/DBuqklyZ37w",
                                         "url": "https://t.co/VnD0Otpjd3",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -5135,9 +4655,7 @@
                         "media_count": 611,
                         "name": "Smart Rascal Studios | Welcome to 2024!",
                         "normal_followers_count": 158,
-                        "pinned_tweet_ids_str": [
-                            "1736231917702267173"
-                        ],
+                        "pinned_tweet_ids_str": ["1736231917702267173"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1328379434936766466/1703265666",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1736197645037719552/bTwz1HPe_normal.jpg",
@@ -5154,9 +4672,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332545984333799425"
-            ],
+            "edit_tweet_ids": ["1332545984333799425"],
             "editable_until_msecs": "1606540494829",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -5171,10 +4687,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:44:54 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                45
-            ],
+            "display_text_range": [20, 45],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -5185,10 +4698,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -5256,9 +4766,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332910828161404931"
-            ],
+            "edit_tweet_ids": ["1332910828161404931"],
             "editable_until_msecs": "1606627480376",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -5273,10 +4781,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 04:54:40 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                29
-            ],
+            "display_text_range": [20, 29],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -5287,10 +4792,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -5337,10 +4839,7 @@
                                         "display_url": "baby-oitan.studio.site",
                                         "expanded_url": "https://baby-oitan.studio.site/",
                                         "url": "https://t.co/kAKMHAHafJ",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -5356,9 +4855,7 @@
                         "media_count": 73,
                         "name": "\u3042\u307b\u3068\u308d",
                         "normal_followers_count": 22924,
-                        "pinned_tweet_ids_str": [
-                            "1414555247968587779"
-                        ],
+                        "pinned_tweet_ids_str": ["1414555247968587779"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/993475709472456704/1640182255",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322588003055726592/Qv6Ma3Cs_normal.jpg",
@@ -5375,9 +4872,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332570940429910019"
-            ],
+            "edit_tweet_ids": ["1332570940429910019"],
             "editable_until_msecs": "1606546444826",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -5392,10 +4887,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 06:24:04 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                59
-            ],
+            "display_text_range": [20, 59],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -5406,10 +4898,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -5456,10 +4945,7 @@
                                         "display_url": "youjizz.com",
                                         "expanded_url": "http://youjizz.com",
                                         "url": "https://t.co/jQaZ1ghsNI",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -5492,9 +4978,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332607641302941697"
-            ],
+            "edit_tweet_ids": ["1332607641302941697"],
             "editable_until_msecs": "1606555194996",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -5509,10 +4993,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 08:49:54 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                107
-            ],
+            "display_text_range": [20, 107],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -5523,10 +5004,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -5542,26 +5020,11 @@
                 "bounding_box": {
                     "coordinates": [
                         [
-                            [
-                                101.74359,
-                                3.1754694
-                            ],
-                            [
-                                101.74359,
-                                3.2030832
-                            ],
-                            [
-                                101.7587738,
-                                3.2030832
-                            ],
-                            [
-                                101.7587738,
-                                3.1754694
-                            ],
-                            [
-                                101.74359,
-                                3.1754694
-                            ]
+                            [101.74359, 3.1754694],
+                            [101.74359, 3.2030832],
+                            [101.7587738, 3.2030832],
+                            [101.7587738, 3.1754694],
+                            [101.74359, 3.1754694]
                         ]
                     ],
                     "type": "Polygon"
@@ -5630,9 +5093,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332831880316473345"
-            ],
+            "edit_tweet_ids": ["1332831880316473345"],
             "editable_until_msecs": "1606608657743",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -5647,10 +5108,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 23:40:57 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                66
-            ],
+            "display_text_range": [20, 66],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -5661,10 +5119,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -5733,9 +5188,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332683246400905217"
-            ],
+            "edit_tweet_ids": ["1332683246400905217"],
             "editable_until_msecs": "1606573220656",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -5750,10 +5203,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 13:50:20 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                35,
-                71
-            ],
+            "display_text_range": [35, 71],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -5764,19 +5214,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "21904217",
                         "name": "Universal Pictures",
                         "screen_name": "UniversalPics",
-                        "indices": [
-                            9,
-                            23
-                        ]
+                        "indices": [9, 23]
                     }
                 ]
             },
@@ -5845,9 +5289,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332701696200478722"
-            ],
+            "edit_tweet_ids": ["1332701696200478722"],
             "editable_until_msecs": "1606577619431",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -5862,10 +5304,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 15:03:39 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                35,
-                78
-            ],
+            "display_text_range": [35, 78],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -5876,19 +5315,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "21904217",
                         "name": "Universal Pictures",
                         "screen_name": "UniversalPics",
-                        "indices": [
-                            9,
-                            23
-                        ]
+                        "indices": [9, 23]
                     }
                 ]
             },
@@ -5935,10 +5368,7 @@
                                         "display_url": "despicable.me",
                                         "expanded_url": "http://despicable.me",
                                         "url": "https://t.co/s6BnUQRw1c",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -5954,9 +5384,7 @@
                         "media_count": 1483,
                         "name": "#Minions",
                         "normal_followers_count": 232591,
-                        "pinned_tweet_ids_str": [
-                            "1751705830448332986"
-                        ],
+                        "pinned_tweet_ids_str": ["1751705830448332986"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2255460432/1706474554",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1751707356340310016/N4k53iUk_normal.jpg",
@@ -5985,9 +5413,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332544065863176193"
-            ],
+            "edit_tweet_ids": ["1332544065863176193"],
             "editable_until_msecs": "1606540037430",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6002,10 +5428,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:37:17 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                0,
-                177
-            ],
+            "display_text_range": [0, 177],
             "entities": {
                 "hashtags": [],
                 "media": [
@@ -6013,10 +5436,7 @@
                         "display_url": "pic.twitter.com/9xmfDuNPMd",
                         "expanded_url": "https://twitter.com/Minions/status/1332544065863176193/video/1",
                         "id_str": "1332543605114769408",
-                        "indices": [
-                            178,
-                            201
-                        ],
+                        "indices": [178, 201],
                         "media_key": "7_1332543605114769408",
                         "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332543605114769408/pu/img/M1b7fbyNnZd57XYB.jpg",
                         "type": "video",
@@ -6055,10 +5475,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                16,
-                                9
-                            ],
+                            "aspect_ratio": [16, 9],
                             "duration_millis": 45003,
                             "variants": [
                                 {
@@ -6100,10 +5517,7 @@
                         "display_url": "pic.twitter.com/9xmfDuNPMd",
                         "expanded_url": "https://twitter.com/Minions/status/1332544065863176193/video/1",
                         "id_str": "1332543605114769408",
-                        "indices": [
-                            178,
-                            201
-                        ],
+                        "indices": [178, 201],
                         "media_key": "7_1332543605114769408",
                         "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332543605114769408/pu/img/M1b7fbyNnZd57XYB.jpg",
                         "type": "video",
@@ -6142,10 +5556,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                16,
-                                9
-                            ],
+                            "aspect_ratio": [16, 9],
                             "duration_millis": 45003,
                             "variants": [
                                 {
@@ -6219,10 +5630,7 @@
                                         "display_url": "instagram.com/zulfazlizamberi",
                                         "expanded_url": "http://instagram.com/zulfazlizamberi",
                                         "url": "https://t.co/xkFnKxvk9U",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -6255,9 +5663,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332885948674129922"
-            ],
+            "edit_tweet_ids": ["1332885948674129922"],
             "editable_until_msecs": "1606621548644",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6272,10 +5678,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 03:15:48 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                69
-            ],
+            "display_text_range": [9, 69],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -6286,10 +5689,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -6342,9 +5742,7 @@
                         "media_count": 433,
                         "name": "#TolakFormatBaruLiga1",
                         "normal_followers_count": 34,
-                        "pinned_tweet_ids_str": [
-                            "1750577447706464260"
-                        ],
+                        "pinned_tweet_ids_str": ["1750577447706464260"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212400740951412743/1655282750",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1750586410523070467/SwjXgtvp_normal.jpg",
@@ -6360,9 +5758,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332731118047490049"
-            ],
+            "edit_tweet_ids": ["1332731118047490049"],
             "editable_until_msecs": "1606584634146",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6377,10 +5773,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 17:00:34 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                65
-            ],
+            "display_text_range": [20, 65],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -6391,10 +5784,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -6447,9 +5837,7 @@
                         "media_count": 529,
                         "name": "ishiii \ud83c\udf19",
                         "normal_followers_count": 1048,
-                        "pinned_tweet_ids_str": [
-                            "1639631913421004803"
-                        ],
+                        "pinned_tweet_ids_str": ["1639631913421004803"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/4000331294/1649552517",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1652863295177781249/ocqOPphf_normal.jpg",
@@ -6465,9 +5853,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332729742814892034"
-            ],
+            "edit_tweet_ids": ["1332729742814892034"],
             "editable_until_msecs": "1606584306265",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6482,10 +5868,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 16:55:06 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                44
-            ],
+            "display_text_range": [20, 44],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -6496,10 +5879,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -6552,9 +5932,7 @@
                         "media_count": 1558,
                         "name": "\ud83c\uddf2\ud83c\uddfe\u2764\ufe0f\ud83c\uddf5\ud83c\uddf8 Sobri MCG \ud83c\uddf2\ud83c\uddfe\u2764\ufe0f\ud83c\uddf5\ud83c\uddf8",
                         "normal_followers_count": 640,
-                        "pinned_tweet_ids_str": [
-                            "1460244564992659459"
-                        ],
+                        "pinned_tweet_ids_str": ["1460244564992659459"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/899180882803609601/1559375809",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1569721578040225797/8d3idLi8_normal.jpg",
@@ -6570,9 +5948,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333022175037538304"
-            ],
+            "edit_tweet_ids": ["1333022175037538304"],
             "editable_until_msecs": "1606654027540",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6587,10 +5963,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 12:17:07 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                34
-            ],
+            "display_text_range": [20, 34],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -6601,10 +5974,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -6651,10 +6021,7 @@
                                         "display_url": "despicable.me",
                                         "expanded_url": "http://despicable.me",
                                         "url": "https://t.co/s6BnUQRw1c",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -6670,9 +6037,7 @@
                         "media_count": 1483,
                         "name": "#Minions",
                         "normal_followers_count": 232591,
-                        "pinned_tweet_ids_str": [
-                            "1751705830448332986"
-                        ],
+                        "pinned_tweet_ids_str": ["1751705830448332986"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2255460432/1706474554",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1751707356340310016/N4k53iUk_normal.jpg",
@@ -6701,9 +6066,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332547436586225664"
-            ],
+            "edit_tweet_ids": ["1332547436586225664"],
             "editable_until_msecs": "1606540841073",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6718,10 +6081,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:50:41 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                30
-            ],
+            "display_text_range": [20, 30],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -6732,10 +6092,7 @@
                         "id_str": "1432596561905651714",
                         "name": "\u2764\ufe0f\u200d\ud83d\udd25",
                         "screen_name": "vanteIq",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -6804,9 +6161,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332719052825919489"
-            ],
+            "edit_tweet_ids": ["1332719052825919489"],
             "editable_until_msecs": "1606581757573",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6821,10 +6176,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 16:12:37 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                32
-            ],
+            "display_text_range": [20, 32],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -6835,10 +6187,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -6891,9 +6240,7 @@
                         "media_count": 19,
                         "name": "Cagi",
                         "normal_followers_count": 80,
-                        "pinned_tweet_ids_str": [
-                            "1289219151915933701"
-                        ],
+                        "pinned_tweet_ids_str": ["1289219151915933701"],
                         "possibly_sensitive": false,
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359379674812489732/H_dYfX0Y_normal.jpg",
                         "profile_interstitial_type": "",
@@ -6908,9 +6255,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332674922624077825"
-            ],
+            "edit_tweet_ids": ["1332674922624077825"],
             "editable_until_msecs": "1606571236113",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -6925,10 +6270,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 13:17:16 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                36,
-                150
-            ],
+            "display_text_range": [36, 150],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -6939,19 +6281,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "1006864282682703873",
                         "name": "\ud835\udd92\ud835\udd8e\ud835\udd9a\ud835\udd91",
                         "screen_name": "amirulakram133",
-                        "indices": [
-                            9,
-                            24
-                        ]
+                        "indices": [9, 24]
                     }
                 ]
             },
@@ -7004,9 +6340,7 @@
                         "media_count": 1059,
                         "name": "riceater in the franxx",
                         "normal_followers_count": 257,
-                        "pinned_tweet_ids_str": [
-                            "1250655391857270784"
-                        ],
+                        "pinned_tweet_ids_str": ["1250655391857270784"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2545885045/1660797021",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211797325909131266/1gGRkOEp_normal.jpg",
@@ -7022,9 +6356,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332591535532113921"
-            ],
+            "edit_tweet_ids": ["1332591535532113921"],
             "editable_until_msecs": "1606551355081",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7039,10 +6371,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 07:45:55 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                63
-            ],
+            "display_text_range": [20, 63],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7053,10 +6382,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -7109,9 +6435,7 @@
                         "media_count": 15,
                         "name": "noradnil\ud83c\uddf2\ud83c\uddfe",
                         "normal_followers_count": 14,
-                        "pinned_tweet_ids_str": [
-                            "1313793032764833799"
-                        ],
+                        "pinned_tweet_ids_str": ["1313793032764833799"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/868042101509939200/1536763639",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039866140757905409/MGI7yvj3_normal.jpg",
@@ -7127,9 +6451,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332902185210765312"
-            ],
+            "edit_tweet_ids": ["1332902185210765312"],
             "editable_until_msecs": "1606625419736",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7144,10 +6466,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 04:20:19 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                81
-            ],
+            "display_text_range": [20, 81],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7158,10 +6477,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -7230,9 +6546,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334321737933049857"
-            ],
+            "edit_tweet_ids": ["1334321737933049857"],
             "editable_until_msecs": "1606963867479",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7247,10 +6561,7 @@
             "bookmarked": false,
             "created_at": "Thu Dec 03 02:21:07 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                42
-            ],
+            "display_text_range": [20, 42],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7261,10 +6572,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -7317,9 +6625,7 @@
                         "media_count": 260,
                         "name": "NARA",
                         "normal_followers_count": 816,
-                        "pinned_tweet_ids_str": [
-                            "1283733200657735680"
-                        ],
+                        "pinned_tweet_ids_str": ["1283733200657735680"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/71236663/1564333325",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1764329271852703744/mFEBr564_normal.jpg",
@@ -7335,9 +6641,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332649742409449472"
-            ],
+            "edit_tweet_ids": ["1332649742409449472"],
             "editable_until_msecs": "1606565232682",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7352,10 +6656,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 11:37:12 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                102
-            ],
+            "display_text_range": [20, 102],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7366,10 +6667,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -7385,26 +6683,11 @@
                 "bounding_box": {
                     "coordinates": [
                         [
-                            [
-                                110.369586,
-                                -7.8045923
-                            ],
-                            [
-                                110.369586,
-                                -7.730799
-                            ],
-                            [
-                                110.447993,
-                                -7.730799
-                            ],
-                            [
-                                110.447993,
-                                -7.8045923
-                            ],
-                            [
-                                110.369586,
-                                -7.8045923
-                            ]
+                            [110.369586, -7.8045923],
+                            [110.369586, -7.730799],
+                            [110.447993, -7.730799],
+                            [110.447993, -7.8045923],
+                            [110.369586, -7.8045923]
                         ]
                     ],
                     "type": "Polygon"
@@ -7474,9 +6757,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333725091574628355"
-            ],
+            "edit_tweet_ids": ["1333725091574628355"],
             "editable_until_msecs": "1606821615902",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7491,10 +6772,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 10:50:15 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                31
-            ],
+            "display_text_range": [20, 31],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7505,19 +6783,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "921274466717483009",
                         "name": "syai",
                         "screen_name": "minkiheon8",
-                        "indices": [
-                            20,
-                            31
-                        ]
+                        "indices": [20, 31]
                     }
                 ]
             },
@@ -7586,9 +6858,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332657806927831042"
-            ],
+            "edit_tweet_ids": ["1332657806927831042"],
             "editable_until_msecs": "1606567155413",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7603,10 +6873,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 12:09:15 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                54
-            ],
+            "display_text_range": [20, 54],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7617,10 +6884,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -7636,26 +6900,11 @@
                 "bounding_box": {
                     "coordinates": [
                         [
-                            [
-                                110.734124,
-                                -3.5622
-                            ],
-                            [
-                                110.734124,
-                                0.793256
-                            ],
-                            [
-                                115.84722,
-                                0.793256
-                            ],
-                            [
-                                115.84722,
-                                -3.5622
-                            ],
-                            [
-                                110.734124,
-                                -3.5622
-                            ]
+                            [110.734124, -3.5622],
+                            [110.734124, 0.793256],
+                            [115.84722, 0.793256],
+                            [115.84722, -3.5622],
+                            [110.734124, -3.5622]
                         ]
                     ],
                     "type": "Polygon"
@@ -7736,9 +6985,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334472521370853376"
-            ],
+            "edit_tweet_ids": ["1334472521370853376"],
             "editable_until_msecs": "1606999817052",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7753,10 +7000,7 @@
             "bookmarked": false,
             "created_at": "Thu Dec 03 12:20:17 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                66
-            ],
+            "display_text_range": [20, 66],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7767,28 +7011,19 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "2611807920",
                         "name": "Fzissema",
                         "screen_name": "fzissema",
-                        "indices": [
-                            48,
-                            57
-                        ]
+                        "indices": [48, 57]
                     },
                     {
                         "id_str": "214373877",
                         "name": "naznim ismail",
                         "screen_name": "naz_nim",
-                        "indices": [
-                            58,
-                            66
-                        ]
+                        "indices": [58, 66]
                     }
                 ]
             },
@@ -7835,10 +7070,7 @@
                                         "display_url": "zfanwari.tumblr.com",
                                         "expanded_url": "http://zfanwari.tumblr.com",
                                         "url": "https://t.co/i2aQyfUbjp",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -7854,9 +7086,7 @@
                         "media_count": 3538,
                         "name": "\ud835\udded\ud835\ude02\ud835\uddf9 \ud835\udddc\ud835\ude00\ud835\uddfa\ud835\uddee\ud835\uddf6\ud835\uddf9 \ud835\uddd9\ud835\udde9\ud835\udde5\ud83e\udd64",
                         "normal_followers_count": 519,
-                        "pinned_tweet_ids_str": [
-                            "1766522705627828271"
-                        ],
+                        "pinned_tweet_ids_str": ["1766522705627828271"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/297427941/1624186109",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1606281137378058240/8Mi20JL7_normal.jpg",
@@ -7873,9 +7103,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332630444081258496"
-            ],
+            "edit_tweet_ids": ["1332630444081258496"],
             "editable_until_msecs": "1606560631602",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7890,10 +7118,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 10:20:31 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                60
-            ],
+            "display_text_range": [20, 60],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -7904,10 +7129,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -7976,9 +7198,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333715611516510208"
-            ],
+            "edit_tweet_ids": ["1333715611516510208"],
             "editable_until_msecs": "1606819355680",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -7993,10 +7213,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 10:12:35 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                47
-            ],
+            "display_text_range": [20, 47],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8007,10 +7224,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -8078,9 +7292,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333235838080073729"
-            ],
+            "edit_tweet_ids": ["1333235838080073729"],
             "editable_until_msecs": "1606704968779",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8095,10 +7307,7 @@
             "bookmarked": false,
             "created_at": "Mon Nov 30 02:26:08 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                29
-            ],
+            "display_text_range": [20, 29],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8109,19 +7318,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "1606048526995034112",
                         "name": "this vid",
                         "screen_name": "thisvid9",
-                        "indices": [
-                            20,
-                            29
-                        ]
+                        "indices": [20, 29]
                     }
                 ]
             },
@@ -8174,9 +7377,7 @@
                         "media_count": 986,
                         "name": "BlueJack22",
                         "normal_followers_count": 106,
-                        "pinned_tweet_ids_str": [
-                            "1741311077856469258"
-                        ],
+                        "pinned_tweet_ids_str": ["1741311077856469258"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270714053749428224/1594251286",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1761063602092392449/NzdhxWSB_normal.jpg",
@@ -8192,9 +7393,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332804639482384387"
-            ],
+            "edit_tweet_ids": ["1332804639482384387"],
             "editable_until_msecs": "1606602163022",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8209,10 +7408,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 21:52:43 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                37
-            ],
+            "display_text_range": [20, 37],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8223,10 +7419,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -8279,9 +7472,7 @@
                         "media_count": 468,
                         "name": "\ud83c\uddfa\ud83c\udde6 Valerie/ImTheVR \ud83d\udc99\ud83d\udc9b",
                         "normal_followers_count": 87,
-                        "pinned_tweet_ids_str": [
-                            "1319447333499592705"
-                        ],
+                        "pinned_tweet_ids_str": ["1319447333499592705"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267174468763308032/1645690388",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312156569799335936/spesxrmz_normal.jpg",
@@ -8297,9 +7488,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333192984481779714"
-            ],
+            "edit_tweet_ids": ["1333192984481779714"],
             "editable_until_msecs": "1606694751685",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8314,10 +7503,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 23:35:51 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                70
-            ],
+            "display_text_range": [20, 70],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8328,10 +7514,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -8378,10 +7561,7 @@
                                         "display_url": "youtube.com/channel/UCQXQx\u2026",
                                         "expanded_url": "https://www.youtube.com/channel/UCQXQxZYMZbKVH3WzqBiMjtA",
                                         "url": "https://t.co/F6esLDQH15",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -8397,9 +7577,7 @@
                         "media_count": 3456,
                         "name": "JF the LOLZOR #CeasefireNOW",
                         "normal_followers_count": 591,
-                        "pinned_tweet_ids_str": [
-                            "1762291998113857761"
-                        ],
+                        "pinned_tweet_ids_str": ["1762291998113857761"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344173450/1548331606",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1598008325404229640/IUENLx_D_normal.jpg",
@@ -8416,9 +7594,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332669837622054913"
-            ],
+            "edit_tweet_ids": ["1332669837622054913"],
             "editable_until_msecs": "1606570023754",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8433,10 +7609,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 12:57:03 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                97
-            ],
+            "display_text_range": [20, 97],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8447,10 +7620,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -8519,9 +7689,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332631373543215104"
-            ],
+            "edit_tweet_ids": ["1332631373543215104"],
             "editable_until_msecs": "1606560853203",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8536,10 +7704,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 10:24:13 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                48
-            ],
+            "display_text_range": [20, 48],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8550,10 +7715,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -8606,9 +7768,7 @@
                         "media_count": 198,
                         "name": "apa?\u2077",
                         "normal_followers_count": 1054,
-                        "pinned_tweet_ids_str": [
-                            "1321771459237224448"
-                        ],
+                        "pinned_tweet_ids_str": ["1321771459237224448"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1296754702374170624/1632483418",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1494875852257259520/GExmlnlb_normal.jpg",
@@ -8624,9 +7784,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1343566678500622339"
-            ],
+            "edit_tweet_ids": ["1343566678500622339"],
             "editable_until_msecs": "1609168033073",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8641,10 +7799,7 @@
             "bookmarked": false,
             "created_at": "Mon Dec 28 14:37:13 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                155
-            ],
+            "display_text_range": [9, 155],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8655,37 +7810,25 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "1324324606870630404",
                         "name": "\ud835\udd93\ud835\udd86\ud835\udd93\ud835\udd86\uea00 ||pengen balik\ud83d\ude23",
                         "screen_name": "__JungTae",
-                        "indices": [
-                            9,
-                            19
-                        ]
+                        "indices": [9, 19]
                     },
                     {
                         "id_str": "1547864676973027328",
                         "name": "joko",
                         "screen_name": "itsme_jkoo",
-                        "indices": [
-                            20,
-                            31
-                        ]
+                        "indices": [20, 31]
                     },
                     {
                         "id_str": "938347885845823490",
                         "name": "G\u0457naa \u2661",
                         "screen_name": "ginavchild",
-                        "indices": [
-                            46,
-                            57
-                        ]
+                        "indices": [46, 57]
                     }
                 ]
             },
@@ -8732,10 +7875,7 @@
                                         "display_url": "despicable.me",
                                         "expanded_url": "http://despicable.me",
                                         "url": "https://t.co/s6BnUQRw1c",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -8751,9 +7891,7 @@
                         "media_count": 1483,
                         "name": "#Minions",
                         "normal_followers_count": 232570,
-                        "pinned_tweet_ids_str": [
-                            "1751705830448332986"
-                        ],
+                        "pinned_tweet_ids_str": ["1751705830448332986"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2255460432/1706474554",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1751707356340310016/N4k53iUk_normal.jpg",
@@ -8782,9 +7920,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332545503481872384"
-            ],
+            "edit_tweet_ids": ["1332545503481872384"],
             "editable_until_msecs": "1606540380185",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8799,10 +7935,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:43:00 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                35
-            ],
+            "display_text_range": [20, 35],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8813,10 +7946,7 @@
                         "id_str": "997904348",
                         "name": "CHRISTINA SPANN",
                         "screen_name": "spann72",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -8884,9 +8014,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334080772802633729"
-            ],
+            "edit_tweet_ids": ["1334080772802633729"],
             "editable_until_msecs": "1606906416915",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -8901,10 +8029,7 @@
             "bookmarked": false,
             "created_at": "Wed Dec 02 10:23:36 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                67
-            ],
+            "display_text_range": [20, 67],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -8915,10 +8040,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -8971,9 +8093,7 @@
                         "media_count": 24,
                         "name": "Montana",
                         "normal_followers_count": 116,
-                        "pinned_tweet_ids_str": [
-                            "1295945433320058880"
-                        ],
+                        "pinned_tweet_ids_str": ["1295945433320058880"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140795208449134597/1628178237",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1723961159303458816/I96AFDrV_normal.jpg",
@@ -8989,9 +8109,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333730078895718400"
-            ],
+            "edit_tweet_ids": ["1333730078895718400"],
             "editable_until_msecs": "1606822804972",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9006,10 +8124,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 11:10:04 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                40
-            ],
+            "display_text_range": [20, 40],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9020,10 +8135,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -9076,9 +8188,7 @@
                         "media_count": 3162,
                         "name": "\ud83d\udc7bNyanko-sensei\ud83d\udc7b",
                         "normal_followers_count": 346,
-                        "pinned_tweet_ids_str": [
-                            "1718300823485374489"
-                        ],
+                        "pinned_tweet_ids_str": ["1718300823485374489"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/134798531/1710594566",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1772073309431369728/2XMUHPYg_normal.jpg",
@@ -9094,9 +8204,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332560152814239744"
-            ],
+            "edit_tweet_ids": ["1332560152814239744"],
             "editable_until_msecs": "1606543872858",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9111,10 +8219,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 05:41:12 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                58
-            ],
+            "display_text_range": [20, 58],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9125,10 +8230,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -9197,9 +8299,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332544946943913985"
-            ],
+            "edit_tweet_ids": ["1332544946943913985"],
             "editable_until_msecs": "1606540247496",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9214,10 +8314,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:40:47 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                58
-            ],
+            "display_text_range": [20, 58],
             "entities": {
                 "hashtags": [],
                 "media": [
@@ -9225,10 +8322,7 @@
                         "display_url": "pic.twitter.com/YBcZ5uFoa9",
                         "expanded_url": "https://twitter.com/spann72/status/1332544946943913985/photo/1",
                         "id_str": "1332544884691980288",
-                        "indices": [
-                            59,
-                            82
-                        ],
+                        "indices": [59, 82],
                         "media_key": "16_1332544884691980288",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En4mgzNUUAAqCVX.jpg",
                         "type": "animated_gif",
@@ -9264,10 +8358,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                50,
-                                27
-                            ],
+                            "aspect_ratio": [50, 27],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -9291,10 +8382,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -9304,10 +8392,7 @@
                         "display_url": "pic.twitter.com/YBcZ5uFoa9",
                         "expanded_url": "https://twitter.com/spann72/status/1332544946943913985/photo/1",
                         "id_str": "1332544884691980288",
-                        "indices": [
-                            59,
-                            82
-                        ],
+                        "indices": [59, 82],
                         "media_key": "16_1332544884691980288",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En4mgzNUUAAqCVX.jpg",
                         "type": "animated_gif",
@@ -9343,10 +8428,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                50,
-                                27
-                            ],
+                            "aspect_ratio": [50, 27],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -9429,9 +8511,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332970920336519170"
-            ],
+            "edit_tweet_ids": ["1332970920336519170"],
             "editable_until_msecs": "1606641807467",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9446,10 +8526,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 08:53:27 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                88
-            ],
+            "display_text_range": [20, 88],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9460,10 +8537,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -9532,9 +8606,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333021585876283392"
-            ],
+            "edit_tweet_ids": ["1333021585876283392"],
             "editable_until_msecs": "1606653887073",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9549,10 +8621,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 12:14:47 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                56
-            ],
+            "display_text_range": [20, 56],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9563,10 +8632,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -9619,9 +8685,7 @@
                         "media_count": 1256,
                         "name": "Philip H. Doctor \uea00",
                         "normal_followers_count": 202,
-                        "pinned_tweet_ids_str": [
-                            "1335276669108695040"
-                        ],
+                        "pinned_tweet_ids_str": ["1335276669108695040"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/501322139/1638077043",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1739511747944357888/iJ0ky38G_normal.jpg",
@@ -9637,9 +8701,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332544582723244034"
-            ],
+            "edit_tweet_ids": ["1332544582723244034"],
             "editable_until_msecs": "1606540160659",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9654,10 +8716,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:39:20 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                74
-            ],
+            "display_text_range": [20, 74],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9668,10 +8727,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -9740,9 +8796,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333917037962280962"
-            ],
+            "edit_tweet_ids": ["1333917037962280962"],
             "editable_until_msecs": "1606867379487",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9757,10 +8811,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 23:32:59 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                164
-            ],
+            "display_text_range": [20, 164],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9771,10 +8822,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -9827,9 +8875,7 @@
                         "media_count": 196,
                         "name": "Marshall J. Ferguson",
                         "normal_followers_count": 171,
-                        "pinned_tweet_ids_str": [
-                            "1241539081609203713"
-                        ],
+                        "pinned_tweet_ids_str": ["1241539081609203713"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/789174973084479488/1621159402",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/789365479366270978/fV0MRpcU_normal.jpg",
@@ -9845,9 +8891,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332544665648656384"
-            ],
+            "edit_tweet_ids": ["1332544665648656384"],
             "editable_until_msecs": "1606540180430",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9862,10 +8906,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 04:39:40 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                35,
-                111
-            ],
+            "display_text_range": [35, 111],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9876,19 +8917,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "21904217",
                         "name": "Universal Pictures",
                         "screen_name": "UniversalPics",
-                        "indices": [
-                            9,
-                            23
-                        ]
+                        "indices": [9, 23]
                     }
                 ]
             },
@@ -9941,9 +8976,7 @@
                         "media_count": 66,
                         "name": "Jamet Jamaluddin",
                         "normal_followers_count": 160,
-                        "pinned_tweet_ids_str": [
-                            "1722651067190841594"
-                        ],
+                        "pinned_tweet_ids_str": ["1722651067190841594"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/421780084/1608971710",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435409501063057408/NkbvTzcJ_normal.jpg",
@@ -9959,9 +8992,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332632825057538048"
-            ],
+            "edit_tweet_ids": ["1332632825057538048"],
             "editable_until_msecs": "1606561199271",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -9976,10 +9007,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 10:29:59 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                36
-            ],
+            "display_text_range": [20, 36],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -9990,10 +9018,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10061,9 +9086,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1334096665481945088"
-            ],
+            "edit_tweet_ids": ["1334096665481945088"],
             "editable_until_msecs": "1606910206025",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10078,10 +9101,7 @@
             "bookmarked": false,
             "created_at": "Wed Dec 02 11:26:46 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                21
-            ],
+            "display_text_range": [20, 21],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -10092,10 +9112,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10148,9 +9165,7 @@
                         "media_count": 48,
                         "name": "A. eusry",
                         "normal_followers_count": 2,
-                        "pinned_tweet_ids_str": [
-                            "1396197301652049920"
-                        ],
+                        "pinned_tweet_ids_str": ["1396197301652049920"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275021339078717441/1624724919",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1748629141589794816/cfQA7fL3_normal.jpg",
@@ -10166,9 +9181,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333850026800345088"
-            ],
+            "edit_tweet_ids": ["1333850026800345088"],
             "editable_until_msecs": "1606851402781",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10183,10 +9196,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 19:06:42 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                44
-            ],
+            "display_text_range": [20, 44],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -10197,10 +9207,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10269,9 +9276,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1457310569451515904"
-            ],
+            "edit_tweet_ids": ["1457310569451515904"],
             "editable_until_msecs": "1636286689935",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10286,10 +9291,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 07 11:34:49 +0000 2021",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                25
-            ],
+            "display_text_range": [9, 25],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -10300,10 +9302,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10372,9 +9371,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333077569646727168"
-            ],
+            "edit_tweet_ids": ["1333077569646727168"],
             "editable_until_msecs": "1606667234644",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10389,10 +9386,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 15:57:14 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                9,
-                50
-            ],
+            "display_text_range": [9, 50],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -10403,10 +9397,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10453,10 +9444,7 @@
                                         "display_url": "linktr.ee/jessicanimation",
                                         "expanded_url": "https://linktr.ee/jessicanimation",
                                         "url": "https://t.co/KNZYCr54oK",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -10472,9 +9460,7 @@
                         "media_count": 12204,
                         "name": "Jessica \u2764\ufe0f\ud83d\udc9c\ud83e\ude77",
                         "normal_followers_count": 5467,
-                        "pinned_tweet_ids_str": [
-                            "1772311828401365423"
-                        ],
+                        "pinned_tweet_ids_str": ["1772311828401365423"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/723998690/1708061570",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1759450990502428672/o73Go08j_normal.jpg",
@@ -10491,9 +9477,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332560995366043648"
-            ],
+            "edit_tweet_ids": ["1332560995366043648"],
             "editable_until_msecs": "1606544073738",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10508,10 +9492,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 05:44:33 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                160
-            ],
+            "display_text_range": [20, 160],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -10522,10 +9503,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10572,10 +9550,7 @@
                                         "display_url": "instagram.com/earthmix_galle\u2026",
                                         "expanded_url": "https://instagram.com/earthmix_gallery?igshid=1hicrdu40rfx3",
                                         "url": "https://t.co/iB993UUiuO",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -10591,9 +9566,7 @@
                         "media_count": 2778,
                         "name": "April",
                         "normal_followers_count": 813,
-                        "pinned_tweet_ids_str": [
-                            "1464578062733885444"
-                        ],
+                        "pinned_tweet_ids_str": ["1464578062733885444"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237305854585520131/1645609090",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1683716157868756994/nZcJ-9cC_normal.jpg",
@@ -10610,9 +9583,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333890068189040642"
-            ],
+            "edit_tweet_ids": ["1333890068189040642"],
             "editable_until_msecs": "1606860949392",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10627,10 +9598,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 21:45:49 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                29
-            ],
+            "display_text_range": [20, 29],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -10641,10 +9609,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10691,10 +9656,7 @@
                                         "display_url": "despicable.me",
                                         "expanded_url": "http://despicable.me",
                                         "url": "https://t.co/s6BnUQRw1c",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -10710,9 +9672,7 @@
                         "media_count": 1483,
                         "name": "#Minions",
                         "normal_followers_count": 232570,
-                        "pinned_tweet_ids_str": [
-                            "1751705830448332986"
-                        ],
+                        "pinned_tweet_ids_str": ["1751705830448332986"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/2255460432/1706474554",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1751707356340310016/N4k53iUk_normal.jpg",
@@ -10741,9 +9701,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332554950044389376"
-            ],
+            "edit_tweet_ids": ["1332554950044389376"],
             "editable_until_msecs": "1606542632421",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10758,10 +9716,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 05:20:32 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                25,
-                36
-            ],
+            "display_text_range": [25, 36],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -10834,9 +9789,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332978006676045824"
-            ],
+            "edit_tweet_ids": ["1332978006676045824"],
             "editable_until_msecs": "1606643496982",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -10851,10 +9804,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 09:21:36 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                152
-            ],
+            "display_text_range": [20, 152],
             "entities": {
                 "hashtags": [],
                 "media": [
@@ -10863,10 +9813,7 @@
                         "expanded_url": "https://twitter.com/JamainSyafinaz/status/1332978006676045824/photo/1",
                         "ext_alt_text": "Minions Cheer GIF",
                         "id_str": "1332977997393981446",
-                        "indices": [
-                            153,
-                            176
-                        ],
+                        "indices": [153, 176],
                         "media_key": "16_1332977997393981446",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En-wbRwUcAYhDHL.jpg",
                         "type": "animated_gif",
@@ -10902,10 +9849,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                125,
-                                67
-                            ],
+                            "aspect_ratio": [125, 67],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -10929,10 +9873,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -10943,10 +9884,7 @@
                         "expanded_url": "https://twitter.com/JamainSyafinaz/status/1332978006676045824/photo/1",
                         "ext_alt_text": "Minions Cheer GIF",
                         "id_str": "1332977997393981446",
-                        "indices": [
-                            153,
-                            176
-                        ],
+                        "indices": [153, 176],
                         "media_key": "16_1332977997393981446",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En-wbRwUcAYhDHL.jpg",
                         "type": "animated_gif",
@@ -10982,10 +9920,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                125,
-                                67
-                            ],
+                            "aspect_ratio": [125, 67],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -11068,9 +10003,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332585281174843393"
-            ],
+            "edit_tweet_ids": ["1332585281174843393"],
             "editable_until_msecs": "1606549863926",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11085,10 +10018,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 07:21:03 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                35,
-                69
-            ],
+            "display_text_range": [35, 69],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -11099,19 +10029,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "21904217",
                         "name": "Universal Pictures",
                         "screen_name": "UniversalPics",
-                        "indices": [
-                            9,
-                            23
-                        ]
+                        "indices": [9, 23]
                     }
                 ]
             },
@@ -11185,9 +10109,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333735290872029187"
-            ],
+            "edit_tweet_ids": ["1333735290872029187"],
             "editable_until_msecs": "1606824047604",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11202,10 +10124,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 11:30:47 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                65
-            ],
+            "display_text_range": [20, 65],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -11216,10 +10135,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -11288,9 +10204,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333720438417965056"
-            ],
+            "edit_tweet_ids": ["1333720438417965056"],
             "editable_until_msecs": "1606820506503",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11305,10 +10219,7 @@
             "bookmarked": false,
             "created_at": "Tue Dec 01 10:31:46 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                99
-            ],
+            "display_text_range": [20, 99],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -11319,10 +10230,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -11391,9 +10299,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332691022560718852"
-            ],
+            "edit_tweet_ids": ["1332691022560718852"],
             "editable_until_msecs": "1606575074637",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11408,10 +10314,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 14:21:14 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                31
-            ],
+            "display_text_range": [20, 31],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -11422,10 +10325,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -11472,10 +10372,7 @@
                                         "display_url": "youtube.com/channel/UCiIYQ\u2026",
                                         "expanded_url": "https://youtube.com/channel/UCiIYQcCbwazLOAUcvOGSexQ",
                                         "url": "https://t.co/DWZjogmoqP",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -11491,9 +10388,7 @@
                         "media_count": 92,
                         "name": "AZRAEL",
                         "normal_followers_count": 112,
-                        "pinned_tweet_ids_str": [
-                            "1302785407889879040"
-                        ],
+                        "pinned_tweet_ids_str": ["1302785407889879040"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285400235544645632/1703071938",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762874630174375941/AB8nSlIC_normal.jpg",
@@ -11510,9 +10405,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333272257507045376"
-            ],
+            "edit_tweet_ids": ["1333272257507045376"],
             "editable_until_msecs": "1606713651847",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11527,10 +10420,7 @@
             "bookmarked": false,
             "created_at": "Mon Nov 30 04:50:51 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                31
-            ],
+            "display_text_range": [20, 31],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -11541,10 +10431,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -11613,9 +10500,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332946021467484162"
-            ],
+            "edit_tweet_ids": ["1332946021467484162"],
             "editable_until_msecs": "1606635871114",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11630,10 +10515,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 07:14:31 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                35,
-                62
-            ],
+            "display_text_range": [35, 62],
             "entities": {
                 "hashtags": [],
                 "media": [
@@ -11642,10 +10524,7 @@
                         "expanded_url": "https://twitter.com/BastiianLemus/status/1332946021467484162/photo/1",
                         "ext_alt_text": "Dinero Rap GIF",
                         "id_str": "1332946015440269312",
-                        "indices": [
-                            63,
-                            86
-                        ],
+                        "indices": [63, 86],
                         "media_key": "16_1332946015440269312",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En-TVrsW8AAopwh.jpg",
                         "type": "animated_gif",
@@ -11681,10 +10560,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                55,
-                                41
-                            ],
+                            "aspect_ratio": [55, 41],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -11708,19 +10584,13 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     },
                     {
                         "id_str": "21904217",
                         "name": "Universal Pictures",
                         "screen_name": "UniversalPics",
-                        "indices": [
-                            9,
-                            23
-                        ]
+                        "indices": [9, 23]
                     }
                 ]
             },
@@ -11731,10 +10601,7 @@
                         "expanded_url": "https://twitter.com/BastiianLemus/status/1332946021467484162/photo/1",
                         "ext_alt_text": "Dinero Rap GIF",
                         "id_str": "1332946015440269312",
-                        "indices": [
-                            63,
-                            86
-                        ],
+                        "indices": [63, 86],
                         "media_key": "16_1332946015440269312",
                         "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/En-TVrsW8AAopwh.jpg",
                         "type": "animated_gif",
@@ -11770,10 +10637,7 @@
                             "focus_rects": []
                         },
                         "video_info": {
-                            "aspect_ratio": [
-                                55,
-                                41
-                            ],
+                            "aspect_ratio": [55, 41],
                             "variants": [
                                 {
                                     "bitrate": 0,
@@ -11841,9 +10705,7 @@
                         "media_count": 13201,
                         "name": "MrKacangPoolYangSuka\ud83e\udd8b\ud83d\ude4a\ud83c\uddf2\ud83c\uddfe",
                         "normal_followers_count": 4568,
-                        "pinned_tweet_ids_str": [
-                            "1260207860824170496"
-                        ],
+                        "pinned_tweet_ids_str": ["1260207860824170496"],
                         "possibly_sensitive": true,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/484568587/1623504882",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1685231809259548672/K-X0WIvR_normal.jpg",
@@ -11859,9 +10721,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332995267151368192"
-            ],
+            "edit_tweet_ids": ["1332995267151368192"],
             "editable_until_msecs": "1606647612200",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11876,10 +10736,7 @@
             "bookmarked": false,
             "created_at": "Sun Nov 29 10:30:12 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                129
-            ],
+            "display_text_range": [20, 129],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -11890,10 +10747,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -11946,9 +10800,7 @@
                         "media_count": 245,
                         "name": "Fieyyyy \ud83c\udf49",
                         "normal_followers_count": 724,
-                        "pinned_tweet_ids_str": [
-                            "1347539067886473216"
-                        ],
+                        "pinned_tweet_ids_str": ["1347539067886473216"],
                         "possibly_sensitive": false,
                         "profile_banner_url": "https://pbs.twimg.com/profile_banners/571506677/1695700746",
                         "profile_image_url_https": "https://pbs.twimg.com/profile_images/1760905721162747904/iZ38nC1q_normal.jpg",
@@ -11964,9 +10816,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1332609923016921088"
-            ],
+            "edit_tweet_ids": ["1332609923016921088"],
             "editable_until_msecs": "1606555738999",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -11981,10 +10831,7 @@
             "bookmarked": false,
             "created_at": "Sat Nov 28 08:58:58 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                89
-            ],
+            "display_text_range": [20, 89],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -11995,10 +10842,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
@@ -12045,10 +10889,7 @@
                                         "display_url": "about.me/dody.priambodo",
                                         "expanded_url": "http://about.me/dody.priambodo",
                                         "url": "https://t.co/0FpSUR4VIG",
-                                        "indices": [
-                                            0,
-                                            23
-                                        ]
+                                        "indices": [0, 23]
                                     }
                                 ]
                             }
@@ -12081,9 +10922,7 @@
         },
         "unmention_data": {},
         "edit_control": {
-            "edit_tweet_ids": [
-                "1333414593968783362"
-            ],
+            "edit_tweet_ids": ["1333414593968783362"],
             "editable_until_msecs": "1606747587504",
             "is_edit_eligible": true,
             "edits_remaining": "5"
@@ -12098,10 +10937,7 @@
             "bookmarked": false,
             "created_at": "Mon Nov 30 14:16:27 +0000 2020",
             "conversation_id_str": "1332544065863176193",
-            "display_text_range": [
-                20,
-                43
-            ],
+            "display_text_range": [20, 43],
             "entities": {
                 "hashtags": [],
                 "symbols": [],
@@ -12112,10 +10948,7 @@
                         "id_str": "2255460432",
                         "name": "#Minions",
                         "screen_name": "Minions",
-                        "indices": [
-                            0,
-                            8
-                        ]
+                        "indices": [0, 8]
                     }
                 ]
             },
