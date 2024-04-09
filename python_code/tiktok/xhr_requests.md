@@ -1,0 +1,14 @@
+<Response url='https://www.tiktok.com/ttwid/check/' request=<Request url='https://www.tiktok.com/ttwid/check/' method='POST'>>
+<Response url='https://www.tiktok.com/node/common/web-privacy-config?locale=en&tea=1' request=<Request url='https://www.tiktok.com/node/common/web-privacy-config?locale=en&tea=1' method='GET'>>
+<Response url='https://mcs.tiktokw.us/v1/user/webid' request=<Request url='https://mcs.tiktokw.us/v1/user/webid' method='POST'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
+<Response url='https://libraweb.tiktokw.us/service/2/abtest_config/' request=<Request url='https://libraweb.tiktokw.us/service/2/abtest_config/' method='POST'>>
+<Response url='https://starling.tiktokv.us/check_and_get_text/5dc26cf008d511e9b571e1bc0c9e23b5/normal/WebApp_Login?lang=en,zh' request=<Request url='https://starling.tiktokv.us/check_and_get_text/5dc26cf008d511e9b571e1bc0c9e23b5/normal/WebApp_Login?lang=en,zh' method='GET'>>
+<Response url='https://mon16-normal-useast5.tiktokv.us/monitor_web/settings/browser-settings?bid=tiktok_webapp&store=1' request=<Request url='https://mon16-normal-useast5.tiktokv.us/monitor_web/settings/browser-settings?bid=tiktok_webapp&store=1' method='GET'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
+<Response url='https://mcs.tiktokw.us/v1/list' request=<Request url='https://mcs.tiktokw.us/v1/list' method='POST'>>
