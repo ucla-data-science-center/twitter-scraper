@@ -2,47 +2,41 @@ import os
 import parse
 import json
 
+movie_titles = ['Transformers: Revenge of the Fallen:', 'Harry Potter and the Half-Blood Prince', 'The Twilight Saga: New Moon:', 'Avatar', 'Toy Story 3', 'Alice in Wonderland', 'Harry Potter and the Deathly Hallows: Part 2', 'Transformers: Dark of the Moon', 'The Twilight Saga: Breaking Dawn - Part 1', 'The Avengers', 'The Dark Knight Rises', 'The Hunger Games', 'Iron Man 3', 'The Hunger Games: Catching Fire', 'Despicable Me 2', 'Guardians of the Galaxy', 'Captain America: The Winter Soldier', 'Jurassic World', 'Avengers: Age of Ultron', 'Finding Dory', 'Beauty and the Beast', 'Wonder Woman', 'Black Panther', 'Avengers: Infinity War', 'Incredibles 2', 'Avengers: Endgame', 'The Lion King', 'Toy Story 4', 'Bad Boys for Life', 'Sonic the Hedgehog', 'Jumanji: The Next Level', 'Spider-Man: No Way Home', 'Shang-Chi and the Legend of the Ten Rings', 'Venom: Let There Be Carnage', 'Top Gun: Maverick', 'Black Panther: Wakanda Forever:', 'Doctor Strange in the Multiverse of Madness', 'Barbie', 'The Super Mario Bros. Movie', 'Spider-Man: Across the Spider-Verse:']
+
 def read_json(path: str) -> list:
-    results = []
-    with open(path, 'r') as file:
-        for line in file:
-            # Attempt to parse each line as a JSON object
-            try:
-                data = json.loads(line)
-                results.append(data)
-            except json.JSONDecodeError as e:
-                print(f"Error decoding JSON from line: {line}")
-                print(f"Error: {e}")
-    return results
+    res = []
+    f = open(path)
+    data = json.load(f)
+    
+    # Iterating through the json
+    # list
+    for i in data:
+        res.append(i)
+    # Closing file
+    f.close()
+    return res
 
 def count_likes():
-    file_list = os.listdir('data_2/collected_data')
-    ordered_list = [file for file in file_list if "_ordered.json" in file]
-    for file in ordered_list:
-        print(file)
+    file_list = sorted(os.listdir('filtered_data/'))
+    for file in file_list:
+        data = read_json(f"filtered_data/{file}")
 
-        data = read_json(f"data_2/collected_data/{file}")
-        filed_name = file.split("_ordered.json")[0]
+        relevant_likes = 0
+        irrelevant_likes = 0
 
-        if (f"{filed_name}_filtered.json" in file_list):
-            continue
+        file_name = file.split("_filtered.json")[0]
 
         for i in data:
-            new_dict = {}
-            new_dict['rest_id'] = i['rest_id']
-            new_dict['created_at'] = i['core']['user_results']['result']['legacy']['created_at']
-            new_dict['followers_count'] = i['core']['user_results']['result']['legacy']['followers_count']
-            new_dict['name'] = i['core']['user_results']['result']['legacy']['name']
-            new_dict['screen_name'] = i['core']['user_results']['result']['legacy']['screen_name']
-            new_dict['favorite_count'] = i['legacy']['favorite_count']
-            new_dict["quote_count"] = i['legacy']['quote_count']
-            new_dict["reply_count"] = i['legacy']['reply_count']
-            new_dict["retweet_count"] = i['legacy']['retweet_count']
-            new_dict['full_text'] = i['legacy']['full_text']
-            with open(f"filtered_data/{filed_name}_filtered.json", 'a') as outfile:
-                    json_object = json.loads(json.dumps(parse.dict_to_json(new_dict)))
-                    outfile.write(json_object)
-                    outfile.write(",\n")
+            # for j in movie_titles:
+            #     words = j.split(" ")
+            #     lower =  j.lower().split(" ")
+            #     for k in lower:
+            #         words.append(k)
+                
+            #     print(words)
+            relevant_likes += i['favorite_count']
+        print(json.dumps({"Movie": file_name, "likes": relevant_likes}))
 
 def main():
     count_likes()

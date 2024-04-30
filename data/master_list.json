@@ -165,15 +165,6 @@
      "End Date": "November 24, 2014"
     },
     {
-     "Movie": "The Hunger Games: Mockingjay - Part 1",
-     "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",
-     "Director": "Francis Lawrence",
-     "Artists": "Lorde",
-     "Twitter Accounts (that exist)": "@thehungergames, @jhutch1992, @liamhemsworth, @lorde",
-     "Start Date": "July 25, 2014",
-     "End Date": "March 6, 2015"
-    },
-    {
      "Movie": "Captain America: The Winter Soldier",
      "Actors": "Chris Evans, Scarlett Johansson, Sebastian Stan,",
      "Director": "Anthony Russo, Joe Russo",
@@ -188,14 +179,6 @@
      "Twitter Accounts (that exist)": "@JurassicWorld, @prattprattpratt, @BryceDHoward, @colintrevorrow",
      "Start Date": "November 23, 2014",
      "End Date": "October 20, 2015"
-    },
-    {
-     "Movie": "Star Wars: Episode VII - The Force Awakens",
-     "Actors": "Harrison Ford, Mark Hamill, Carrie Fisher",
-     "Director": "JJ Abrams",
-     "Twitter Accounts (that exist)": "@starwars, @MarkHamill, @carrieffisher, @jjabrams",
-     "Start Date": "November 28, 2014",
-     "End Date": "April 5, 2016"
     },
     {
      "Movie": "Avengers: Age of Ultron",
@@ -213,30 +196,6 @@
      "Twitter Accounts (that exist)": "@FindingDory, @EllenDeGeneres, @AlbertBrooks, @HaydenRolence, @Sia",
      "Start Date": "March 2, 2016",
      "End Date": "November 15, 2016"
-    },
-    {
-     "Movie": "Rogue One: A Star Wars Story",
-     "Actors": "Felicity Jones, Diego Luna, Ben Mendelsohn",
-     "Director": "Gareth Edwards",
-     "Twitter Accounts (that exist)": "@starwars, @diegoluna_",
-     "Start Date": "April 7, 2016",
-     "End Date": "April 4, 2017"
-    },
-    {
-     "Movie": "Captain America: Civil War",
-     "Actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
-     "Director": "Anthony Russo, Joe Russo",
-     "Twitter Accounts (that exist)": "@captainamerica, @RobertDowneyJr",
-     "Start Date": "November 25, 2015",
-     "End Date": "September 13, 2016"
-    },
-    {
-     "Movie": "Star Wars: Episode VIII - The Last Jedi",
-     "Actors": "Mark Hamill, Carrie Fisher, Adam Driver",
-     "Director": "Rian Johnson",
-     "Twitter Accounts (that exist)": "@starwars, @MarkHamill, @carrieffisher, @rianjohnson",
-     "Start Date": "April 14, 2017",
-     "End Date": "March 27, 2018"
     },
     {
      "Movie": "Beauty and the Beast",
