@@ -1,0 +1,464 @@
+[
+    {
+        "Movie": "2009_Avatar",
+        "likes": 317,
+        "replies": 2,
+        "retweets": 1080,
+        "favorites": 317,
+        "quotes": 2,
+        "follower_count": { "officialavatar": 354095, "leonalewis": 1096012 }
+    },
+    {
+        "Movie": "2009_Harry_Potter",
+        "likes": 428,
+        "replies": 0,
+        "retweets": 40,
+        "favorites": 428,
+        "quotes": 0,
+        "follower_count": { "harrypotter": 3118284 }
+    },
+    {
+        "Movie": "2009_Transformers",
+        "likes": 5,
+        "replies": 1,
+        "retweets": 0,
+        "favorites": 5,
+        "quotes": 0,
+        "follower_count": { "linkinpark": 5721419 }
+    },
+    {
+        "Movie": "2009_Twighlight",
+        "likes": 1080,
+        "replies": 0,
+        "retweets": 16,
+        "favorites": 1080,
+        "quotes": 0,
+        "follower_count": { "Twilight": 1247343 }
+    },
+    {
+        "Movie": "2011_Hunger_Games",
+        "likes": 61520,
+        "replies": 15390,
+        "retweets": 109855,
+        "favorites": 61520,
+        "quotes": 60,
+        "follower_count": { "TheHungerGames": 1031440, "jhutch1992": 2195028 }
+    },
+    {
+        "Movie": "2011_Transformers",
+        "likes": 920,
+        "replies": 1800,
+        "retweets": 5196,
+        "favorites": 920,
+        "quotes": 8,
+        "follower_count": { "linkinpark": 5721458, "transformers": 336302 }
+    },
+    {
+        "Movie": "2012_Avengers",
+        "likes": 9788,
+        "replies": 5768,
+        "retweets": 23608,
+        "favorites": 9788,
+        "quotes": 28,
+        "follower_count": { "Avengers": 7954489, "MarkRuffalo": 8265657 }
+    },
+    {
+        "Movie": "2012_Despicable_Me_2",
+        "likes": 10312,
+        "replies": 2360,
+        "retweets": 13392,
+        "favorites": 10312,
+        "quotes": 4,
+        "follower_count": { "DespicableMe": 116373, "Pharrell": 10412245 }
+    },
+    {
+        "Movie": "2012_Hunger_Games",
+        "likes": 6776,
+        "replies": 1420,
+        "retweets": 29008,
+        "favorites": 6776,
+        "quotes": 44,
+        "follower_count": { "TheHungerGames": 1031433 }
+    },
+    {
+        "Movie": "2012_Iron_Man_3",
+        "likes": 7812,
+        "replies": 19852,
+        "retweets": 11612,
+        "favorites": 7812,
+        "quotes": 0,
+        "follower_count": { "Iron_Man": 2779421 }
+    },
+    {
+        "Movie": "2013_Captain_America",
+        "likes": 24487,
+        "replies": 2500,
+        "retweets": 12732,
+        "favorites": 24487,
+        "quotes": 6,
+        "follower_count": {
+            "DaveBautista": 1464092,
+            "prattprattpratt": 8411337,
+            "Guardians": 1895031,
+            "zoesaldana": 1258692,
+            "CaptainAmerica": 3070987
+        }
+    },
+    {
+        "Movie": "2014_Avengers_2",
+        "likes": 219664,
+        "replies": 16936,
+        "retweets": 136032,
+        "favorites": 219664,
+        "quotes": 24,
+        "follower_count": {
+            "MarkRuffalo": 8265313,
+            "Avengers": 7953870,
+            "RobertDowneyJr": 17674350
+        }
+    },
+    {
+        "Movie": "2014_Guardians_of_Galaxy",
+        "likes": 42544,
+        "replies": 4632,
+        "retweets": 18020,
+        "favorites": 42544,
+        "quotes": 8,
+        "follower_count": {
+            "DaveBautista": 1464092,
+            "prattprattpratt": 8411337,
+            "Guardians": 1895031,
+            "zoesaldana": 1258692
+        }
+    },
+    {
+        "Movie": "2014_Jurassic_World",
+        "likes": 278348,
+        "replies": 13624,
+        "retweets": 125804,
+        "favorites": 278348,
+        "quotes": 100,
+        "follower_count": {
+            "JurassicWorld": 405632,
+            "colintrevorrow": 90840,
+            "prattprattpratt": 8411396
+        }
+    },
+    {
+        "Movie": "2015_Captain_America_3",
+        "likes": 30272,
+        "replies": 460,
+        "retweets": 11264,
+        "favorites": 30272,
+        "quotes": 0,
+        "follower_count": { "CaptainAmerica": 3070999 }
+    },
+    {
+        "Movie": "2016_Beauty_and_Beast",
+        "likes": 747591,
+        "replies": 10873,
+        "retweets": 302684,
+        "favorites": 747591,
+        "quotes": 36047,
+        "follower_count": {
+            "beourguest": 120687,
+            "TheRealLukevans": 479361,
+            "EmmaWatson": 27393537
+        }
+    },
+    {
+        "Movie": "2016_Finding_Dory",
+        "likes": 1843115,
+        "replies": 46360,
+        "retweets": 582975,
+        "favorites": 1843115,
+        "quotes": 9215,
+        "follower_count": {
+            "findingdory": 100568,
+            "HaydenRolence": 175,
+            "EllenDeGeneres": 74712332,
+            "AlbertBrooks": 1583025
+        }
+    },
+    {
+        "Movie": "2016_Rogue_One",
+        "likes": 353980,
+        "replies": 12588,
+        "retweets": 311596,
+        "favorites": 353980,
+        "quotes": 544,
+        "follower_count": { "starwars": 6426901 }
+    },
+    {
+        "Movie": "2016_Wonder_Women",
+        "likes": 3359440,
+        "replies": 70600,
+        "retweets": 794492,
+        "favorites": 3359440,
+        "quotes": 64324,
+        "follower_count": { "GalGadot": 3702730, "PattyJenks": 238240 }
+    },
+    {
+        "Movie": "2017_Black_Panther",
+        "likes": 4772110,
+        "replies": 44735,
+        "retweets": 1008470,
+        "favorites": 4772110,
+        "quotes": 62900,
+        "follower_count": {
+            "theblackpanther": 1821643,
+            "chadwickboseman": 2124276,
+            "Lupita_Nyongo": 1938778,
+            "michaelb4jordan": 1464261,
+            "kendricklamar": 12119199
+        }
+    },
+    {
+        "Movie": "2018_Avengers_3",
+        "likes": 304748,
+        "replies": 7764,
+        "retweets": 85888,
+        "favorites": 304748,
+        "quotes": 7704,
+        "follower_count": { "Avengers": 7951853, "chrishemsworth": 8608024 }
+    },
+    {
+        "Movie": "2018_Incredibles_2",
+        "likes": 833370,
+        "replies": 14180,
+        "retweets": 204045,
+        "favorites": 833370,
+        "quotes": 33550,
+        "follower_count": {
+            "TheIncredibles": 36198,
+            "BradBirdA113": 138013,
+            "TheFunPost1": 11797,
+            "trybloo": 1001,
+            "MeenJoeDeen": 392,
+            "CambriaFunds": 2606,
+            "alicediccccc": 8
+        }
+    },
+    {
+        "Movie": "2019_Avengers_4",
+        "likes": 15933285,
+        "replies": 202262,
+        "retweets": 2471411,
+        "favorites": 15933285,
+        "quotes": 185134,
+        "follower_count": {
+            "MarkRuffalo": 8264126,
+            "Avengers": 7951892,
+            "astromeda_game": 1325,
+            "RobertDowneyJr": 17672317,
+            "sgonzaleezzz": 10,
+            "CambriaFunds": 2606,
+            "DynastySands": 739,
+            "kerzoven": 1285,
+            "SecurePhotosHQ": 290,
+            "NeverMyFault_": 1483
+        }
+    },
+    {
+        "Movie": "2019_Bad_Boys",
+        "likes": 5972,
+        "replies": 260,
+        "retweets": 2000,
+        "favorites": 5972,
+        "quotes": 332,
+        "follower_count": {
+            "BadBoys": 22414,
+            "SabrinaBraaa": 48,
+            "bep": 4499409
+        }
+    },
+    {
+        "Movie": "2019_Jumanji_2",
+        "likes": 383956,
+        "replies": 14348,
+        "retweets": 43868,
+        "favorites": 383956,
+        "quotes": 5604,
+        "follower_count": {
+            "KevinHart4real": 36867660,
+            "jumanjimovie": 27853,
+            "jackblack": 602273,
+            "TheRock": 17150640
+        }
+    },
+    {
+        "Movie": "2019_Lion_King",
+        "likes": 133668,
+        "replies": 2000,
+        "retweets": 31125,
+        "favorites": 133668,
+        "quotes": 6729,
+        "follower_count": {
+            "Jon_Favreau": 2291440,
+            "disneylionking": 97548,
+            "Sethrogen": 9052387
+        }
+    },
+    {
+        "Movie": "2019_Toy_Story_4",
+        "likes": 1737912,
+        "replies": 23560,
+        "retweets": 279020,
+        "favorites": 1737912,
+        "quotes": 42620,
+        "follower_count": {
+            "toystory": 124554,
+            "MikeLukas4": 2147,
+            "CooleyUrFaceOff": 11086,
+            "CambriaFunds": 2624,
+            "ofctimallen": 1072583,
+            "tomhanks": 15454173,
+            "MSfromUS": 35834,
+            "metropolisworld": 37632
+        }
+    },
+    {
+        "Movie": "2020_Sonic",
+        "likes": 4019824,
+        "replies": 78760,
+        "retweets": 741320,
+        "favorites": 4019824,
+        "quotes": 50628,
+        "follower_count": {
+            "sonic_hedgehog": 6002613,
+            "rejectedjokes": 1243592,
+            "PrismMarketView": 4415,
+            "justinbabcc": 76,
+            "DaisyJackssss": 27,
+            "fowltown": 40161,
+            "archibaldggg": 16,
+            "ANRDesignLLC": 4007,
+            "DesertRotor": 872,
+            "MarlinJohnn": 55,
+            "junkfoodarcades": 22537
+        }
+    },
+    {
+        "Movie": "2021_Doctor_Strange_2",
+        "likes": 793356,
+        "replies": 4408,
+        "retweets": 148836,
+        "favorites": 793356,
+        "quotes": 26540,
+        "follower_count": {
+            "DrStrange": 1906558,
+            "arvay61": 1515,
+            "NeverMyFault_": 1487,
+            "WolfbainGamepl1": 1240
+        }
+    },
+    {
+        "Movie": "2021_Shang-Chi",
+        "likes": 136381,
+        "replies": 1390,
+        "retweets": 14937,
+        "favorites": 136381,
+        "quotes": 2726,
+        "follower_count": {
+            "shangchi": 179979,
+            "TelezoShop": 586,
+            "VermontSlateCo": 838,
+            "ParkerUniv": 2360,
+            "SimuLiu": 1044695
+        }
+    },
+    {
+        "Movie": "2021_Venmon",
+        "likes": 284935,
+        "replies": 5480,
+        "retweets": 38190,
+        "favorites": 284935,
+        "quotes": 3810,
+        "follower_count": {
+            "VenomMovie": 192766,
+            "im_ill_informed": 9933,
+            "LPO_Us": 907,
+            "NaomieHarris": 45119,
+            "andyserkis": 270339,
+            "KAVOPICKSHOP": 403,
+            "justinbabcc": 76,
+            "trybloo": 1016,
+            "PowerA": 54789
+        }
+    },
+    {
+        "Movie": "2022_Black_Panther_2",
+        "likes": 318968,
+        "replies": 3080,
+        "retweets": 45996,
+        "favorites": 318968,
+        "quotes": 5812,
+        "follower_count": { "theblackpanther": 1821209 }
+    },
+    {
+        "Movie": "2022_Top_Gun",
+        "likes": 319585,
+        "replies": 14353,
+        "retweets": 45788,
+        "favorites": 319585,
+        "quotes": 11427,
+        "follower_count": {
+            "Miles_Teller": 695289,
+            "TopGunMovie": 138398,
+            "TomCruise": 7011388,
+            "OneRepublic": 3052428,
+            "ladygaga": 83607817
+        }
+    },
+    {
+        "Movie": "2023_Barbie",
+        "likes": 7234724,
+        "replies": 182160,
+        "retweets": 1036972,
+        "favorites": 7234724,
+        "quotes": 148576,
+        "follower_count": {
+            "NICKIMINAJ": 28163067,
+            "barbiethemovie": 110769,
+            "DUALIPA": 10398302,
+            "PowerA": 54790,
+            "Yubico": 38834,
+            "pinkpantheress2": 312079,
+            "studiosilvereye": 257,
+            "mrhyrum": 15701,
+            "icespicee_": 2340451,
+            "poetrycatalog": 561,
+            "GoodSmile_US": 418958,
+            "AvaMax": 238175,
+            "MyRedKiteSocial": 1593,
+            "FilmFroth": 405,
+            "charli_xcx": 3614916,
+            "wkrpindy": 1469,
+            "WeAreOverade": 1016,
+            "ofermend": 983,
+            "SecNews_GR": 7248,
+            "MeenJoeDeen": 399
+        }
+    },
+    {
+        "Movie": "2023_Spiderverse_2",
+        "likes": 362574,
+        "replies": 3163,
+        "retweets": 51995,
+        "favorites": 362574,
+        "quotes": 10737,
+        "follower_count": { "SpiderVerse": 784396 }
+    },
+    {
+        "Movie": "2023_Super_Mario",
+        "likes": 3151916,
+        "replies": 55924,
+        "retweets": 624236,
+        "favorites": 3151916,
+        "quotes": 200380,
+        "follower_count": {
+            "supermariomovie": 281594,
+            "prattprattpratt": 8409850
+        }
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "__typename": "Tweet",
+        "rest_id": "2350133814",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxOTM3MzcxMA==",
+                    "rest_id": "19373710",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Fri Jan 23 01:05:42 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "lprk.co/linkinpark",
+                                        "expanded_url": "http://lprk.co/linkinpark",
+                                        "url": "https://t.co/Opl8B4GNnn",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 2040,
+                        "followers_count": 5721419,
+                        "friends_count": 123,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 13125,
+                        "location": "Los Angeles, CA",
+                        "media_count": 1783,
+                        "name": "LINKIN PARK",
+                        "normal_followers_count": 5721419,
+                        "pinned_tweet_ids_str": [
+                            "1644189573436653568"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19373710/1676005661",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1623911549764263936/qOUxpHsk_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "linkinpark",
+                        "statuses_count": 6780,
+                        "translator_type": "regular",
+                        "url": "https://t.co/Opl8B4GNnn",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "2350133814"
+            ],
+            "editable_until_msecs": "1246053232000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Fri Jun 26 21:23:52 +0000 2009",
+            "conversation_id_str": "2350133814",
+            "display_text_range": [
+                0,
+                107
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 3,
+            "favorited": false,
+            "full_text": "Watch Mike take on some fans in the new Transformers: Revenge of the Fallen video game! http://bit.ly/RrW7o",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "19373710",
+            "id_str": "2350133814"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1838562568",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxOTM3MzcxMA==",
+                    "rest_id": "19373710",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Fri Jan 23 01:05:42 +0000 2009",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "lprk.co/linkinpark",
+                                        "expanded_url": "http://lprk.co/linkinpark",
+                                        "url": "https://t.co/Opl8B4GNnn",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 2040,
+                        "followers_count": 5721419,
+                        "friends_count": 123,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 13125,
+                        "location": "Los Angeles, CA",
+                        "media_count": 1783,
+                        "name": "LINKIN PARK",
+                        "normal_followers_count": 5721419,
+                        "pinned_tweet_ids_str": [
+                            "1644189573436653568"
+                        ],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19373710/1676005661",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1623911549764263936/qOUxpHsk_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "linkinpark",
+                        "statuses_count": 6780,
+                        "translator_type": "regular",
+                        "url": "https://t.co/Opl8B4GNnn",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": [
+                "1838562568"
+            ],
+            "editable_until_msecs": "1242674067000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon May 18 18:44:27 +0000 2009",
+            "conversation_id_str": "1838562568",
+            "display_text_range": [
+                0,
+                138
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            37,
+                            47
+                        ],
+                        "text": "NewDivide"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "full_text": "You guys know that Linkin Park wrote #NewDivide for Transformers: Revenge of the Fallen, right? Watch the film trailer http://bit.ly/h9jkQ",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "19373710",
+            "id_str": "1838562568"
+        }
+    }    
+]

@@ -22,21 +22,34 @@ def count_likes():
     for file in file_list:
         data = read_json(f"filtered_data/{file}")
 
+        follower_count = {}
+        screen_name = set()
         relevant_likes = 0
-        irrelevant_likes = 0
+        reply_count = 0
+        retweet_count = 0
+        favorite_count = 0
+        quote_count = 0
 
         file_name = file.split("_filtered.json")[0]
 
         for i in data:
-            # for j in movie_titles:
-            #     words = j.split(" ")
-            #     lower =  j.lower().split(" ")
-            #     for k in lower:
-            #         words.append(k)
-                
-            #     print(words)
             relevant_likes += i['favorite_count']
-        print(json.dumps({"Movie": file_name, "likes": relevant_likes}))
+            reply_count += i['reply_count']
+            retweet_count += i['retweet_count']
+            favorite_count += i['favorite_count']
+            quote_count += i['quote_count']
+            if i['screen_name'] not in screen_name:
+                follower_count[i['screen_name']] = i['followers_count']
+
+        print(json.dumps({
+            "Movie": file_name, 
+            "likes": relevant_likes, 
+            "replies": reply_count,
+            "retweets": retweet_count,
+            "favorites": favorite_count,
+            "quotes": quote_count,
+            "follower_count": follower_count
+        }))
 
 def main():
     count_likes()

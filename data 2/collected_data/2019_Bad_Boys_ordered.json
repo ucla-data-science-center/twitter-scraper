@@ -1,0 +1,883 @@
+[
+    {
+        "__typename": "Tweet",
+        "rest_id": "1058080325807423488",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxMDI0OTAxMTQ5MzkwOTIxNzI4",
+                    "rest_id": "1024901149390921728",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": false,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Thu Aug 02 06:14:10 +0000 2018",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "#BADBOYSFORLIFE, starring Will Smith and @RealMartyMar, on\nDigital, 4K UHD, Blu-ray & DVD NOW!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/BadBoysForLife\u2026",
+                                        "expanded_url": "http://bit.ly/BadBoysForLifeTW",
+                                        "url": "https://t.co/bcZyEHu6aE",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 111,
+                        "followers_count": 22414,
+                        "friends_count": 12,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 74,
+                        "location": "",
+                        "media_count": 216,
+                        "name": "Bad Boys",
+                        "normal_followers_count": 22414,
+                        "pinned_tweet_ids_str": ["1245025768108769281"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024901149390921728/1587487860",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242168258393821184/lKjcP-3K_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "BadBoys",
+                        "statuses_count": 385,
+                        "translator_type": "none",
+                        "url": "https://t.co/bcZyEHu6aE",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["1058080325807423488"],
+            "editable_until_msecs": "1541102782511",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "legacy": {
+            "bookmark_count": 2,
+            "bookmarked": false,
+            "created_at": "Thu Nov 01 19:36:22 +0000 2018",
+            "conversation_id_str": "1058080325807423488",
+            "display_text_range": [0, 94],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/nfiJ7fbo0N",
+                        "expanded_url": "https://twitter.com/BadBoys/status/1058080325807423488/photo/1",
+                        "id_str": "1058079903214530560",
+                        "indices": [95, 118],
+                        "media_key": "3_1058079903214530560",
+                        "media_url_https": "https://pbs.twimg.com/media/Dq8OEOcU8AAFyUn.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/nfiJ7fbo0N",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "317522823",
+                                        "name": "Martin Lawrence",
+                                        "screen_name": "realmartymar",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 751,
+                                        "y": 345,
+                                        "h": 496,
+                                        "w": 496
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 563,
+                                        "y": 258,
+                                        "h": 372,
+                                        "w": 372
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 319,
+                                        "y": 146,
+                                        "h": 210,
+                                        "w": 210
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 751,
+                                        "y": 345,
+                                        "h": 496,
+                                        "w": 496
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1600,
+                                "w": 1600,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1600,
+                            "width": 1600,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 232,
+                                    "w": 1600,
+                                    "h": 896
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1600,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 196,
+                                    "y": 0,
+                                    "w": 1404,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 600,
+                                    "y": 0,
+                                    "w": 800,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1600,
+                                    "h": 1600
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "instagram.com/p/BppYYhjhNnD/",
+                        "expanded_url": "https://www.instagram.com/p/BppYYhjhNnD/",
+                        "url": "https://t.co/XQaqpF7Zlo",
+                        "indices": [71, 94]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/nfiJ7fbo0N",
+                        "expanded_url": "https://twitter.com/BadBoys/status/1058080325807423488/photo/1",
+                        "id_str": "1058079903214530560",
+                        "indices": [95, 118],
+                        "media_key": "3_1058079903214530560",
+                        "media_url_https": "https://pbs.twimg.com/media/Dq8OEOcU8AAFyUn.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/nfiJ7fbo0N",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "317522823",
+                                        "name": "Martin Lawrence",
+                                        "screen_name": "realmartymar",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 751,
+                                        "y": 345,
+                                        "h": 496,
+                                        "w": 496
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 563,
+                                        "y": 258,
+                                        "h": 372,
+                                        "w": 372
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 319,
+                                        "y": 146,
+                                        "h": 210,
+                                        "w": 210
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 751,
+                                        "y": 345,
+                                        "h": 496,
+                                        "w": 496
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1600,
+                                "w": 1600,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1600,
+                            "width": 1600,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 232,
+                                    "w": 1600,
+                                    "h": 896
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1600,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 196,
+                                    "y": 0,
+                                    "w": 1404,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 600,
+                                    "y": 0,
+                                    "w": 800,
+                                    "h": 1600
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1600,
+                                    "h": 1600
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 1173,
+            "favorited": false,
+            "full_text": "It's official. BAD BOYS FOR LIFE, coming to theaters January 17, 2020. https://t.co/XQaqpF7Zlo https://t.co/nfiJ7fbo0N",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 81,
+            "reply_count": 28,
+            "retweet_count": 449,
+            "retweeted": false,
+            "user_id_str": "1024901149390921728",
+            "id_str": "1058080325807423488"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1246242357164544005",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxMDI0OTAxMTQ5MzkwOTIxNzI4",
+                    "rest_id": "1024901149390921728",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": false,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Thu Aug 02 06:14:10 +0000 2018",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "#BADBOYSFORLIFE, starring Will Smith and @RealMartyMar, on\nDigital, 4K UHD, Blu-ray & DVD NOW!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "bit.ly/BadBoysForLife\u2026",
+                                        "expanded_url": "http://bit.ly/BadBoysForLifeTW",
+                                        "url": "https://t.co/bcZyEHu6aE",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 111,
+                        "followers_count": 22414,
+                        "friends_count": 12,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 74,
+                        "location": "",
+                        "media_count": 216,
+                        "name": "Bad Boys",
+                        "normal_followers_count": 22414,
+                        "pinned_tweet_ids_str": ["1245025768108769281"],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024901149390921728/1587487860",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242168258393821184/lKjcP-3K_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "BadBoys",
+                        "statuses_count": 385,
+                        "translator_type": "none",
+                        "url": "https://t.co/bcZyEHu6aE",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["1246242357164544005"],
+            "editable_until_msecs": "1585964106668",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Sat Apr 04 01:05:06 +0000 2020",
+            "conversation_id_str": "1246242357164544005",
+            "display_text_range": [0, 65],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [51, 65],
+                        "text": "BadBoysAtHome"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 92,
+            "favorited": false,
+            "full_text": "This was my first day of filming Bad Boys for Life #BadBoysAtHome",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 11,
+            "retweeted": false,
+            "user_id_str": "1024901149390921728",
+            "id_str": "1246242357164544005"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1759927118295699750",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxNzM4MjE0NDU4MjQ0MTA4Mjg5",
+                    "rest_id": "1738214458244108289",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Fri Dec 22 15:07:31 +0000 2023",
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "description": "Sabrina Bradshaw: Curating adventures, capturing moments worldwide. Join me on a journey of wanderlust and discovery!",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "medium.com/@SabrinaBraaa",
+                                        "expanded_url": "https://medium.com/@SabrinaBraaa",
+                                        "url": "https://t.co/hifbbq2o1X",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 18,
+                        "followers_count": 48,
+                        "friends_count": 132,
+                        "has_custom_timelines": false,
+                        "is_translator": false,
+                        "listed_count": 0,
+                        "location": "USA",
+                        "media_count": 6,
+                        "name": "Sabrina Bradshaw",
+                        "normal_followers_count": 48,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738214458244108289/1703258116",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1738215516013998083/wE5kdFLS_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "SabrinaBraaa",
+                        "statuses_count": 27,
+                        "translator_type": "none",
+                        "url": "https://t.co/hifbbq2o1X",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1738216671221784823",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 880,
+                                "name": "Travel & Transportation",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "card": {
+            "rest_id": "card://1759927114042683392",
+            "legacy": {
+                "binding_values": [
+                    {
+                        "key": "unified_card",
+                        "value": {
+                            "string_value": "{\"type\":\"image_website\",\"component_objects\":{\"details_1\":{\"type\":\"details\",\"data\":{\"title\":{\"content\":\"Sabrina Bradshaw\",\"is_rtl\":false},\"subtitle\":{\"content\":\"medium.com\",\"is_rtl\":false},\"destination\":\"browser_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_1759926978495258626\",\"destination\":\"browser_1\"}}},\"destination_objects\":{\"browser_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https://medium.com/@SabrinaBraaa/wanderlust-chronicles-navigating-the-tapestry-of-global-adventures-546a3a121528\",\"vanity\":\"medium.com\"}}}},\"components\":[\"media_1\",\"details_1\"],\"media_entities\":{\"3_1759926978495258626\":{\"id\":1759926978495258626,\"id_str\":\"1759926978495258626\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/GGyEQy_WIAIOoHN.png\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":800,\"focus_rects\":[{\"x\":0,\"y\":0,\"h\":448,\"w\":800},{\"x\":0,\"y\":0,\"h\":800,\"w\":800},{\"x\":98,\"y\":0,\"h\":800,\"w\":702},{\"x\":400,\"y\":0,\"h\":800,\"w\":400},{\"x\":0,\"y\":0,\"h\":800,\"w\":800}]},\"sizes\":{\"medium\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"large\":{\"w\":800,\"h\":800,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":680,\"resize\":\"fit\"}},\"source_user_id\":1738214458244108289,\"source_user_id_str\":\"1738214458244108289\",\"media_key\":\"3_1759926978495258626\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":96,\"green\":71,\"blue\":69},\"percentage\":33.91},{\"rgb\":{\"red\":219,\"green\":215,\"blue\":211},\"percentage\":28.12},{\"rgb\":{\"red\":174,\"green\":129,\"blue\":106},\"percentage\":15.56},{\"rgb\":{\"red\":144,\"green\":207,\"blue\":211},\"percentage\":14.95},{\"rgb\":{\"red\":77,\"green\":110,\"blue\":103},\"percentage\":1.92}]}},\"ttl\":-1}}}}}",
+                            "type": "STRING"
+                        }
+                    },
+                    {
+                        "key": "card_url",
+                        "value": {
+                            "scribe_key": "card_url",
+                            "string_value": "https://twitter.com",
+                            "type": "STRING"
+                        }
+                    }
+                ],
+                "card_platform": {
+                    "platform": {
+                        "audience": {
+                            "name": "production"
+                        },
+                        "device": {
+                            "name": "Swift",
+                            "version": "12"
+                        }
+                    }
+                },
+                "name": "unified_card",
+                "url": "card://1759927114042683392",
+                "user_refs_results": []
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["1759927118295699750"],
+            "editable_until_msecs": "1708437897000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "count": "140065",
+            "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">advertiser-interface</a>",
+        "legacy": {
+            "bookmark_count": 8,
+            "bookmarked": false,
+            "created_at": "Tue Feb 20 13:04:57 +0000 2024",
+            "conversation_id_str": "1759927118295699750",
+            "display_text_range": [0, 35],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorite_count": 99,
+            "favorited": false,
+            "full_text": "This is worth seeing for all of us.",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 1,
+            "reply_count": 31,
+            "retweet_count": 19,
+            "retweeted": false,
+            "scopes": {
+                "followers": false
+            },
+            "user_id_str": "1738214458244108289",
+            "id_str": "1759927118295699750"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "1212141269373243393",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3NDI4MzYy",
+                    "rest_id": "7428362",
+                    "affiliates_highlighted_label": {},
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Circle",
+                    "legacy": {
+                        "created_at": "Thu Jul 12 13:25:51 +0000 2007",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "ELEVATION \u2601\ufe0f Vibe to our latest album! \u2728\ud83d\ude80",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            },
+                            "url": {
+                                "urls": [
+                                    {
+                                        "display_url": "blackeyedpeas.komi.io",
+                                        "expanded_url": "https://blackeyedpeas.komi.io",
+                                        "url": "https://t.co/GdVF9NjchV",
+                                        "indices": [0, 23]
+                                    }
+                                ]
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 3593,
+                        "followers_count": 4499409,
+                        "friends_count": 40583,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 9373,
+                        "location": "Los Angeles",
+                        "media_count": 1783,
+                        "name": "Black Eyed Peas",
+                        "normal_followers_count": 4499409,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7428362/1704966635",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1586032208632074242/U5EWul0x_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "bep",
+                        "statuses_count": 4784,
+                        "translator_type": "none",
+                        "url": "https://t.co/GdVF9NjchV",
+                        "verified": false,
+                        "withheld_in_countries": []
+                    },
+                    "professional": {
+                        "rest_id": "1564610741390434309",
+                        "professional_type": "Creator",
+                        "category": [
+                            {
+                                "id": 1006,
+                                "name": "Musical Artist",
+                                "icon_name": "IconBriefcaseStroke"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["1212141269373243393"],
+            "editable_until_msecs": "1577833773771",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "legacy": {
+            "bookmark_count": 1,
+            "bookmarked": false,
+            "created_at": "Tue Dec 31 22:39:33 +0000 2019",
+            "conversation_id_str": "1212141269373243393",
+            "display_text_range": [0, 260],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [26, 32],
+                        "text": "RITMO"
+                    },
+                    {
+                        "indices": [192, 207],
+                        "text": "BadBoysForLife"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/9P8vNwwIbH",
+                        "expanded_url": "https://twitter.com/bep/status/1212141269373243393/video/1",
+                        "id_str": "1212138640077230080",
+                        "indices": [261, 284],
+                        "media_key": "7_1212138640077230080",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212138640077230080/pu/img/86H67sqjOFb2vO6Z.jpg",
+                        "type": "video",
+                        "url": "https://t.co/9P8vNwwIbH",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 720,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 720,
+                                "w": 720,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 720,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [1, 1],
+                            "duration_millis": 20103,
+                            "variants": [
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/vid/320x320/_D1SnP-sb51Kjauu.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/vid/480x480/te4F1pgriuSvZ3VH.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/vid/720x720/X7XLIw2NNPM0d_H-.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/pl/g-U8Tj44P2Epr3-2.m3u8?tag=10"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "tunespeak.com/campaign/5dfb8\u2026",
+                        "expanded_url": "https://www.tunespeak.com/campaign/5dfb8826f6f9642226428105",
+                        "url": "https://t.co/UBX1tkmOyG",
+                        "indices": [237, 260]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1024901149390921728",
+                        "name": "Bad Boys",
+                        "screen_name": "BadBoys",
+                        "indices": [183, 191]
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/9P8vNwwIbH",
+                        "expanded_url": "https://twitter.com/bep/status/1212141269373243393/video/1",
+                        "id_str": "1212138640077230080",
+                        "indices": [261, 284],
+                        "media_key": "7_1212138640077230080",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212138640077230080/pu/img/86H67sqjOFb2vO6Z.jpg",
+                        "type": "video",
+                        "url": "https://t.co/9P8vNwwIbH",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 720,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 720,
+                                "w": 720,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 720,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [1, 1],
+                            "duration_millis": 20103,
+                            "variants": [
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/vid/320x320/_D1SnP-sb51Kjauu.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/vid/480x480/te4F1pgriuSvZ3VH.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/vid/720x720/X7XLIw2NNPM0d_H-.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1212138640077230080/pu/pl/g-U8Tj44P2Epr3-2.m3u8?tag=10"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 129,
+            "favorited": false,
+            "full_text": "Start 2020 off right! Add #RITMO to your playlists for a chance to win a flyaway trip to the \u201cBad Boys For Life\u201d LA Movie Premiere \u2708\ufe0f Hit the link below for official rules and entry. @BadBoys #BadBoysForLife\n\nOfficial Rules &amp; Entry: https://t.co/UBX1tkmOyG https://t.co/9P8vNwwIbH",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 21,
+            "retweeted": false,
+            "user_id_str": "7428362",
+            "id_str": "1212141269373243393"
+        }
+    }
+]
