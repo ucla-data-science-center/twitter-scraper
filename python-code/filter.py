@@ -16,13 +16,13 @@ def read_json(path: str) -> list:
     return res
 
 def filter():
-    file_list = os.listdir('data_2/collected_data')
-    ordered_list = [file for file in file_list if "_ordered.json" in file]
+    file_list = os.listdir('./')
+    ordered_list = [file for file in file_list if "ordered.json" in file]
     for file in ordered_list:
         print(file)
 
-        data = read_json(f"data_2/collected_data/{file}")
-        filed_name = file.split("_ordered.json")[0]
+        data = read_json(f"./{file}")
+        filed_name = file.split("ordered.json")[0]
 
         if (f"{filed_name}_filtered.json" in file_list):
             continue

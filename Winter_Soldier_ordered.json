@@ -1,0 +1,2360 @@
+[
+    {
+        "__typename": "Tweet",
+        "rest_id": "428939582550204416",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["428939582550204416"],
+            "editable_until_msecs": "1391103940449",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Thu Jan 30 17:15:40 +0000 2014",
+            "conversation_id_str": "428939582550204416",
+            "display_text_range": [0, 121],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [8, 23],
+                        "text": "CaptainAmerica"
+                    },
+                    {
+                        "indices": [24, 38],
+                        "text": "WinterSoldier"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "yhoo.it/1fqeQYy",
+                        "expanded_url": "http://yhoo.it/1fqeQYy",
+                        "url": "http://t.co/VqR36ZIdM4",
+                        "indices": [99, 121]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 223,
+            "favorited": false,
+            "full_text": "The new #CaptainAmerica #WinterSoldier character posters are here! Check them out on @YahooMovies: http://t.co/VqR36ZIdM4",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 10,
+            "retweet_count": 277,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "428939582550204416"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "456915498051964928",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["456915498051964928"],
+            "editable_until_msecs": "1397773918472",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 1,
+            "bookmarked": false,
+            "created_at": "Thu Apr 17 22:01:58 +0000 2014",
+            "conversation_id_str": "456915498051964928",
+            "display_text_range": [0, 118],
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/cdhck2qgxu",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/456915498051964928/photo/1",
+                        "id_str": "456915497716416512",
+                        "indices": [96, 118],
+                        "media_key": "3_456915497716416512",
+                        "media_url_https": "https://pbs.twimg.com/media/BldKOW3CAAAS4Oj.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/CDHCk2qgxu",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 794,
+                                        "y": 1306,
+                                        "h": 90,
+                                        "w": 90
+                                    },
+                                    {
+                                        "x": 350,
+                                        "y": 1474,
+                                        "h": 98,
+                                        "w": 98
+                                    },
+                                    {
+                                        "x": 43,
+                                        "y": 128,
+                                        "h": 173,
+                                        "w": 173
+                                    },
+                                    {
+                                        "x": 874,
+                                        "y": 534,
+                                        "h": 169,
+                                        "w": 169
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 472,
+                                        "y": 776,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 208,
+                                        "y": 876,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 25,
+                                        "y": 76,
+                                        "h": 102,
+                                        "w": 102
+                                    },
+                                    {
+                                        "x": 519,
+                                        "y": 317,
+                                        "h": 100,
+                                        "w": 100
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 267,
+                                        "y": 440,
+                                        "h": 30,
+                                        "w": 30
+                                    },
+                                    {
+                                        "x": 117,
+                                        "y": 496,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 14,
+                                        "y": 43,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 294,
+                                        "y": 179,
+                                        "h": 56,
+                                        "w": 56
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 794,
+                                        "y": 1306,
+                                        "h": 90,
+                                        "w": 90
+                                    },
+                                    {
+                                        "x": 350,
+                                        "y": 1474,
+                                        "h": 98,
+                                        "w": 98
+                                    },
+                                    {
+                                        "x": 43,
+                                        "y": 128,
+                                        "h": 173,
+                                        "w": 173
+                                    },
+                                    {
+                                        "x": 874,
+                                        "y": 534,
+                                        "h": 169,
+                                        "w": 169
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2018,
+                                "w": 1920,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1142,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 647,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2018,
+                            "width": 1920,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_456915497716416512"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/CDHCk2qgxu",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/456915498051964928/photo/1",
+                        "id_str": "456915497716416512",
+                        "indices": [96, 118],
+                        "media_key": "3_456915497716416512",
+                        "media_url_https": "https://pbs.twimg.com/media/BldKOW3CAAAS4Oj.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/CDHCk2qgxu",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 794,
+                                        "y": 1306,
+                                        "h": 90,
+                                        "w": 90
+                                    },
+                                    {
+                                        "x": 350,
+                                        "y": 1474,
+                                        "h": 98,
+                                        "w": 98
+                                    },
+                                    {
+                                        "x": 43,
+                                        "y": 128,
+                                        "h": 173,
+                                        "w": 173
+                                    },
+                                    {
+                                        "x": 874,
+                                        "y": 534,
+                                        "h": 169,
+                                        "w": 169
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 472,
+                                        "y": 776,
+                                        "h": 53,
+                                        "w": 53
+                                    },
+                                    {
+                                        "x": 208,
+                                        "y": 876,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 25,
+                                        "y": 76,
+                                        "h": 102,
+                                        "w": 102
+                                    },
+                                    {
+                                        "x": 519,
+                                        "y": 317,
+                                        "h": 100,
+                                        "w": 100
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 267,
+                                        "y": 440,
+                                        "h": 30,
+                                        "w": 30
+                                    },
+                                    {
+                                        "x": 117,
+                                        "y": 496,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 14,
+                                        "y": 43,
+                                        "h": 58,
+                                        "w": 58
+                                    },
+                                    {
+                                        "x": 294,
+                                        "y": 179,
+                                        "h": 56,
+                                        "w": 56
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 794,
+                                        "y": 1306,
+                                        "h": 90,
+                                        "w": 90
+                                    },
+                                    {
+                                        "x": 350,
+                                        "y": 1474,
+                                        "h": 98,
+                                        "w": 98
+                                    },
+                                    {
+                                        "x": 43,
+                                        "y": 128,
+                                        "h": 173,
+                                        "w": 173
+                                    },
+                                    {
+                                        "x": 874,
+                                        "y": 534,
+                                        "h": 169,
+                                        "w": 169
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2018,
+                                "w": 1920,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1142,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 647,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2018,
+                            "width": 1920,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_456915497716416512"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 1223,
+            "favorited": false,
+            "full_text": "It's Marvel's \"Captain America: The Winter Soldier\" by the numbers! Because knowledge is power. http://t.co/CDHCk2qgxu",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 1,
+            "reply_count": 39,
+            "retweet_count": 963,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "456915498051964928"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "393045912764702720",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["393045912764702720"],
+            "editable_until_msecs": "1382546222700",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Wed Oct 23 16:07:02 +0000 2013",
+            "conversation_id_str": "393045912764702720",
+            "display_text_range": [0, 139],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [37, 52],
+                        "text": "CaptainAmerica"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/HaynOP_Hhmo",
+                        "expanded_url": "http://youtu.be/HaynOP_Hhmo",
+                        "url": "http://t.co/hqnZq2NV58",
+                        "indices": [117, 139]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "24019308",
+                        "name": "iTunes Trailers",
+                        "screen_name": "iTunesTrailers",
+                        "indices": [100, 115]
+                    }
+                ]
+            },
+            "favorite_count": 202,
+            "favorited": false,
+            "full_text": "Psst! We've got a sneak peek of the \u201c#CaptainAmerica: The Winter Soldier\u201d trailer, live tmw only on @iTunesTrailers: http://t.co/hqnZq2NV58",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 21,
+            "retweet_count": 381,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "393045912764702720"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "458358030468272128",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["458358030468272128"],
+            "editable_until_msecs": "1398117845001",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon Apr 21 21:34:05 +0000 2014",
+            "conversation_id_str": "458358030468272128",
+            "display_text_range": [0, 126],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [47, 62],
+                        "text": "CaptainAmerica"
+                    },
+                    {
+                        "indices": [63, 77],
+                        "text": "WinterSoldier"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1eWSH6X",
+                        "expanded_url": "http://bit.ly/1eWSH6X",
+                        "url": "http://t.co/RInxzJAyxU",
+                        "indices": [104, 126]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 119,
+            "favorited": false,
+            "full_text": "A little snippet of Cap goodness from Marvel's #CaptainAmerica #WinterSoldier to round off your Monday. http://t.co/RInxzJAyxU",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 70,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "458358030468272128"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "438403906813456384",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["438403906813456384"],
+            "editable_until_msecs": "1393360411192",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 1,
+            "bookmarked": false,
+            "created_at": "Tue Feb 25 20:03:31 +0000 2014",
+            "conversation_id_str": "438403906813456384",
+            "display_text_range": [0, 135],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [48, 63],
+                        "text": "CaptainAmerica"
+                    },
+                    {
+                        "indices": [64, 71],
+                        "text": "Winter"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/digolmjm14",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/438403906813456384/photo/1",
+                        "id_str": "438403906041692160",
+                        "indices": [113, 135],
+                        "media_key": "3_438403906041692160",
+                        "media_url_https": "https://pbs.twimg.com/media/BhWGB5_CQAAXHZp.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/digOLmJM14",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 803,
+                                        "y": 131,
+                                        "h": 215,
+                                        "w": 215
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 471,
+                                        "y": 77,
+                                        "h": 126,
+                                        "w": 126
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 266,
+                                        "y": 43,
+                                        "h": 71,
+                                        "w": 71
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 981,
+                                        "y": 161,
+                                        "h": 263,
+                                        "w": 263
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "w": 1404,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 823,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 466,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2500,
+                            "width": 1714,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_438403906041692160"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/digOLmJM14",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/438403906813456384/photo/1",
+                        "id_str": "438403906041692160",
+                        "indices": [113, 135],
+                        "media_key": "3_438403906041692160",
+                        "media_url_https": "https://pbs.twimg.com/media/BhWGB5_CQAAXHZp.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/digOLmJM14",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 803,
+                                        "y": 131,
+                                        "h": 215,
+                                        "w": 215
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 471,
+                                        "y": 77,
+                                        "h": 126,
+                                        "w": 126
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 266,
+                                        "y": 43,
+                                        "h": 71,
+                                        "w": 71
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 981,
+                                        "y": 161,
+                                        "h": 263,
+                                        "w": 263
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "w": 1404,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 823,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 466,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2500,
+                            "width": 1714,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_438403906041692160"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 403,
+            "favorited": false,
+            "full_text": "Falcon takes flight on the brand new poster for #CaptainAmerica #Winter Soldier, hitting theaters April 4, 2014! http://t.co/digOLmJM14",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 18,
+            "retweet_count": 365,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "438403906813456384"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "430110308645212160",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["430110308645212160"],
+            "editable_until_msecs": "1391383063301",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "legacy": {
+            "bookmark_count": 1,
+            "bookmarked": false,
+            "created_at": "Sun Feb 02 22:47:43 +0000 2014",
+            "conversation_id_str": "430110308645212160",
+            "display_text_range": [0, 133],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [10, 21],
+                        "text": "CapBigGame"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "1830548930",
+                        "name": "\u274a nida \u274a",
+                        "screen_name": "noodlenida",
+                        "indices": [25, 36]
+                    },
+                    {
+                        "id_str": "701615052",
+                        "name": "Captain America",
+                        "screen_name": "CaptainAmerica",
+                        "indices": [38, 53]
+                    }
+                ]
+            },
+            "favorite_count": 31,
+            "favorited": false,
+            "full_text": "*salutes* #CapBigGame RT @noodlenida: @CaptainAmerica im wearing my winter soldier shirt and waiting for the new ad! i can't wait!!!!",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 7,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "430110308645212160"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "441256986995220481",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["441256986995220481"],
+            "editable_until_msecs": "1394040638515",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 4,
+            "bookmarked": false,
+            "created_at": "Wed Mar 05 17:00:38 +0000 2014",
+            "conversation_id_str": "441256986995220481",
+            "display_text_range": [0, 129],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [4, 18],
+                        "text": "WinterSoldier"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/uvbaitoykm",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/441256986995220481/photo/1",
+                        "id_str": "441256986240237568",
+                        "indices": [107, 129],
+                        "media_key": "3_441256986240237568",
+                        "media_url_https": "https://pbs.twimg.com/media/Bh-o5B-CQAAu3Ye.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/UvbAitoyKM",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 161,
+                                        "y": 55,
+                                        "h": 71,
+                                        "w": 71
+                                    },
+                                    {
+                                        "x": 209,
+                                        "y": 17,
+                                        "h": 101,
+                                        "w": 101
+                                    },
+                                    {
+                                        "x": 741,
+                                        "y": 925,
+                                        "h": 253,
+                                        "w": 253
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 94,
+                                        "y": 32,
+                                        "h": 41,
+                                        "w": 41
+                                    },
+                                    {
+                                        "x": 122,
+                                        "y": 10,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 434,
+                                        "y": 542,
+                                        "h": 148,
+                                        "w": 148
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 53,
+                                        "y": 18,
+                                        "h": 23,
+                                        "w": 23
+                                    },
+                                    {
+                                        "x": 69,
+                                        "y": 5,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 307,
+                                        "h": 84,
+                                        "w": 84
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 197,
+                                        "y": 68,
+                                        "h": 87,
+                                        "w": 87
+                                    },
+                                    {
+                                        "x": 256,
+                                        "y": 21,
+                                        "h": 124,
+                                        "w": 124
+                                    },
+                                    {
+                                        "x": 905,
+                                        "y": 1130,
+                                        "h": 310,
+                                        "w": 310
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "w": 1404,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 823,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 466,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2500,
+                            "width": 1714,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_441256986240237568"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/UvbAitoyKM",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/441256986995220481/photo/1",
+                        "id_str": "441256986240237568",
+                        "indices": [107, 129],
+                        "media_key": "3_441256986240237568",
+                        "media_url_https": "https://pbs.twimg.com/media/Bh-o5B-CQAAu3Ye.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/UvbAitoyKM",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 161,
+                                        "y": 55,
+                                        "h": 71,
+                                        "w": 71
+                                    },
+                                    {
+                                        "x": 209,
+                                        "y": 17,
+                                        "h": 101,
+                                        "w": 101
+                                    },
+                                    {
+                                        "x": 741,
+                                        "y": 925,
+                                        "h": 253,
+                                        "w": 253
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 94,
+                                        "y": 32,
+                                        "h": 41,
+                                        "w": 41
+                                    },
+                                    {
+                                        "x": 122,
+                                        "y": 10,
+                                        "h": 59,
+                                        "w": 59
+                                    },
+                                    {
+                                        "x": 434,
+                                        "y": 542,
+                                        "h": 148,
+                                        "w": 148
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 53,
+                                        "y": 18,
+                                        "h": 23,
+                                        "w": 23
+                                    },
+                                    {
+                                        "x": 69,
+                                        "y": 5,
+                                        "h": 33,
+                                        "w": 33
+                                    },
+                                    {
+                                        "x": 246,
+                                        "y": 307,
+                                        "h": 84,
+                                        "w": 84
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 197,
+                                        "y": 68,
+                                        "h": 87,
+                                        "w": 87
+                                    },
+                                    {
+                                        "x": 256,
+                                        "y": 21,
+                                        "h": 124,
+                                        "w": 124
+                                    },
+                                    {
+                                        "x": 905,
+                                        "y": 1130,
+                                        "h": 310,
+                                        "w": 310
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "w": 1404,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 823,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 466,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2500,
+                            "width": 1714,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_441256986240237568"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 316,
+            "favorited": false,
+            "full_text": "The #WinterSoldier is almost here. See Marvel's \"Captain America: The Winter Soldier\" in theaters April 4! http://t.co/UvbAitoyKM",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 1,
+            "reply_count": 21,
+            "retweet_count": 289,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "441256986995220481"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "430113007927328768",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["430113007927328768"],
+            "editable_until_msecs": "1391383706860",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Sun Feb 02 22:58:26 +0000 2014",
+            "conversation_id_str": "430112003240493056",
+            "display_text_range": [0, 49],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "23420904",
+                        "name": "Hey Toby!",
+                        "screen_name": "heytoby",
+                        "indices": [0, 8]
+                    }
+                ]
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "full_text": "@heytoby It's Captain America: The Winter Soldier",
+            "in_reply_to_screen_name": "heytoby",
+            "in_reply_to_status_id_str": "430112003240493056",
+            "in_reply_to_user_id_str": "23420904",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "430113007927328768"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "330426851682025472",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["330426851682025472"],
+            "editable_until_msecs": "1367616675132",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 1,
+            "bookmarked": false,
+            "created_at": "Fri May 03 21:01:15 +0000 2013",
+            "conversation_id_str": "330426851682025472",
+            "display_text_range": [0, 134],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [26, 41],
+                        "text": "CaptainAmerica"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/yahcyujd7v",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/330426851682025472/photo/1",
+                        "id_str": "330426851690414080",
+                        "indices": [112, 134],
+                        "media_key": "3_330426851690414080",
+                        "media_url_https": "https://pbs.twimg.com/media/BJXpeI9CAAA3EGD.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/yAHCYUJD7V",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 468,
+                                "w": 1100,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 468,
+                                "w": 1100,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 289,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 468,
+                            "width": 1100,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_330426851690414080"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/yAHCYUJD7V",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/330426851682025472/photo/1",
+                        "id_str": "330426851690414080",
+                        "indices": [112, 134],
+                        "media_key": "3_330426851690414080",
+                        "media_url_https": "https://pbs.twimg.com/media/BJXpeI9CAAA3EGD.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/yAHCYUJD7V",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 468,
+                                "w": 1100,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 468,
+                                "w": 1100,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 289,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 468,
+                            "width": 1100,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_330426851690414080"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 47,
+            "favorited": false,
+            "full_text": "Prepare for the action in #CaptainAmerica: The Winter Soldier with this awesome concept art by Ryan Meinerding! http://t.co/yAHCYUJD7V",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 38,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "330426851682025472"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "450668623892189185",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["450668623892189185"],
+            "editable_until_msecs": "1396284547611",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Mon Mar 31 16:19:07 +0000 2014",
+            "conversation_id_str": "450668623892189185",
+            "display_text_range": [0, 144],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [13, 28],
+                        "text": "CaptainAmerica"
+                    },
+                    {
+                        "indices": [61, 75],
+                        "text": "WinterSoldier"
+                    },
+                    {
+                        "indices": [82, 93],
+                        "text": "BlackWidow"
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1pG81En",
+                        "expanded_url": "http://bit.ly/1pG81En",
+                        "url": "http://t.co/G2hJKE2Nw1",
+                        "indices": [122, 144]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 126,
+            "favorited": false,
+            "full_text": "Prep for the #CaptainAmerica movie this week w 99\u00a2 issues of #WinterSoldier &amp; #BlackWidow digital comics, today only! http://t.co/G2hJKE2Nw1",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 75,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "450668623892189185"
+        }
+    },
+    {
+        "__typename": "Tweet",
+        "rest_id": "392682022549716992",
+        "core": {
+            "user_results": {
+                "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjo3MDE2MTUwNTI=",
+                    "rest_id": "701615052",
+                    "affiliates_highlighted_label": {
+                        "label": {
+                            "url": {
+                                "url": "https://twitter.com/Marvel",
+                                "urlType": "DeepLink"
+                            },
+                            "badge": {
+                                "url": "https://pbs.twimg.com/profile_images/1560508217867718657/8ak-Td6l_bigger.jpg"
+                            },
+                            "description": "Marvel Entertainment",
+                            "userLabelType": "BusinessLabel",
+                            "userLabelDisplayType": "Badge"
+                        }
+                    },
+                    "is_blue_verified": true,
+                    "profile_image_shape": "Square",
+                    "legacy": {
+                        "created_at": "Tue Jul 17 19:19:12 +0000 2012",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "On your left.",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "fast_followers_count": 0,
+                        "favourites_count": 298,
+                        "followers_count": 3052539,
+                        "friends_count": 32,
+                        "has_custom_timelines": true,
+                        "is_translator": false,
+                        "listed_count": 4504,
+                        "location": "",
+                        "media_count": 638665,
+                        "name": "Captain America",
+                        "normal_followers_count": 3052539,
+                        "pinned_tweet_ids_str": [],
+                        "possibly_sensitive": false,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701615052/1628870106",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426210706991554561/UIqw6kpu_normal.jpg",
+                        "profile_interstitial_type": "",
+                        "screen_name": "CaptainAmerica",
+                        "statuses_count": 639699,
+                        "translator_type": "none",
+                        "verified": false,
+                        "verified_type": "Business",
+                        "withheld_in_countries": []
+                    },
+                    "tipjar_settings": {
+                        "is_enabled": false,
+                        "bandcamp_handle": "",
+                        "bitcoin_handle": "",
+                        "cash_app_handle": "",
+                        "ethereum_handle": "",
+                        "gofundme_handle": "",
+                        "patreon_handle": "",
+                        "pay_pal_handle": "",
+                        "venmo_handle": ""
+                    }
+                }
+            }
+        },
+        "unmention_data": {},
+        "edit_control": {
+            "edit_tweet_ids": ["392682022549716992"],
+            "editable_until_msecs": "1382459464512",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+        },
+        "is_translatable": false,
+        "views": {
+            "state": "Enabled"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "legacy": {
+            "bookmark_count": 3,
+            "bookmarked": false,
+            "created_at": "Tue Oct 22 16:01:04 +0000 2013",
+            "conversation_id_str": "392682022549716992",
+            "display_text_range": [0, 140],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [14, 29],
+                        "text": "CaptainAmerica"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.x.com/p6ihbd6lcu",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/392682022549716992/photo/1",
+                        "id_str": "392682021710884866",
+                        "indices": [118, 140],
+                        "media_key": "3_392682021710884866",
+                        "media_url_https": "https://pbs.twimg.com/media/BXMWN93CcAIaxK-.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/p6IHBD6lcu",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1332,
+                                "w": 900,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 811,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 459,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1332,
+                            "width": 900,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_392682021710884866"
+                            }
+                        }
+                    }
+                ],
+                "symbols": [],
+                "timestamps": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "24019308",
+                        "name": "iTunes Trailers",
+                        "screen_name": "iTunesTrailers",
+                        "indices": [101, 116]
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/p6IHBD6lcu",
+                        "expanded_url": "https://twitter.com/CaptainAmerica/status/392682022549716992/photo/1",
+                        "id_str": "392682021710884866",
+                        "indices": [118, 140],
+                        "media_key": "3_392682021710884866",
+                        "media_url_https": "https://pbs.twimg.com/media/BXMWN93CcAIaxK-.jpg",
+                        "type": "photo",
+                        "url": "http://t.co/p6IHBD6lcu",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1332,
+                                "w": 900,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 811,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 459,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1332,
+                            "width": 900,
+                            "focus_rects": []
+                        },
+                        "media_results": {
+                            "result": {
+                                "media_key": "3_392682021710884866"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 975,
+            "favorited": false,
+            "full_text": "The official \"#CaptainAmerica: The Winter Soldier\" poster is here! Teaser trailer in 2 days, only on @iTunesTrailers. http://t.co/p6IHBD6lcu",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 1,
+            "reply_count": 81,
+            "retweet_count": 1652,
+            "retweeted": false,
+            "user_id_str": "701615052",
+            "id_str": "392682022549716992"
+        }
+    }
+]
